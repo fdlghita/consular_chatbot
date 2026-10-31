@@ -56,7 +56,7 @@ ollama pull gemma:2b
 streamlit run src/lab6_app.py
 ```
 
-Run the Ollama service locally if it isn't already running. Open **http://localhost:8501**, load the default `src/data2/expanded_kb.ttl` RDF graph, and ask a question. The app needs sufficient memory to load the graph and local model. For entity extraction experiments, install the French spaCy model: `python -m spacy download fr_core_news_lg`.
+Run the Ollama service locally if it isn't already running. Open **http://localhost:8501**, load the included `src/data2/knowledge_graph.ttl` RDF graph, and ask a question. The app needs sufficient memory to load the graph and local model. For entity extraction experiments, install the French spaCy model: `python -m spacy download fr_core_news_lg`.
 
 ## Code map
 
@@ -78,8 +78,8 @@ For a module-by-module walkthrough, see the [original team's README](https://git
 ## Scope & limitations
 
 - **Academic prototype**, not an official Moroccan consular service. Verify any requirements, deadlines, or official procedures directly with the relevant authorities.
-- The local Ollama model is not bundled, and crawler runs may depend on third-party websites, access policies and environment setup.
-- Large training artifacts, Selenium executables, and generated caches are intentionally omitted. This portfolio edition retains representative code, RDF assets, an example interface screenshot, and published evaluation artifacts.
+- The expanded graph `src/data2/expanded_kb.ttl` is not mirrored because the large source asset could not be transferred reliably. The included smaller `src/data2/knowledge_graph.ttl` is suitable for demonstrating graph loading. In the app's sidebar, select that file, or download the expanded graph from the original repository if you want the complete KB. The local Ollama model is not bundled, and crawler runs may depend on third-party websites, access policies and environment setup.
+- Large training artifacts, Selenium executables, and generated caches are intentionally omitted. This portfolio edition retains representative code, RDF assets, an example interface screenshot, and published evaluation artifacts. The copied pipeline defaults to `expanded_kb.ttl`, so CLI RAG evaluation requires the expanded graph to be provided first.
 - **No independent end-to-end test** has been performed for this copied edition. Outputs are not guaranteed up to date.
 
 ## Team credit and provenance
