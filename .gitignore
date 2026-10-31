@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# PyKEEN model checkpoints (large binary files — link to release assets instead)
+src/data5/model_*/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+
+# Selenium driver (platform-specific)
+src/lab1_part1/chromedriver.exe
+src/lab1_part1/LICENSE.chromedriver
+
+# Logs
+*.log
