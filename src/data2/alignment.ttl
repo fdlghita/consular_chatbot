@@ -1,0 +1,3563 @@
+@prefix : <http://consulat.ma/kg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:03_ans a owl:Thing ;
+    rdfs:label "03) ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:06_novembre_2026 a owl:Thing ;
+    rdfs:label "06 novembre 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:10_ans a owl:Thing ;
+    rdfs:label "10 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:11_janvier a owl:Thing ;
+    rdfs:label "11 janvier"@fr,
+        "11 janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:11_janvier_2026 a owl:Thing ;
+    rdfs:label "11 janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:12_a_18_ans a owl:Thing ;
+    rdfs:label "12 à 18 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:12_ans a owl:Thing ;
+    rdfs:label "12 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:14_aout a owl:Thing ;
+    rdfs:label "14 août"@fr,
+        "14 août :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:14_aout_2026 a owl:Thing ;
+    rdfs:label "14 août 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:14_janvier a owl:Thing ;
+    rdfs:label "14 janvier"@fr,
+        "14 janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:14_janvier_2026 a owl:Thing ;
+    rdfs:label "14 janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:14_juillet a owl:Thing ;
+    rdfs:label "14 juillet"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:15_jours_ou a owl:Thing ;
+    rdfs:label "15 jours ou"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:16_ans a owl:Thing ;
+    rdfs:label "16 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:16_et_36_ans a owl:Thing ;
+    rdfs:label "16 et 36 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:16_juin a owl:Thing ;
+    rdfs:label "16 juin"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:17_juin a owl:Thing ;
+    rdfs:label "17 juin"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:17_juin_2026 a owl:Thing ;
+    rdfs:label "17 juin 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1885_1978 a owl:Thing ;
+    rdfs:label "1885-1978"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_ans a owl:Thing ;
+    rdfs:label "18 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_ans_au_moins a owl:Thing ;
+    rdfs:label "18 ans au moins"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_mois a owl:Thing ;
+    rdfs:label "18 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_mois_au_moins a owl:Thing ;
+    rdfs:label "18 mois au moins"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_novembre a owl:Thing ;
+    rdfs:label "18 novembre"@fr,
+        "18 novembre :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:18_novembre_2026 a owl:Thing ;
+    rdfs:label "18 novembre 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:19_mars a owl:Thing ;
+    rdfs:label "19 mars"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:19_mars_jour a owl:Thing ;
+    rdfs:label "19 mars + jour"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:19_ou_vendredi_20_mars a owl:Thing ;
+    rdfs:label "19 ou vendredi 20 mars :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1_an a owl:Thing ;
+    rdfs:label "1 an"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1_an_dage_beneficie_de_2_ans a owl:Thing ;
+    rdfs:label "1 an d’âge bénéficie de 2 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1_er_mai a owl:Thing ;
+    rdfs:label "1 er mai"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1_er_mai_2026 a owl:Thing ;
+    rdfs:label "1 er mai 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1er_avril a owl:Thing ;
+    rdfs:label "1er avril :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1er_janvier a owl:Thing ;
+    rdfs:label "1er janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1er_mai a owl:Thing ;
+    rdfs:label "1er mai"@fr,
+        "1er mai :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:1ere_annee_Apres_1_an a owl:Thing ;
+    rdfs:label "1ère année Après 1 an"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:20_aout a owl:Thing ;
+    rdfs:label "20 août"@fr,
+        "20 août :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:20_aout_2026 a owl:Thing ;
+    rdfs:label "20 août 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:20_mars a owl:Thing ;
+    rdfs:label "20 mars"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:21_aout a owl:Thing ;
+    rdfs:label "21 août"@fr,
+        "21 août :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:21_aout_2026 a owl:Thing ;
+    rdfs:label "21 août 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:21_avril a owl:Thing ;
+    rdfs:label "21 avril"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:21_avrill a owl:Thing ;
+    rdfs:label "21 avrill :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:24_24 a owl:Thing ;
+    rdfs:label "24/24"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:24_mois a owl:Thing ;
+    rdfs:label "24 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:25_ans a owl:Thing ;
+    rdfs:label "25 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:25_aout a owl:Thing ;
+    rdfs:label "25 août"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:25_aout_ou a owl:Thing ;
+    rdfs:label "25 août ou"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:25_decembre a owl:Thing ;
+    rdfs:label "25 décembre :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:25_decembre_2026 a owl:Thing ;
+    rdfs:label "25 décembre 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:26_aout a owl:Thing ;
+    rdfs:label "26 août"@fr,
+        "26 août :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:27_juin a owl:Thing ;
+    rdfs:label "27 juin"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:27_mai a owl:Thing ;
+    rdfs:label "27 mai"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:27_mai_jour a owl:Thing ;
+    rdfs:label "27 mai + jour"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:27_plus_jour_suivant_soit_jeudi a owl:Thing ;
+    rdfs:label "27 plus jour suivant soit jeudi"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:28_mai a owl:Thing ;
+    rdfs:label "28 mai"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:28_mai_2026 a owl:Thing ;
+    rdfs:label "28 mai 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:28_mai_jour a owl:Thing ;
+    rdfs:label "28 mai + jour"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:2_ans a owl:Thing ;
+    rdfs:label "2 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:30_jours a owl:Thing ;
+    rdfs:label "30 jours"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:30_juillet a owl:Thing ;
+    rdfs:label "30 juillet"@fr,
+        "30 juillet :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:30_juillet_2026 a owl:Thing ;
+    rdfs:label "30 juillet 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:31_mars a owl:Thing ;
+    rdfs:label "31 mars"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:31_octobre a owl:Thing ;
+    rdfs:label "31 octobre"@fr,
+        "31 octobre :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:31_octobre_2026 a owl:Thing ;
+    rdfs:label "31 octobre 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:3_ans a owl:Thing ;
+    rdfs:label "3 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:3_ans_dabattement a owl:Thing ;
+    rdfs:label "3 ans d’abattement,"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:4_mois_a_1an a owl:Thing ;
+    rdfs:label "4 mois à 1an"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:5_ans a owl:Thing ;
+    rdfs:label "5 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:5_septembre a owl:Thing ;
+    rdfs:label "5 septembre"@fr,
+        "5 septembre :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:60_ans a owl:Thing ;
+    rdfs:label "60 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:6_juin a owl:Thing ;
+    rdfs:label "6 juin"@fr,
+        "6 juin :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:6_mois a owl:Thing ;
+    rdfs:label "6 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:6_novembre a owl:Thing ;
+    rdfs:label "6 novembre :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:6_novembre_Anniversaire_de_la_Marche_verte_Mercredi a owl:Thing ;
+    rdfs:label "6 novembre Anniversaire de la Marche verte Mercredi"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:7_juin a owl:Thing ;
+    rdfs:label "7 juin"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:7j_7j a owl:Thing ;
+    rdfs:label "7j/7j"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:95200_Office_francais_de_limmigration_et_de_lintegration a owl:Thing ;
+    rdfs:label "95200 Office français de l'immigration et de l'intégration ("@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:95200_Tribunal_administratif_Absence_de_reponse_du_prefet a owl:Thing ;
+    rdfs:label "95200 Tribunal administratif Absence de réponse du préfet"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:95200_Tribunal_administratif_Quels a owl:Thing ;
+    rdfs:label "95200 Tribunal administratif Quels"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:9_mois a owl:Thing ;
+    rdfs:label "9 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:ACCEO a owl:Thing ;
+    rdfs:label "ACCEO"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:ACTIVER_MON_ESPACE_PERSONNEL a owl:Thing ;
+    rdfs:label "ACTIVER MON ESPACE PERSONNEL"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:AMCI a owl:Thing ;
+    rdfs:label "AMCI"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:ANEF a owl:Thing ;
+    rdfs:label "ANEF"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:ANEF_Benin a owl:Thing ;
+    rdfs:label "ANEF Bénin"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:ANEF_Service a owl:Thing ;
+    rdfs:label "ANEF Service"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Accepter_Plus a owl:Thing ;
+    rdfs:label "Accepter Plus"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Accepter_Plus_dinformations a owl:Thing ;
+    rdfs:label "Accepter Plus d'informations"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Accord a owl:Thing ;
+    rdfs:label "Accord"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Accueil_Prestations_consulaires a owl:Thing ;
+    rdfs:label "Accueil Prestations consulaires"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Accueil_Prestations_consulaires_Famille a owl:Thing ;
+    rdfs:label "Accueil Prestations consulaires Famille"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Adha a owl:Thing ;
+    rdfs:label "Aïd Al Adha"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Adha_Mardi a owl:Thing ;
+    rdfs:label "Aïd Al Adha* Mardi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Adha_Samedi a owl:Thing ;
+    rdfs:label "Aïd Al Adha* Samedi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Adha_Vendredi a owl:Thing ;
+    rdfs:label "Aïd Al Adha Vendredi"@fr,
+        "Aïd Al Adha* Vendredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Fitr a owl:Thing ;
+    rdfs:label "Aïd Al Fitr"@fr,
+        "Aïd Al Fitr *"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Fitr_Vendredi a owl:Thing ;
+    rdfs:label "Aïd Al Fitr* Vendredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Mawlid a owl:Thing ;
+    rdfs:label "Aïd Al Mawlid"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Mawlid_Jeudi a owl:Thing ;
+    rdfs:label "Aïd Al Mawlid Jeudi"@fr,
+        "Aïd Al Mawlid* Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_Al_Wahda a owl:Thing ;
+    rdfs:label "Aïd Al Wahda"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_El_Fitr_Lundi a owl:Thing ;
+    rdfs:label "Aïd El Fitr Lundi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Aid_El_Fitr_Mardi a owl:Thing ;
+    rdfs:label "Aïd El Fitr Mardi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Albert_Laprade a owl:Thing ;
+    rdfs:label "Albert Laprade"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Allo_Service_Public a owl:Thing ;
+    rdfs:label "Allô Service Public"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Allocation_temporaire_dattente a owl:Thing ;
+    rdfs:label "Allocation temporaire d'attente ("@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:An_Amazigh_Soit a owl:Thing ;
+    rdfs:label "An Amazigh Soit"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Antigua_et_Barbuda_Arabie a owl:Thing ;
+    rdfs:label "Antigua-et-Barbuda Arabie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Apostille_Lapostille a owl:Thing ;
+    rdfs:label "Apostille L’apostille"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Appeler a owl:Thing ;
+    rdfs:label "Appeler"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Asie a owl:Thing ;
+    rdfs:label "Asie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Assiduite_Resultats_aux_examens a owl:Thing ;
+    rdfs:label "Assiduité Résultats aux examens"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Avocat a owl:Thing ;
+    rdfs:label "Avocat"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Avril_2024 a owl:Thing ;
+    rdfs:label "Avril 2024"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Bd_Abou_Obeida a owl:Thing ;
+    rdfs:label "Bd Abou Obeida"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Belgique_Maldives a owl:Thing ;
+    rdfs:label "Belgique Maldives"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Belize_Benin a owl:Thing ;
+    rdfs:label "Belize Bénin"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Benin_Bhoutan a owl:Thing ;
+    rdfs:label "Bénin Bhoutan"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Besoin_daide a owl:Thing ;
+    rdfs:label "Besoin d'aide"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Blinklist a owl:Thing ;
+    rdfs:label "Blinklist"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Bolivie_Bosnie_Herzegovine a owl:Thing ;
+    rdfs:label "Bolivie Bosnie-Herzégovine"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Bolivie_Bresil a owl:Thing ;
+    rdfs:label "Bolivie Brésil"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Bresil_Brunei a owl:Thing ;
+    rdfs:label "Brésil Brunéi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:CDD a owl:Thing ;
+    rdfs:label "CDD"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:CDI a owl:Thing ;
+    rdfs:label "CDI"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:CNI a owl:Thing ;
+    rdfs:label "CNI"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:CNIE a owl:Thing ;
+    rdfs:label "CNIE"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:CNIE_du_demandeur a owl:Thing ;
+    rdfs:label "CNIE du demandeur"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:C_Conduire a owl:Thing ;
+    rdfs:label "C. Conduire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cameroun a owl:Thing ;
+    rdfs:label "Cameroun"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cap_Vert_Centreafrique a owl:Thing ;
+    rdfs:label "Cap-Vert Centreafrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Carte_Nationale_dIdentite_et_Passeport a owl:Thing ;
+    rdfs:label "Carte Nationale d’Identité et Passeport"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Carte_dIdentite_Nationale_Electronique a owl:Thing ;
+    rdfs:label "Carte d’Identité Nationale Électronique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Carte_de_residence a owl:Thing ;
+    rdfs:label "Carte de résidence"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Carte_didentite_nationale a owl:Thing ;
+    rdfs:label "Carte d'identité nationale"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cartographie_Suivi_des_affaires_en_justice a owl:Thing ;
+    rdfs:label "Cartographie Suivi des affaires en justice"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Centre_du_casier_judiciaire_national a owl:Thing ;
+    rdfs:label "Centre du casier judiciaire national"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Certaines_uvres_de_bienfaisance a owl:Thing ;
+    rdfs:label "Certaines œuvres de bienfaisance"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cette a owl:Thing ;
+    rdfs:label "Cette"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Choisissez_un_Pays a owl:Thing ;
+    rdfs:label "Choisissez un Pays"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Choisissez_un_Pays_Afrique_du_Sud a owl:Thing ;
+    rdfs:label "Choisissez un Pays Afrique du Sud"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Choisissez_ville a owl:Thing ;
+    rdfs:label "Choisissez ville"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Cliquer a owl:Thing ;
+    rdfs:label "Cliquer"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Colloques a owl:Thing ;
+    rdfs:label "Colloques"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Colombie_Equateur_Etats_Unis a owl:Thing ;
+    rdfs:label "Colombie Equateur États-Unis"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Comores a owl:Thing ;
+    rdfs:label "Comores"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Conakry a owl:Thing ;
+    rdfs:label "Conakry"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Consulter_Divorce a owl:Thing ;
+    rdfs:label "Consulter Divorce"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Contrat a owl:Thing ;
+    rdfs:label "Contrat"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Convention_collective a owl:Thing ;
+    rdfs:label "Convention collective"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Convention_de_La_Haye a owl:Thing ;
+    rdfs:label "Convention de La Haye"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Copie_Integrale_de_lacte_de_naissance_datee a owl:Thing ;
+    rdfs:label "Copie Intégrale de l’acte de naissance datée"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_de_la_CNIE a owl:Thing ;
+    rdfs:label "Copie de la CNIE"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_de_la_CNIE_du_pere a owl:Thing ;
+    rdfs:label "Copie de la CNIE du père"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_de_la_piece_dIdentite_de_lepouse a owl:Thing ;
+    rdfs:label "Copie de la pièce d’Identité de l’épouse"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_du_Passeport a owl:Thing ;
+    rdfs:label "Copie du Passeport"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_du_livret_de_famille_perdu a owl:Thing ;
+    rdfs:label "Copie du livret de famille perdu"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_dacte_de_naissance a owl:Thing ;
+    rdfs:label "Copie intégrale d'acte de naissance"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de a owl:Thing ;
+    rdfs:label "Copie intégrale de"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_lacte_de_naissance a owl:Thing ;
+    rdfs:label "Copie intégrale de l’acte de naissance"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_lacte_de_naissance_datee_de_moins_de_six a owl:Thing ;
+    rdfs:label "Copie intégrale de l’acte de naissance datée de moins de six"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_lacte_de_naissance_de_chacun_de_vos_enfants a owl:Thing ;
+    rdfs:label "Copie intégrale de l'acte de naissance de chacun de vos enfants"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_lacte_de_naissance_de_la_mere a owl:Thing ;
+    rdfs:label "Copie intégrale de l’acte de naissance de la mère"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_lacte_de_naissance_de_votre_epoux a owl:Thing ;
+    rdfs:label "Copie intégrale de l'acte de naissance de votre époux"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Copie_integrale_de_votre_acte_de_naissance a owl:Thing ;
+    rdfs:label "Copie intégrale de votre acte de naissance"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Cote_dIvoire_Croatie a owl:Thing ;
+    rdfs:label "Côte d’Ivoire Croatie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cote_dIvoire_Djibouti a owl:Thing ;
+    rdfs:label "Côte d'Ivoire Djibouti"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Cote_dIvoire_Gabon a owl:Thing ;
+    rdfs:label "Côte d'Ivoire, Gabon"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Courriel_Copier a owl:Thing ;
+    rdfs:label "Courriel Copier"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:DILA a owl:Thing ;
+    rdfs:label "DILA"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Danemark_Emirats a owl:Thing ;
+    rdfs:label "Danemark Émirats"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Deces a owl:Thing ;
+    rdfs:label "Décès"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Decret_CNIE_Cliquer a owl:Thing ;
+    rdfs:label "Décret CNIE Cliquer"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Delivrance_de_la_CNIE a owl:Thing ;
+    rdfs:label "Délivrance de la CNIE"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Delivrance_de_la_fiche_anthropometrique a owl:Thing ;
+    rdfs:label "Délivrance de la fiche anthropométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Delivrance_du_passeport_biometrique a owl:Thing ;
+    rdfs:label "Délivrance du passeport biométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Dem_du_Congo a owl:Thing ;
+    rdfs:label "Dem. du Congo"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Demander a owl:Thing ;
+    rdfs:label "Demander"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Depuis_aout_2016 a owl:Thing ;
+    rdfs:label "Depuis août 2016"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Diigo a owl:Thing ;
+    rdfs:label "Diigo"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Diigo_Douban a owl:Thing ;
+    rdfs:label "Diigo Douban"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Dimanche_Liste a owl:Thing ;
+    rdfs:label "Dimanche Liste"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Direction_des_Affaires_Civiles_Rabat a owl:Thing ;
+    rdfs:label "Direction des Affaires Civiles - Rabat –"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Direction_des_Affaires_Consulaires_et_Sociales a owl:Thing ;
+    rdfs:label "Direction des Affaires Consulaires et Sociales"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Direction_du_Protocole a owl:Thing ;
+    rdfs:label "Direction du Protocole"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Douane a owl:Thing ;
+    rdfs:label "Douane"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Draugiem a owl:Thing ;
+    rdfs:label "Draugiem"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droit_de_chancellerie_Formulaire_Observations_Pieces a owl:Thing ;
+    rdfs:label "Droit de chancellerie Formulaire Observations Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Pieces a owl:Thing ;
+    rdfs:label "Droits de chancellerie Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Pieces_a_fournir_Immatriculation_consulaire a owl:Thing ;
+    rdfs:label "Droits de chancellerie Pièces à fournir Immatriculation consulaire"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Presentation_Cet a owl:Thing ;
+    rdfs:label "Droits de chancellerie Présentation Cet"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Presentation_Pieces a owl:Thing ;
+    rdfs:label "Droits de chancellerie Présentation Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Procedure a owl:Thing ;
+    rdfs:label "Droits de chancellerie Procédure"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Droits de chancellerie Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Droits_de_chancellerie_Voir a owl:Thing ;
+    rdfs:label "Droits de chancellerie Voir"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:El_Jarrah_Fes_Maroc_Ouvrir a owl:Thing ;
+    rdfs:label "El Jarrah Fes Maroc Ouvrir"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Emirats_Arabes_Unies_et_Espagne a owl:Thing ;
+    rdfs:label "Emirats Arabes Unies et Espagne"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Espagne_Etats_Unis a owl:Thing ;
+    rdfs:label "Espagne États-Unis"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Etats_Unis_dAmerique_Suisse a owl:Thing ;
+    rdfs:label "Etats-Unis d'Amérique Suisse"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Ethiopie a owl:Thing ;
+    rdfs:label "Ethiopie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Europe a owl:Thing ;
+    rdfs:label "Europe"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fark a owl:Thing ;
+    rdfs:label "Fark"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Fermer a owl:Thing ;
+    rdfs:label "Fermer"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Fermer_Jeudi a owl:Thing ;
+    rdfs:label "Fermer Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fermer_Lentree a owl:Thing ;
+    rdfs:label "Fermer L’entrée"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fermer_Mercredi a owl:Thing ;
+    rdfs:label "Fermer Mercredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fermer_Samedi a owl:Thing ;
+    rdfs:label "Fermer Samedi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fermer_Vous a owl:Thing ;
+    rdfs:label "Fermer Vous"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fermer_la a owl:Thing ;
+    rdfs:label "Fermer la"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fes_Adresse a owl:Thing ;
+    rdfs:label "Fès Adresse"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fes_Carine_Foeller a owl:Thing ;
+    rdfs:label "Fès Carine Foeller"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fete_de_lIndependance_Vendredi_25_decembre_Noel a owl:Thing ;
+    rdfs:label "Fête de l’Indépendance Vendredi 25 décembre Noël"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Fete_de_la_jeunesse_Mardi a owl:Thing ;
+    rdfs:label "Fête de la jeunesse Mardi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fete_du_Travail_Mercredi a owl:Thing ;
+    rdfs:label "Fête du Travail Mercredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fete_du_Travail_Vendredi a owl:Thing ;
+    rdfs:label "Fête du Travail Vendredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fete_du_Trone_Jeudi a owl:Thing ;
+    rdfs:label "Fête du Trône Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Fete_du_Trone_Vendredi a owl:Thing ;
+    rdfs:label "Fête du Trône Vendredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Formulaire_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Formulaire Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Demande_du_livret_de_famille a owl:Thing ;
+    rdfs:label "Formulaires Demande du livret de famille"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Formulaires Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Droits_de_chancellerie_Presentation_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Formulaires Droits de chancellerie Présentation Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Formulaire a owl:Thing ;
+    rdfs:label "Formulaires Formulaire"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Observations_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Formulaires Observations Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Formulaires_Observations_Droits_de_chancellerie_Presentation_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Formulaires Observations Droits de chancellerie Présentation Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:France_Consulaire_du_lundi a owl:Thing ;
+    rdfs:label "France Consulaire du lundi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:France_visas a owl:Thing ;
+    rdfs:label "France-visas"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Gabon a owl:Thing ;
+    rdfs:label "Gabon"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Gabon_Gambie a owl:Thing ;
+    rdfs:label "Gabon Gambie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Georgie_Royaume_Uni a owl:Thing ;
+    rdfs:label "Géorgie Royaume-Uni"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Google_Gmail a owl:Thing ;
+    rdfs:label "Google Gmail"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Grece_Grenade a owl:Thing ;
+    rdfs:label "Grèce Grenade"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Grece_Irlande a owl:Thing ;
+    rdfs:label "Grèce Irlande"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Guinee a owl:Thing ;
+    rdfs:label "Guinée"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Guinee_Guinee a owl:Thing ;
+    rdfs:label "Guinée Guinée"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Guyana_Haiti a owl:Thing ;
+    rdfs:label "Guyana Haïti"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Hatena a owl:Thing ;
+    rdfs:label "Hatena"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Hatena_Houzz a owl:Thing ;
+    rdfs:label "Hatena Houzz"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Hong_Kong a owl:Thing ;
+    rdfs:label "Hong Kong"@fr,
+        "Hong-Kong"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Hongrie a owl:Thing ;
+    rdfs:label "Hongrie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Hongrie_Ile a owl:Thing ;
+    rdfs:label "Hongrie Île"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Hotel_de_la_subdivision a owl:Thing ;
+    rdfs:label "« Hôtel de la subdivision »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Immatriculation_Consulaire a owl:Thing ;
+    rdfs:label "« Immatriculation Consulaire »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Immatriculation_consulaire a owl:Thing ;
+    rdfs:label "Immatriculation consulaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Indonesie_Jordanie a owl:Thing ;
+    rdfs:label "Indonésie Jordanie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Integration_de_la_famille_Votre_epoux_se a owl:Thing ;
+    rdfs:label "Intégration de la famille Votre époux(se)"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Irlande_Islande a owl:Thing ;
+    rdfs:label "Irlande Islande"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Ishhad_Moulhaq a owl:Thing ;
+    rdfs:label "« Ishhad Moulhaq »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Istilhaq a owl:Thing ;
+    rdfs:label "Istilhaq"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Jamaique_Japon a owl:Thing ;
+    rdfs:label "Jamaïque Japon"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Jeudi a owl:Thing ;
+    rdfs:label "Jeudi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Jeudi_1_er_janvier a owl:Thing ;
+    rdfs:label "Jeudi 1 er janvier"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Jeudi_1_er_janvier_2026 a owl:Thing ;
+    rdfs:label "Jeudi 1 er janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Jeudi_1_janvier a owl:Thing ;
+    rdfs:label "Jeudi 1 janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Jeudi_1er_janvier a owl:Thing ;
+    rdfs:label "Jeudi 1er janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Jour_de_lAn_Mercredi a owl:Thing ;
+    rdfs:label "Jour de l’An Mercredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Journee_de_Oued_Eddahab a owl:Thing ;
+    rdfs:label "Journée de Oued Eddahab"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Kakao_Kik a owl:Thing ;
+    rdfs:label "Kakao Kik"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Kenya_Liban a owl:Thing ;
+    rdfs:label "Kenya Liban"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Kiribati_Koweit a owl:Thing ;
+    rdfs:label "Kiribati Koweït"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Koweit a owl:Thing ;
+    rdfs:label "Koweït"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:La_CNIE a owl:Thing ;
+    rdfs:label "La CNIE"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Laissez_Passer a owl:Thing ;
+    rdfs:label "Laissez-Passer"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Laissez_passer_Le_laissez_passer a owl:Thing ;
+    rdfs:label "Laissez-passer Le laissez-passer"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Le_Consulat_general a owl:Thing ;
+    rdfs:label "Le Consulat général"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Le_Secretaire_General_du_Ministere_de_la_Justice a owl:Thing ;
+    rdfs:label "Le Secrétaire Général du Ministère de la Justice"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Le_laissez_passer a owl:Thing ;
+    rdfs:label "Le laissez-passer"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Le_passeport_biometrique a owl:Thing ;
+    rdfs:label "Le passeport biométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Le_service_France_Consulaire a owl:Thing ;
+    rdfs:label "Le service France Consulaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_Procureurs_du_Roi a owl:Thing ;
+    rdfs:label "Les Procureurs du Roi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_Walis_et a owl:Thing ;
+    rdfs:label "Les Walis et"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_associations_reconnues_dutilite_publique a owl:Thing ;
+    rdfs:label "Les associations reconnues d’utilité publique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_bureaux_du_Consulat_general a owl:Thing ;
+    rdfs:label "Les bureaux du Consulat général"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_federations_sportives_marocaines a owl:Thing ;
+    rdfs:label "Les fédérations sportives marocaines"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Les_livrets_didentite_et_detat_civil a owl:Thing ;
+    rdfs:label "Les livrets d'identité et d'état civil"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Lettonie a owl:Thing ;
+    rdfs:label "Lettonie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Lettonie_Liban a owl:Thing ;
+    rdfs:label "Lettonie Liban"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Liberia_Libye a owl:Thing ;
+    rdfs:label "Libéria Libye"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Livret_de_famille a owl:Thing ;
+    rdfs:label "Livret de famille"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Livret_de_famille_de_linteresse a owl:Thing ;
+    rdfs:label "Livret de famille de l’intéressé ("@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Livret_didentite_et_detat_civil a owl:Thing ;
+    rdfs:label "Livret d’identité et d’état civil"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Lundi a owl:Thing ;
+    rdfs:label "Lundi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Lundi_de_Paques_Jeudi a owl:Thing ;
+    rdfs:label "Lundi de Pâques Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Luxembourg_Australie a owl:Thing ;
+    rdfs:label "Luxembourg Australie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:MENTIONS_LEGALES a owl:Thing ;
+    rdfs:label "MENTIONS LÉGALES"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Malaisie_Malawi a owl:Thing ;
+    rdfs:label "Malaisie Malawi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Malaisie_Mali_Maldives a owl:Thing ;
+    rdfs:label "Malaisie Mali Maldives"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Mardi a owl:Thing ;
+    rdfs:label "Mardi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Mariage a owl:Thing ;
+    rdfs:label "Mariage"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold",
+        "Defined locally: Type LOC defined locally" .
+
+:Mariage_Ishhad_moulhaq a owl:Thing ;
+    rdfs:label "Mariage Ishhad moulhaq"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Mariage_Tentative_de_reconciliation a owl:Thing ;
+    rdfs:label "Mariage Tentative de réconciliation"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Mariage_de_lhandicape_mental a owl:Thing ;
+    rdfs:label "Mariage de l’handicapé mental"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Mariage_des_convertis_a a owl:Thing ;
+    rdfs:label "Mariage des convertis à"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Maroc_Consulter a owl:Thing ;
+    rdfs:label "Maroc Consulter"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Maroc_Consulter_Admission_temporaire a owl:Thing ;
+    rdfs:label "Maroc Consulter Admission temporaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Maroc_Ouvrir a owl:Thing ;
+    rdfs:label "Maroc Ouvrir"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Maurice_Mauritanie a owl:Thing ;
+    rdfs:label "Maurice Mauritanie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Mendeley a owl:Thing ;
+    rdfs:label "Mendeley"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Mercredi a owl:Thing ;
+    rdfs:label "Mercredi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Mercredi_1er_janvier a owl:Thing ;
+    rdfs:label "Mercredi 1er janvier :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Mercredi_1er_janvier_2025 a owl:Thing ;
+    rdfs:label "Mercredi 1er janvier 2025"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Micronesie_Moldavie a owl:Thing ;
+    rdfs:label "Micronésie Moldavie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale a owl:Thing ;
+    rdfs:label "Ministère des Affaires Etrangères et de la Coopération Internationale"@fr,
+        "Ministère des Affaires Étrangères et de la Coopération Internationale"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:Moharram a owl:Thing ;
+    rdfs:label "Moharram"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moharram_Jeudi a owl:Thing ;
+    rdfs:label "Moharram Jeudi"@fr,
+        "Moharram* Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moharram_Mardi a owl:Thing ;
+    rdfs:label "Moharram* Mardi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moharram_Mercredi a owl:Thing ;
+    rdfs:label "Moharram Mercredi"@fr,
+        "Moharram* Mercredi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moulay a owl:Thing ;
+    rdfs:label "Moulay"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moulay_Abdellah a owl:Thing ;
+    rdfs:label "Moulay Abdellah"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moyen_Parfait a owl:Thing ;
+    rdfs:label "Moyen Parfait"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Moyen_Vous_avez a owl:Thing ;
+    rdfs:label "Moyen Vous avez"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:MySpace a owl:Thing ;
+    rdfs:label "MySpace"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Naissance a owl:Thing ;
+    rdfs:label "Naissance"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Namibie_Nauru a owl:Thing ;
+    rdfs:label "Namibie Nauru"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:National_de_Securite_Sanitaire_des_produits_alimentaires a owl:Thing ;
+    rdfs:label "National de Sécurité Sanitaire des produits alimentaires"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Netvouz a owl:Thing ;
+    rdfs:label "Netvouz"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Nevada a owl:Thing ;
+    rdfs:label "Nevada"@fr ;
+    rdfs:comment "Defined locally: Type LOC defined locally" .
+
+:Niger_Philippines a owl:Thing ;
+    rdfs:label "Niger Philippines"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Nigeria_Norvege a owl:Thing ;
+    rdfs:label "Nigéria Norvège"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Noel a owl:Thing ;
+    rdfs:label "Noël"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Nous_ecrire a owl:Thing ;
+    rdfs:label "Nous écrire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Nous_ecrire_Pour a owl:Thing ;
+    rdfs:label "Nous écrire Pour"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Nouvel_An_Amazigh_Jeudi a owl:Thing ;
+    rdfs:label "Nouvel An Amazigh Jeudi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Nouvel_an_Amazigh_Lundi a owl:Thing ;
+    rdfs:label "Nouvel an Amazigh Lundi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Observation_Presentation_Pour a owl:Thing ;
+    rdfs:label "Observation Présentation Pour"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Conformement a owl:Thing ;
+    rdfs:label "Observations Conformément"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Observations_Droits_de_chancellerie_Formulaires a owl:Thing ;
+    rdfs:label "Observations Droits de chancellerie Formulaires"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Droits_de_chancellerie_Formulaires_Presentation a owl:Thing ;
+    rdfs:label "Observations Droits de chancellerie Formulaires Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Droits_de_chancellerie_REGLEMENTATION_Presentation a owl:Thing ;
+    rdfs:label "Observations Droits de chancellerie RÉGLEMENTATION Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Droits_de_chancellerie_REGLEMENTATION_Presentation_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Observations Droits de chancellerie RÉGLEMENTATION Présentation Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Procedure a owl:Thing ;
+    rdfs:label "Observations Procédure"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Observations_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Observations Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Office_francais_de_limmigration_et_de_lintegration a owl:Thing ;
+    rdfs:label "Office français de l'immigration et de l'intégration"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Office_francais_de_limmigration_et_de_lintegration_Smic a owl:Thing ;
+    rdfs:label "Office français de l'immigration et de l'intégration Smic"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Papaly a owl:Thing ;
+    rdfs:label "Papaly"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Passeports_des_interesses a owl:Thing ;
+    rdfs:label "Passeports des intéressés"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Pays_Bas_Perou a owl:Thing ;
+    rdfs:label "Pays-Bas Pérou"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Photocopie_de_la_CNIE_de_linteresse_e a owl:Thing ;
+    rdfs:label "Photocopie de la CNIE de l’intéressé(e)"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Pivot_Local a owl:Thing ;
+    rdfs:label "Pivot Local"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Pivot_Local_Quelle a owl:Thing ;
+    rdfs:label "Pivot Local Quelle"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Portail a owl:Thing ;
+    rdfs:label "Portail"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Portail_APOSTILLE a owl:Thing ;
+    rdfs:label "Portail APOSTILLE"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Portail_National_des_Reclamations a owl:Thing ;
+    rdfs:label "Portail National des Réclamations"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presenation_Observation a owl:Thing ;
+    rdfs:label "Présenation Observation"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Presentation a owl:Thing ;
+    rdfs:label "Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Le_Ministere_de_la_Justice a owl:Thing ;
+    rdfs:label "Présentation Le Ministère de la Justice"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Les_Marocains a owl:Thing ;
+    rdfs:label "Présentation Les Marocains"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Observations a owl:Thing ;
+    rdfs:label "Présentation Observations"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Procedure a owl:Thing ;
+    rdfs:label "Présentation Procédure"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Procedure_Pieces a owl:Thing ;
+    rdfs:label "Présentation Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Presentation_Procedure_Presentation_Lapostille a owl:Thing ;
+    rdfs:label "Présentation Procédure Présentation L’apostille"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees a owl:Thing ;
+    rdfs:label "Préstations associées"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees_Abattement_de_vieillissement_de_vehicules_Consulter_Benefi a owl:Thing ;
+    rdfs:label "Préstations associées Abattement de vieillissement de véhicules Consulter Bénéfice"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees_Attestation_administrative a owl:Thing ;
+    rdfs:label "Préstations associées Attestation administrative"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees_Certification_de_conformite_de_documents a owl:Thing ;
+    rdfs:label "Préstations associées Certification de conformité de documents"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees_Divorce a owl:Thing ;
+    rdfs:label "Préstations associées Divorce"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_associees_Enregistrement_du_mariage_civil a owl:Thing ;
+    rdfs:label "Préstations associées Enregistrement du mariage civil"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Prestations_familiales_Revenu_de_solidarite_active a owl:Thing ;
+    rdfs:label "Prestations familiales Revenu de solidarité active"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Prix_de_lappel_min a owl:Thing ;
+    rdfs:label "Prix de l'appel /min"@fr,
+        "Prix de l'appel /min )"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Droits a owl:Thing ;
+    rdfs:label "Procédure Droits"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Procédure Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Droits_de_chancellerie_Presentation_Pieces a owl:Thing ;
+    rdfs:label "Procédure Droits de chancellerie Présentation Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Droits_de_chancellerie_Presentation_Tout a owl:Thing ;
+    rdfs:label "Procédure Droits de chancellerie Présentation Tout"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Formulaires_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Procédure Formulaires Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Formulaires_Droits_de_chancellerie_Presentation_Pieces a owl:Thing ;
+    rdfs:label "Procédure Formulaires Droits de chancellerie Présentation Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Formulaires_Observations a owl:Thing ;
+    rdfs:label "Procédure Formulaires Observations"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Formulaires_Observations_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Procédure Formulaires Observations Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Formulaires_Observations_Droits_de_chancellerie_Presentation_Pieces a owl:Thing ;
+    rdfs:label "Procédure Formulaires Observations Droits de chancellerie Présentation Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_La_Carte_Nationale_dIdentite_Electronique a owl:Thing ;
+    rdfs:label "Procédure La Carte Nationale d’Identité Electronique"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Lentite_qui_souhaite_beneficier_de_lexoneration_des_droits_et_taxes a owl:Thing ;
+    rdfs:label "Procédure L’entité qui souhaite bénéficier de l’exonération des droits et taxes"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Observations_Droits_de_chancellerie_Presentation a owl:Thing ;
+    rdfs:label "Procédure Observations Droits de chancellerie Présentation"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Ouverture a owl:Thing ;
+    rdfs:label "Procédure Ouverture"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Pieces a owl:Thing ;
+    rdfs:label "Procédure Pièces"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Procedure_Remplir a owl:Thing ;
+    rdfs:label "Procédure Remplir"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Protopage a owl:Thing ;
+    rdfs:label "Protopage"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:REP a owl:Thing ;
+    rdfs:label "REP"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Rabat_Hassan a owl:Thing ;
+    rdfs:label "Rabat-Hassan"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Rabat_Mis a owl:Thing ;
+    rdfs:label "Rabat Mis"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Refugies_et_Apatrides_Formulaire a owl:Thing ;
+    rdfs:label "Réfugiés et Apatrides Formulaire"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Renouvellement_de_la_CNIE a owl:Thing ;
+    rdfs:label "Renouvellement de la CNIE"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Republique_du_Congo_Brazzaville a owl:Thing ;
+    rdfs:label "République du Congo Brazzaville"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Reseaux_sociaux_Profil a owl:Thing ;
+    rdfs:label "Réseaux sociaux Profil"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Resultat_des_negociations_menees a owl:Thing ;
+    rdfs:label "Résultat des négociations menées"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Retrait_de_la_fiche_anthropometrique a owl:Thing ;
+    rdfs:label "Retrait de la fiche anthropométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Russie a owl:Thing ;
+    rdfs:label "Russie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Russie_Suede a owl:Thing ;
+    rdfs:label "Russie Suède"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Russie_Turquie a owl:Thing ;
+    rdfs:label "Russie Turquie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Samedi a owl:Thing ;
+    rdfs:label "Samedi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Samedi_11_janvier_Lundi_31_mars a owl:Thing ;
+    rdfs:label "Samedi 11 janvier Lundi 31 mars :"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:Serbie_Seychelles a owl:Thing ;
+    rdfs:label "Serbie Seychelles"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Service_France_Consulaire a owl:Thing ;
+    rdfs:label "Service France Consulaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Services_Consulaires_du_Maroc a owl:Thing ;
+    rdfs:label "Services Consulaires du Maroc"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Services_aux_Francaises_et_Francais a owl:Thing ;
+    rdfs:label "Services aux Françaises et Français"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Singapour_Slovaquie a owl:Thing ;
+    rdfs:label "Singapour Slovaquie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Singapour_Taiwan_Thailande a owl:Thing ;
+    rdfs:label "Singapour Taïwan Thaïlande"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Stagiaire a owl:Thing ;
+    rdfs:label "Stagiaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Suede_Suisse a owl:Thing ;
+    rdfs:label "Suède Suisse"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Sultanat_dOman a owl:Thing ;
+    rdfs:label "Sultanat d'Oman"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Svejo a owl:Thing ;
+    rdfs:label "Svejo"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Syrie_Tadjikistan a owl:Thing ;
+    rdfs:label "Syrie Tadjikistan"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Tanzanie_Tchad a owl:Thing ;
+    rdfs:label "Tanzanie Tchad"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Tchequie_Thailande a owl:Thing ;
+    rdfs:label "Tchéquie Thaïlande"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Threema_Trello a owl:Thing ;
+    rdfs:label "Threema Trello"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Togo_Le_Benin a owl:Thing ;
+    rdfs:label "Togo Le Bénin"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Togo_Tonga a owl:Thing ;
+    rdfs:label "Togo Tonga"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Touring_Club_du_Maroc a owl:Thing ;
+    rdfs:label "« Touring Club du Maroc »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Touring_club a owl:Thing ;
+    rdfs:label "« Touring club »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Tunisie_Autre a owl:Thing ;
+    rdfs:label "Tunisie Autre"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Tunisie_Turkmenistan a owl:Thing ;
+    rdfs:label "Tunisie Turkménistan"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Turquie_Islande a owl:Thing ;
+    rdfs:label "Turquie Islande"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Turquie_Togo a owl:Thing ;
+    rdfs:label "Turquie Togo"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Turquie_Tuvalu a owl:Thing ;
+    rdfs:label "Turquie Tuvalu"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Twiddla a owl:Thing ;
+    rdfs:label "Twiddla"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Union_europeenne a owl:Thing ;
+    rdfs:label "Union européenne"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:VLS_TS a owl:Thing ;
+    rdfs:label "VLS-TS"@fr,
+        "VLS/TS"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Vendredi a owl:Thing ;
+    rdfs:label "Vendredi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:Visa a owl:Thing ;
+    rdfs:label "Visa"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Visa_de_long_sejour a owl:Thing ;
+    rdfs:label "Visa de long séjour"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Visitez_le_Maroc a owl:Thing ;
+    rdfs:label "Visitez le Maroc"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Votre_epoux_se a owl:Thing ;
+    rdfs:label "Votre époux(se"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:WeChat a owl:Thing ;
+    rdfs:label "WeChat"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:WordPress a owl:Thing ;
+    rdfs:label "WordPress"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:Yahoo_Messenger a owl:Thing ;
+    rdfs:label "Yahoo Messenger"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:Yemen_Zambie a owl:Thing ;
+    rdfs:label "Yémen Zambie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:arabe a owl:Thing ;
+    rdfs:label "arabe"@fr ;
+    rdfs:comment "Defined locally: Type LOC defined locally" .
+
+:au_Service_Consulaire_du_lieu_de_leurs_residences_pour_la_prise_dempreintes_digi a owl:Thing ;
+    rdfs:label "au Service Consulaire du lieu de leurs résidences pour la prise d’empreintes digitales"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:au_moins_18_ans a owl:Thing ;
+    rdfs:label "au moins 18 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:avant_octobre_2002 a owl:Thing ;
+    rdfs:label "avant octobre 2002"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:bureau_detat_civil a owl:Thing ;
+    rdfs:label "bureau d’état-civil"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:conf_AOL a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q27585 ;
+    :privateEntity :AOL .
+
+:conf_AOL_Mail a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1144220 ;
+    :privateEntity :AOL_Mail .
+
+:conf_Afghanistan a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q889 ;
+    :privateEntity :Afghanistan .
+
+:conf_Afrique_du_Nord a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q27381 ;
+    :privateEntity :Afrique_du_Nord .
+
+:conf_Agadir a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q170525 ;
+    :privateEntity :Agadir .
+
+:conf_Algerie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q262 ;
+    :privateEntity :Algerie .
+
+:conf_Amazon a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q3884 ;
+    :privateEntity :Amazon .
+
+:conf_American_Express a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q194360 ;
+    :privateEntity :American_Express .
+
+:conf_Angola a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q916 ;
+    :privateEntity :Angola .
+
+:conf_Antigua_et_Barbuda a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q781 ;
+    :privateEntity :Antigua_et_Barbuda .
+
+:conf_Apostille a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q309473 ;
+    :privateEntity :Apostille .
+
+:conf_Arabie_Saoudite a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q851 ;
+    :privateEntity :Arabie_Saoudite .
+
+:conf_Aymeric_CHUZEVILLE a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q47657010 ;
+    :privateEntity :Aymeric_CHUZEVILLE .
+
+:conf_Bahamas a :AlignmentConfidence ;
+    :confidenceScore 0.866 ;
+    :externalEntity wd:Q778 ;
+    :privateEntity :Bahamas .
+
+:conf_Bahrein a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q398 ;
+    :privateEntity :Bahrein .
+
+:conf_Balatarin a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q3943935 ;
+    :privateEntity :Balatarin .
+
+:conf_Bangladesh a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q902 ;
+    :privateEntity :Bangladesh .
+
+:conf_Barbade a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q244 ;
+    :privateEntity :Barbade .
+
+:conf_Belgique a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q31 ;
+    :privateEntity :Belgique .
+
+:conf_Botswana a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q963 ;
+    :privateEntity :Botswana .
+
+:conf_Bulgarie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q219 ;
+    :privateEntity :Bulgarie .
+
+:conf_Bulletin a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q88163834 ;
+    :privateEntity :Bulletin .
+
+:conf_Burkina_Faso a :AlignmentConfidence ;
+    :confidenceScore 0.675,
+        0.975 ;
+    :externalEntity wd:Q965 ;
+    :privateEntity :Burkina_Faso .
+
+:conf_Burundi a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q967 ;
+    :privateEntity :Burundi .
+
+:conf_Canada a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q16 ;
+    :privateEntity :Canada .
+
+:conf_Care2 a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q5038828 ;
+    :privateEntity :Care2 .
+
+:conf_Carte_de_sejour a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q2940510 ;
+    :privateEntity :Carte_de_sejour .
+
+:conf_Casablanca a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q7903 ;
+    :privateEntity :Casablanca .
+
+:conf_Casablanca_Settat a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q19843788 ;
+    :privateEntity :Casablanca_Settat .
+
+:conf_Conservation_Fonciere a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q2994455 ;
+    :privateEntity :Conservation_Fonciere .
+
+:conf_Coree_du_Nord a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q423 ;
+    :privateEntity :Coree_du_Nord .
+
+:conf_Costa_Rica a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q800 ;
+    :privateEntity :Costa_Rica .
+
+:conf_Cuba a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q241 ;
+    :privateEntity :Cuba .
+
+:conf_Danemark a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q35 ;
+    :privateEntity :Danemark .
+
+:conf_Delicious a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q329192 ;
+    :privateEntity :Delicious .
+
+:conf_Driouch a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1259122 ;
+    :privateEntity :Driouch .
+
+:conf_Emirats_arabes a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q878 ;
+    :privateEntity :Emirats_arabes .
+
+:conf_Etat a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q7275 ;
+    :privateEntity :Etat .
+
+:conf_Etats_Unis a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q30 ;
+    :privateEntity :Etats_Unis .
+
+:conf_Fete_de_la_jeunesse a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q30024992 ;
+    :privateEntity :Fete_de_la_jeunesse .
+
+:conf_France a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q142 ;
+    :privateEntity :France .
+
+:conf_France_Travail a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q8901192 ;
+    :privateEntity :France_Travail .
+
+:conf_Ghana a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q117 ;
+    :privateEntity :Ghana .
+
+:conf_Google_Bookmarks a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q3238742 ;
+    :privateEntity :Google_Bookmarks .
+
+:conf_Google_Maps a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q4558504 ;
+    :privateEntity :Google_Maps .
+
+:conf_Guatemala a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q774 ;
+    :privateEntity :Guatemala .
+
+:conf_Gueliz a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q3122412 ;
+    :privateEntity :Gueliz .
+
+:conf_Guelmim_Oued_Noun a :AlignmentConfidence ;
+    :confidenceScore 0.75 ;
+    :externalEntity wd:Q19951051 ;
+    :privateEntity :Guelmim_Oued_Noun .
+
+:conf_Honduras a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q783 ;
+    :privateEntity :Honduras .
+
+:conf_Iran a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q794 ;
+    :privateEntity :Iran .
+
+:conf_Islande a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q189 ;
+    :privateEntity :Islande .
+
+:conf_Kafala a :AlignmentConfidence ;
+    :confidenceScore 0.613 ;
+    :externalEntity wd:Q1721015 ;
+    :privateEntity :Kafala .
+
+:conf_Kakao a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q17684312 ;
+    :privateEntity :Kakao .
+
+:conf_Kazakhstan a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q232 ;
+    :privateEntity :Kazakhstan .
+
+:conf_Kenya a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q114 ;
+    :privateEntity :Kenya .
+
+:conf_Kik a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q883965 ;
+    :privateEntity :Kik .
+
+:conf_Kindle a :AlignmentConfidence ;
+    :confidenceScore 0.613 ;
+    :externalEntity wd:Q136469 ;
+    :privateEntity :Kindle .
+
+:conf_Kirghizistan a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q813 ;
+    :privateEntity :Kirghizistan .
+
+:conf_Lalla a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q3216532 ;
+    :privateEntity :Lalla .
+
+:conf_Laos a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q819 ;
+    :privateEntity :Laos .
+
+:conf_Le_Consulat a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q103844498 ;
+    :privateEntity :Le_Consulat .
+
+:conf_Lesotho a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1013 ;
+    :privateEntity :Lesotho .
+
+:conf_Liechtenstein a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q347 ;
+    :privateEntity :Liechtenstein .
+
+:conf_Lituanie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q37 ;
+    :privateEntity :Lituanie .
+
+:conf_LiveJournal a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q219523 ;
+    :privateEntity :LiveJournal .
+
+:conf_Luxembourg a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q32 ;
+    :privateEntity :Luxembourg .
+
+:conf_MEAE a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q789848 ;
+    :privateEntity :MEAE .
+
+:conf_MRE a :AlignmentConfidence ;
+    :confidenceScore 0.825 ;
+    :externalEntity wd:Q4201225 ;
+    :privateEntity :MRE .
+
+:conf_Macedoine a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q221 ;
+    :privateEntity :Macedoine .
+
+:conf_Madagascar a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1019 ;
+    :privateEntity :Madagascar .
+
+:conf_Maldives a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q826 ;
+    :privateEntity :Maldives .
+
+:conf_Mali a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q912 ;
+    :privateEntity :Mali .
+
+:conf_Malte a :AlignmentConfidence ;
+    :confidenceScore 0.6 ;
+    :externalEntity wd:Q233 ;
+    :privateEntity :Malte .
+
+:conf_Maroc a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q1028 ;
+    :privateEntity :Maroc .
+
+:conf_Marrakech a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q101625 ;
+    :privateEntity :Marrakech .
+
+:conf_Marrakesh a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q101625 ;
+    :privateEntity :Marrakesh .
+
+:conf_Mauritanie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q1025 ;
+    :privateEntity :Mauritanie .
+
+:conf_Mayotte a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q17063 ;
+    :privateEntity :Mayotte .
+
+:conf_Mellal a :AlignmentConfidence ;
+    :confidenceScore 0.732 ;
+    :externalEntity wd:Q131364923 ;
+    :privateEntity :Mellal .
+
+:conf_Mexique a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q96 ;
+    :privateEntity :Mexique .
+
+:conf_Ministere_des_Affaires_Etrangeres a :AlignmentConfidence ;
+    :confidenceScore 0.6 ;
+    :externalEntity wd:Q789848 ;
+    :privateEntity :Ministere_des_Affaires_Etrangeres .
+
+:conf_Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation a :AlignmentConfidence ;
+    :confidenceScore 0.6 ;
+    :externalEntity wd:Q6866981 ;
+    :privateEntity :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation .
+
+:conf_Moldavie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q217 ;
+    :privateEntity :Moldavie .
+
+:conf_Monaco a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q235 ;
+    :privateEntity :Monaco .
+
+:conf_Mongolie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q711 ;
+    :privateEntity :Mongolie .
+
+:conf_Mozambique a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1029 ;
+    :privateEntity :Mozambique .
+
+:conf_Myanmar a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q836 ;
+    :privateEntity :Myanmar .
+
+:conf_Nador a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q824594 ;
+    :privateEntity :Nador .
+
+:conf_Nationalite a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q231002 ;
+    :privateEntity :Nationalite .
+
+:conf_Nicaragua a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q811 ;
+    :privateEntity :Nicaragua .
+
+:conf_Niger a :AlignmentConfidence ;
+    :confidenceScore 0.811 ;
+    :externalEntity wd:Q503932 ;
+    :privateEntity :Niger .
+
+:conf_Nouvelle_Zelande a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q664 ;
+    :privateEntity :Nouvelle_Zelande .
+
+:conf_Odnoklassniki a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1123836 ;
+    :privateEntity :Odnoklassniki .
+
+:conf_Olivier_Ramadour a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q134452404 ;
+    :privateEntity :Olivier_Ramadour .
+
+:conf_Oman a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q842 ;
+    :privateEntity :Oman .
+
+:conf_Ouganda a :AlignmentConfidence ;
+    :confidenceScore 0.932 ;
+    :externalEntity wd:Q1036 ;
+    :privateEntity :Ouganda .
+
+:conf_Ouzbekistan a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q265 ;
+    :privateEntity :Ouzbekistan .
+
+:conf_Pakistan a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q843 ;
+    :privateEntity :Pakistan .
+
+:conf_Palau a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q695 ;
+    :privateEntity :Palau .
+
+:conf_Palestine a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q219060 ;
+    :privateEntity :Palestine .
+
+:conf_Panama a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q804 ;
+    :privateEntity :Panama .
+
+:conf_Papouasie_Nouvelle_Guinee a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q691 ;
+    :privateEntity :Papouasie_Nouvelle_Guinee .
+
+:conf_Paraguay a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q733 ;
+    :privateEntity :Paraguay .
+
+:conf_Paris a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q90 ;
+    :privateEntity :Paris .
+
+:conf_Passeport a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q43812 ;
+    :privateEntity :Passeport .
+
+:conf_Passeport_biometrique a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q623045 ;
+    :privateEntity :Passeport_biometrique .
+
+:conf_Passeports a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q337474 ;
+    :privateEntity :Passeports .
+
+:conf_Paypal a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q483959 ;
+    :privateEntity :Paypal .
+
+:conf_Pays_Bas a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q55 ;
+    :privateEntity :Pays_Bas .
+
+:conf_Philippines a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q928 ;
+    :privateEntity :Philippines .
+
+:conf_Pinterest a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q255381 ;
+    :privateEntity :Pinterest .
+
+:conf_Plurk a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q32111 ;
+    :privateEntity :Plurk .
+
+:conf_Pologne a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q36 ;
+    :privateEntity :Pologne .
+
+:conf_Porto_Rico a :AlignmentConfidence ;
+    :confidenceScore 0.9 ;
+    :externalEntity wd:Q1985148 ;
+    :privateEntity :Porto_Rico .
+
+:conf_Portugal a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q45 ;
+    :privateEntity :Portugal .
+
+:conf_Pusha a :AlignmentConfidence ;
+    :confidenceScore 0.689 ;
+    :externalEntity wd:Q2329709 ;
+    :privateEntity :Pusha .
+
+:conf_Qatar a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q846 ;
+    :privateEntity :Qatar .
+
+:conf_Rabat a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q3551 ;
+    :privateEntity :Rabat .
+
+:conf_Reddit a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q1136 ;
+    :privateEntity :Reddit .
+
+:conf_Renren a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q784022 ;
+    :privateEntity :Renren .
+
+:conf_Republique_centrafricaine a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q929 ;
+    :privateEntity :Republique_centrafricaine .
+
+:conf_Republique_du_Congo a :AlignmentConfidence ;
+    :confidenceScore 0.725 ;
+    :externalEntity wd:Q971 ;
+    :privateEntity :Republique_du_Congo .
+
+:conf_Royaume_Uni a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q145 ;
+    :privateEntity :Royaume_Uni .
+
+:conf_Sainte_Cecile_les_Vignes a :AlignmentConfidence ;
+    :confidenceScore 0.7 ;
+    :externalEntity wd:Q28497140 ;
+    :privateEntity :Sainte_Cecile_les_Vignes .
+
+:conf_Sao_Tome_et_Principe a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q1039 ;
+    :privateEntity :Sao_Tome_et_Principe .
+
+:conf_Senegal a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q1041 ;
+    :privateEntity :Senegal .
+
+:conf_Sidi a :AlignmentConfidence ;
+    :confidenceScore 0.7 ;
+    :externalEntity wd:Q7508824 ;
+    :privateEntity :Sidi .
+
+:conf_Sierra_Leone a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q1044 ;
+    :privateEntity :Sierra_Leone .
+
+:conf_Sina a :AlignmentConfidence ;
+    :confidenceScore 0.696 ;
+    :externalEntity wd:Q80252 ;
+    :privateEntity :Sina .
+
+:conf_Skype a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q40984 ;
+    :privateEntity :Skype .
+
+:conf_Slashdot a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q59083 ;
+    :privateEntity :Slashdot .
+
+:conf_Soudan_du_Sud a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q958 ;
+    :privateEntity :Soudan_du_Sud .
+
+:conf_Sri_Lanka a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q854 ;
+    :privateEntity :Sri_Lanka .
+
+:conf_Suisse a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q39 ;
+    :privateEntity :Suisse .
+
+:conf_Suriname a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q730 ;
+    :privateEntity :Suriname .
+
+:conf_Swaziland a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q1050 ;
+    :privateEntity :Swaziland .
+
+:conf_Symbaloo a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q20010884 ;
+    :privateEntity :Symbaloo .
+
+:conf_Syrie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q858 ;
+    :privateEntity :Syrie .
+
+:conf_Tadjikistan a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q863 ;
+    :privateEntity :Tadjikistan .
+
+:conf_Tanger a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q126148 ;
+    :privateEntity :Tanger .
+
+:conf_Tanzanie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q924 ;
+    :privateEntity :Tanzanie .
+
+:conf_Tchad a :AlignmentConfidence ;
+    :confidenceScore 0.915 ;
+    :externalEntity wd:Q657 ;
+    :privateEntity :Tchad .
+
+:conf_Telegram a :AlignmentConfidence ;
+    :confidenceScore 0.835 ;
+    :externalEntity wd:Q32049814 ;
+    :privateEntity :Telegram .
+
+:conf_Threema a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q13512316 ;
+    :privateEntity :Threema .
+
+:conf_Togo a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q945 ;
+    :privateEntity :Togo .
+
+:conf_Trinite_et_Tobago a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q754 ;
+    :privateEntity :Trinite_et_Tobago .
+
+:conf_Tuenti a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q609524 ;
+    :privateEntity :Tuenti .
+
+:conf_Tumblr a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q384060 ;
+    :privateEntity :Tumblr .
+
+:conf_Tunisie a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q948 ;
+    :privateEntity :Tunisie .
+
+:conf_Turkmenistan a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q874 ;
+    :privateEntity :Turkmenistan .
+
+:conf_Ukraine a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q212 ;
+    :privateEntity :Ukraine .
+
+:conf_Uruguay a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q77 ;
+    :privateEntity :Uruguay .
+
+:conf_Vanuatu a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q686 ;
+    :privateEntity :Vanuatu .
+
+:conf_Venezuela a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q717 ;
+    :privateEntity :Venezuela .
+
+:conf_Viadeo a :AlignmentConfidence ;
+    :confidenceScore 0.855 ;
+    :externalEntity wd:Q181592 ;
+    :privateEntity :Viadeo .
+
+:conf_Viber a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q332707 ;
+    :privateEntity :Viber .
+
+:conf_Vietnam a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q881 ;
+    :privateEntity :Vietnam .
+
+:conf_Wanelo a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q134687175 ;
+    :privateEntity :Wanelo .
+
+:conf_Weibo a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q92526 ;
+    :privateEntity :Weibo .
+
+:conf_Wykop a :AlignmentConfidence ;
+    :confidenceScore 0.788 ;
+    :externalEntity wd:Q8039882 ;
+    :privateEntity :Wykop .
+
+:conf_Yahoo a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q37093 ;
+    :privateEntity :Yahoo .
+
+:conf_Yahoo_Mail a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q868165 ;
+    :privateEntity :Yahoo_Mail .
+
+:conf_Yoolink a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q3572554 ;
+    :privateEntity :Yoolink .
+
+:conf_Yummly a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q8061140 ;
+    :privateEntity :Yummly .
+
+:conf_Zimbabwe a :AlignmentConfidence ;
+    :confidenceScore 0.975 ;
+    :externalEntity wd:Q954 ;
+    :privateEntity :Zimbabwe .
+
+:conf_kafala a :AlignmentConfidence ;
+    :confidenceScore 0.613 ;
+    :externalEntity wd:Q1721015 ;
+    :privateEntity :kafala .
+
+:conf_la_Cote_dIvoire a :AlignmentConfidence ;
+    :confidenceScore 0.625 ;
+    :externalEntity wd:Q19182533 ;
+    :privateEntity :la_Cote_dIvoire .
+
+:conf_la_France a :AlignmentConfidence ;
+    :confidenceScore 0.875 ;
+    :externalEntity wd:Q142 ;
+    :privateEntity :la_France .
+
+:conf_la_Mission_Diplomatique a :AlignmentConfidence ;
+    :confidenceScore 0.643 ;
+    :externalEntity wd:Q17360091 ;
+    :privateEntity :la_Mission_Diplomatique .
+
+:conf_le_Burkina_Faso a :AlignmentConfidence ;
+    :confidenceScore 0.915 ;
+    :externalEntity wd:Q965 ;
+    :privateEntity :le_Burkina_Faso .
+
+:conf_le_Gabon a :AlignmentConfidence ;
+    :confidenceScore 0.863 ;
+    :externalEntity wd:Q1000 ;
+    :privateEntity :le_Gabon .
+
+:conf_le_Senegal a :AlignmentConfidence ;
+    :confidenceScore 0.775 ;
+    :externalEntity wd:Q56480478 ;
+    :privateEntity :le_Senegal .
+
+:conf_universite a :AlignmentConfidence ;
+    :confidenceScore 0.675 ;
+    :externalEntity wd:Q3918 ;
+    :privateEntity :universite .
+
+:de_03_mois a owl:Thing ;
+    rdfs:label "de 03 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:de_10_ans a owl:Thing ;
+    rdfs:label "de 10 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:de_18_mois a owl:Thing ;
+    rdfs:label "de 18 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:decembre_2022 a owl:Thing ;
+    rdfs:label "décembre 2022"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:decembre_2024 a owl:Thing ;
+    rdfs:label "décembre 2024"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:depuis_juin_2021 a owl:Thing ;
+    rdfs:label "depuis juin 2021"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:des_Autorites_Locales a owl:Thing ;
+    rdfs:label "des Autorités Locales"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:des_Services_Consulaires_et_transmise_au_Maroc a owl:Thing ;
+    rdfs:label "des Services Consulaires et transmise au Maroc"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:des_Services_Consulaires_marocains a owl:Thing ;
+    rdfs:label "des Services Consulaires marocains"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:du_1er_aout_2014 a owl:Thing ;
+    rdfs:label "du 1er août 2014"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:du_2_avril_2007 a owl:Thing ;
+    rdfs:label "du 2 avril 2007"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:du_30_janvier_2002 a owl:Thing ;
+    rdfs:label "du 30 janvier 2002"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:du_5_octobre_1961 a owl:Thing ;
+    rdfs:label "du 5 octobre 1961"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:du_9_novembre_2011 a owl:Thing ;
+    rdfs:label "du 9 novembre 2011"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:du_Cadastre_et_de_la_Cartographie a owl:Thing ;
+    rdfs:label "du Cadastre et de la Cartographie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:du_Ministere_de_la_Justice a owl:Thing ;
+    rdfs:label "du Ministère de la Justice"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:du_Passeport_biometrique a owl:Thing ;
+    rdfs:label "du Passeport biométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:fin_jusquau_surlendemain_du_jour_de_reprise_du_salarie_remplace a owl:Thing ;
+    rdfs:label "fin jusqu'au surlendemain du jour de reprise du salarié remplacé"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:la_Caisse_des_conges_payes a owl:Thing ;
+    rdfs:label "la Caisse des congés payés"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Caisse_des_conges_payes_du_BTP a owl:Thing ;
+    rdfs:label "la Caisse des congés payés du BTP"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Convention_de_Washington a owl:Thing ;
+    rdfs:label "la Convention de Washington"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Cooperation_Africaine a owl:Thing ;
+    rdfs:label "la Coopération Africaine"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Direction_Generale_de_la_Surete_Nationale a owl:Thing ;
+    rdfs:label "la Direction Générale de la Sûreté Nationale"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Direction_de_lelevage_relevant a owl:Thing ;
+    rdfs:label "la Direction de l'élevage relevant"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Direction_des_Affaires_Consulaires_et_Sociales a owl:Thing ;
+    rdfs:label "la Direction des Affaires Consulaires et Sociales"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Direction_du_Protocole a owl:Thing ;
+    rdfs:label "la Direction du Protocole"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Direction_marocaine_des_Eaux_et_Forets_et_de_la_Conservation_des_Sols a owl:Thing ;
+    rdfs:label "la Direction marocaine des Eaux et Forêts et de la Conservation des Sols"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:la_Mauritanie a owl:Thing ;
+    rdfs:label "la Mauritanie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Republique_centrafricaine a owl:Thing ;
+    rdfs:label "la République centrafricaine"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_Republique_du_Congo_Brazzaville a owl:Thing ;
+    rdfs:label "la République du Congo Brazzaville"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_federation_nationale_des_sports_universitaires a owl:Thing ;
+    rdfs:label "la fédération nationale des sports universitaires"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_federation_nationale_du_sport_scolaire a owl:Thing ;
+    rdfs:label "la fédération nationale du sport scolaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_langue_du_pays_de_residence_du_defunt a owl:Thing ;
+    rdfs:label "la langue du pays de résidence du défunt"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_legislation_du_pays_de_residence a owl:Thing ;
+    rdfs:label "la législation du pays de résidence"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:la_legislation_locale_du_pays_de_residence a owl:Thing ;
+    rdfs:label "la législation locale du pays de résidence"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_01_janvier_2026 a owl:Thing ;
+    rdfs:label "le 01 janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_02_avril_2007 a owl:Thing ;
+    rdfs:label "le 02 avril 2007"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_06_septembre_2024 a owl:Thing ;
+    rdfs:label "le 06 septembre 2024"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_14_aout_2016 a owl:Thing ;
+    rdfs:label "le 14 août 2016"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_14_septembre_2017 a owl:Thing ;
+    rdfs:label "le 14 septembre 2017"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_19e_anniversaire a owl:Thing ;
+    rdfs:label "le 19e anniversaire"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_1er_juin_2021 a owl:Thing ;
+    rdfs:label "le 1er juin 2021"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_22_janvier_2026 a owl:Thing ;
+    rdfs:label "le 22 janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_2_avril_2007 a owl:Thing ;
+    rdfs:label "le 2 avril 2007"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_2_janvier_2026 a owl:Thing ;
+    rdfs:label "le 2 janvier 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_31_decembre_2025 a owl:Thing ;
+    rdfs:label "le 31 décembre 2025"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_31_juillet_2023 a owl:Thing ;
+    rdfs:label "le 31 juillet 2023"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:le_Cameroun a owl:Thing ;
+    rdfs:label "le Cameroun"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Centre_National_du_Casier_Judiciaire a owl:Thing ;
+    rdfs:label "le Centre National du Casier Judiciaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Centre_dAppels a owl:Thing ;
+    rdfs:label "le Centre d'Appels"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:le_Centre_dAppels_ci a owl:Thing ;
+    rdfs:label "le Centre d’Appels ci"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:le_Centre_dAppels_ci_ou_envoyer a owl:Thing ;
+    rdfs:label "le Centre d’Appels ci ou envoyer"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:le_Ministere_de_lEmploi a owl:Thing ;
+    rdfs:label "le Ministère de l’Emploi."@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Ministere_marocain_de_lEmploi a owl:Thing ;
+    rdfs:label "le Ministère marocain de l’Emploi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Niger a owl:Thing ;
+    rdfs:label "le Niger"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Registre_de_remise_des_passeports a owl:Thing ;
+    rdfs:label "le « Registre de remise des passeports »"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Royaume_du_Maroc a owl:Thing ;
+    rdfs:label "le Royaume du Maroc"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Service_Consulaire a owl:Thing ;
+    rdfs:label "le Service Consulaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Service_Consulaire_competent a owl:Thing ;
+    rdfs:label "le Service Consulaire compétent"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_Service_France_Consulaire_du_lundi a owl:Thing ;
+    rdfs:label "le Service France Consulaire du lundi"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_biais_des_services_consulaires a owl:Thing ;
+    rdfs:label "le biais des services consulaires"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:le_biais_des_services_consulaires_du_lieu_de_residence a owl:Thing ;
+    rdfs:label "le biais des services consulaires du lieu de résidence"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:le_consulat_de_France a owl:Thing ;
+    rdfs:label "le consulat de France"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_juge_de_la_famille a owl:Thing ;
+    rdfs:label "le juge de la famille"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_service_des_impots a owl:Thing ;
+    rdfs:label "le service des impôts"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_service_des_impots_Vous_etes a owl:Thing ;
+    rdfs:label "le service des impôts Vous êtes"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_service_des_impots_Vous_etes_auto_entrepreneur a owl:Thing ;
+    rdfs:label "le service des impôts Vous êtes auto-entrepreneur"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:le_service_des_impots_Vous_etes_demandeur_demploi_Dernier_avis_dimposition a owl:Thing ;
+    rdfs:label "le service des impôts Vous êtes demandeur d'emploi Dernier avis d'imposition ("@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:le_service_des_impots_Vous_exercez a owl:Thing ;
+    rdfs:label "le service des impôts Vous exercez"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_03_jours a owl:Thing ;
+    rdfs:label "les 03 jours"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_06_semaines_precedentes a owl:Thing ;
+    rdfs:label "les 06 semaines précédentes"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_12_derniers_mois a owl:Thing ;
+    rdfs:label "les 12 derniers mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_2_mois a owl:Thing ;
+    rdfs:label "les 2 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_2_mois_suivant_son a owl:Thing ;
+    rdfs:label "les 2 mois suivant son"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_Autorites_Administratives a owl:Thing ;
+    rdfs:label "les Autorités Administratives"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_Representations_diplomatiques a owl:Thing ;
+    rdfs:label "les Représentations diplomatiques"@fr ;
+    rdfs:comment "Defined locally: Boilerplate entity — skipped" .
+
+:les_Services_de_securite a owl:Thing ;
+    rdfs:label "les Services de sécurité"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_annees_1950 a owl:Thing ;
+    rdfs:label "les années 1950"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_associations_francaises a owl:Thing ;
+    rdfs:label "les associations françaises"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_ecoles_francaises_au_Maroc a owl:Thing ;
+    rdfs:label "les écoles françaises au Maroc"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_instituts_et_alliances a owl:Thing ;
+    rdfs:label "les instituts et alliances"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_memes a owl:Thing ;
+    rdfs:label "les mêmes"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:les_services_fiscaux_Attestation_bancaire a owl:Thing ;
+    rdfs:label "les services fiscaux Attestation bancaire"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_services_fiscaux_Contrat_de_travail a owl:Thing ;
+    rdfs:label "les services fiscaux Contrat de travail"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_services_fiscaux_Contrat_de_travail_ou_attestation_de_travail_de_lemployeur_ a owl:Thing ;
+    rdfs:label "les services fiscaux Contrat de travail ou attestation de travail de l'employeur de moins de 3 mois dûment signée"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:les_services_fiscaux_Decision_dattribution_de_lallocation_Derniere_attestation_d a owl:Thing ;
+    rdfs:label "les services fiscaux Décision d'attribution de l'allocation Dernière attestation de paiement de l'organisme payeur Autres situations Dernier avis d'imposition ("@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:les_services_fiscaux_Decision_dattribution_dune_pension_de_vieillesse_ou_dinvali a owl:Thing ;
+    rdfs:label "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie"@fr,
+        "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie par"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:les_services_fiscaux_Extrait_de_moins_de_3_mois a owl:Thing ;
+    rdfs:label "les services fiscaux Extrait de moins de 3 mois"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:les_services_fiscaux_Extrait_de_moins_de_3_mois_dinscription_au_registre_nationa a owl:Thing ;
+    rdfs:label "les services fiscaux Extrait de moins de 3 mois d'inscription au registre national des entreprises"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:les_services_fiscaux_Releve_de_situation_recapitulant_les_droits_et_le_versement a owl:Thing ;
+    rdfs:label "les services fiscaux Relevé de situation récapitulant les droits et le versement d'indemnités"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:ligne_des_Administrations_publiques_marocaines a owl:Thing ;
+    rdfs:label "ligne des Administrations publiques marocaines"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:mercredi a owl:Thing ;
+    rdfs:label "mercredi"@fr ;
+    rdfs:comment "Defined locally: Functional word — not linkable" .
+
+:mercredi_26_aout_2026 a owl:Thing ;
+    rdfs:label "mercredi 26 août 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:moins_de_06_mois a owl:Thing ;
+    rdfs:label "moins de 06 mois"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:moins_de_trois_ans_dage a owl:Thing ;
+    rdfs:label "moins de trois ans d'âge"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:nationalite_du_pays_daccueil a owl:Thing ;
+    rdfs:label "nationalité du pays d’accueil):"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:plus_de_12_ans a owl:Thing ;
+    rdfs:label "plus de 12 ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:service_public_associe_Passeport_biometrique a owl:Thing ;
+    rdfs:label "-service public associé Passeport biométrique"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:trois_03_ans a owl:Thing ;
+    rdfs:label "trois (03) ans"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:un_Pays_Afrique_du_Sud a owl:Thing ;
+    rdfs:label "un Pays Afrique du Sud"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:un_Pays_Afrique_du_Sud_Allemagne a owl:Thing ;
+    rdfs:label "un Pays Afrique du Sud Allemagne"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:un_Pays_Afrique_du_Sud_Allemagne_Arabie a owl:Thing ;
+    rdfs:label "un Pays Afrique du Sud Allemagne Arabie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" .
+
+:un_Pays_Afrique_du_Sud_Allemagne_Arabie_saoudite_Autriche_Bahrein a owl:Thing ;
+    rdfs:label "un Pays Afrique du Sud Allemagne Arabie saoudite Autriche Bahreïn"@fr ;
+    rdfs:comment "Defined locally: Label too long for entity search" .
+
+:vendredi_20_mars a owl:Thing ;
+    rdfs:label "vendredi 20 mars"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:vendredi_20_mars_2026 a owl:Thing ;
+    rdfs:label "vendredi 20 mars 2026"@fr ;
+    rdfs:comment "Defined locally: Type DATE defined locally" .
+
+:AOL owl:sameAs wd:Q27585 ;
+    skos:exactMatch wd:Q27585 .
+
+:AOL_Mail owl:sameAs wd:Q1144220 ;
+    skos:exactMatch wd:Q1144220 .
+
+:Afghanistan owl:sameAs wd:Q889 ;
+    skos:exactMatch wd:Q889 .
+
+:Afrique_du_Nord owl:sameAs wd:Q27381 ;
+    skos:exactMatch wd:Q27381 .
+
+:Agadir owl:sameAs wd:Q170525 ;
+    skos:exactMatch wd:Q170525 .
+
+:Algerie owl:sameAs wd:Q262 ;
+    skos:exactMatch wd:Q262 .
+
+:Amazon owl:sameAs wd:Q3884 ;
+    skos:exactMatch wd:Q3884 .
+
+:American_Express owl:sameAs wd:Q194360 ;
+    skos:exactMatch wd:Q194360 .
+
+:Angola owl:sameAs wd:Q916 ;
+    skos:exactMatch wd:Q916 .
+
+:Antigua_et_Barbuda owl:sameAs wd:Q781 ;
+    skos:exactMatch wd:Q781 .
+
+:Apostille owl:sameAs wd:Q309473 ;
+    skos:exactMatch wd:Q309473 .
+
+:Arabie_Saoudite owl:sameAs wd:Q851 ;
+    skos:exactMatch wd:Q851 .
+
+:Aymeric_CHUZEVILLE owl:sameAs wd:Q47657010 ;
+    skos:exactMatch wd:Q47657010 .
+
+:Bahamas owl:sameAs wd:Q778 ;
+    skos:exactMatch wd:Q778 .
+
+:Bahrein owl:sameAs wd:Q398 ;
+    skos:exactMatch wd:Q398 .
+
+:Balatarin owl:sameAs wd:Q3943935 ;
+    skos:exactMatch wd:Q3943935 .
+
+:Bangladesh owl:sameAs wd:Q902 ;
+    skos:exactMatch wd:Q902 .
+
+:Barbade owl:sameAs wd:Q244 ;
+    skos:exactMatch wd:Q244 .
+
+:Belgique owl:sameAs wd:Q31 ;
+    skos:exactMatch wd:Q31 .
+
+:Botswana owl:sameAs wd:Q963 ;
+    skos:exactMatch wd:Q963 .
+
+:Bulgarie owl:sameAs wd:Q219 ;
+    skos:exactMatch wd:Q219 .
+
+:Bulletin owl:sameAs wd:Q88163834 ;
+    skos:exactMatch wd:Q88163834 .
+
+:Burkina_Faso owl:sameAs wd:Q965 ;
+    skos:exactMatch wd:Q965 .
+
+:Burundi owl:sameAs wd:Q967 ;
+    skos:exactMatch wd:Q967 .
+
+:Canada owl:sameAs wd:Q16 ;
+    skos:exactMatch wd:Q16 .
+
+:Care2 owl:sameAs wd:Q5038828 ;
+    skos:exactMatch wd:Q5038828 .
+
+:Carte_de_sejour owl:sameAs wd:Q2940510 ;
+    skos:exactMatch wd:Q2940510 .
+
+:Casablanca owl:sameAs wd:Q7903 ;
+    skos:exactMatch wd:Q7903 .
+
+:Casablanca_Settat owl:sameAs wd:Q19843788 ;
+    skos:exactMatch wd:Q19843788 .
+
+:Conservation_Fonciere owl:sameAs wd:Q2994455 ;
+    skos:exactMatch wd:Q2994455 .
+
+:Coree_du_Nord owl:sameAs wd:Q423 ;
+    skos:exactMatch wd:Q423 .
+
+:Costa_Rica owl:sameAs wd:Q800 ;
+    skos:exactMatch wd:Q800 .
+
+:Cuba owl:sameAs wd:Q241 ;
+    skos:exactMatch wd:Q241 .
+
+:Danemark owl:sameAs wd:Q35 ;
+    skos:exactMatch wd:Q35 .
+
+:Delicious owl:sameAs wd:Q329192 ;
+    skos:exactMatch wd:Q329192 .
+
+:Driouch owl:sameAs wd:Q1259122 ;
+    skos:exactMatch wd:Q1259122 .
+
+:Emirats_arabes owl:sameAs wd:Q878 ;
+    skos:exactMatch wd:Q878 .
+
+:Etat owl:sameAs wd:Q7275 ;
+    skos:exactMatch wd:Q7275 .
+
+:Etats_Unis owl:sameAs wd:Q30 ;
+    skos:exactMatch wd:Q30 .
+
+:Fete_de_la_jeunesse owl:sameAs wd:Q30024992 ;
+    skos:exactMatch wd:Q30024992 .
+
+:France owl:sameAs wd:Q142 ;
+    skos:exactMatch wd:Q142 .
+
+:France_Travail owl:sameAs wd:Q8901192 ;
+    skos:exactMatch wd:Q8901192 .
+
+:Ghana owl:sameAs wd:Q117 ;
+    skos:exactMatch wd:Q117 .
+
+:Google_Bookmarks owl:sameAs wd:Q3238742 ;
+    skos:exactMatch wd:Q3238742 .
+
+:Google_Maps owl:sameAs wd:Q4558504 ;
+    skos:exactMatch wd:Q4558504 .
+
+:Guatemala owl:sameAs wd:Q774 ;
+    skos:exactMatch wd:Q774 .
+
+:Gueliz owl:sameAs wd:Q3122412 ;
+    skos:exactMatch wd:Q3122412 .
+
+:Guelmim_Oued_Noun owl:sameAs wd:Q19951051 ;
+    skos:exactMatch wd:Q19951051 .
+
+:Honduras owl:sameAs wd:Q783 ;
+    skos:exactMatch wd:Q783 .
+
+:Iran owl:sameAs wd:Q794 ;
+    skos:exactMatch wd:Q794 .
+
+:Islande owl:sameAs wd:Q189 ;
+    skos:exactMatch wd:Q189 .
+
+:Kafala owl:sameAs wd:Q1721015 ;
+    skos:exactMatch wd:Q1721015 .
+
+:Kakao owl:sameAs wd:Q17684312 ;
+    skos:exactMatch wd:Q17684312 .
+
+:Kazakhstan owl:sameAs wd:Q232 ;
+    skos:exactMatch wd:Q232 .
+
+:Kenya owl:sameAs wd:Q114 ;
+    skos:exactMatch wd:Q114 .
+
+:Kik owl:sameAs wd:Q883965 ;
+    skos:exactMatch wd:Q883965 .
+
+:Kindle owl:sameAs wd:Q136469 ;
+    skos:exactMatch wd:Q136469 .
+
+:Kirghizistan owl:sameAs wd:Q813 ;
+    skos:exactMatch wd:Q813 .
+
+:Lalla owl:sameAs wd:Q3216532 ;
+    skos:exactMatch wd:Q3216532 .
+
+:Laos owl:sameAs wd:Q819 ;
+    skos:exactMatch wd:Q819 .
+
+:Le_Consulat owl:sameAs wd:Q103844498 ;
+    skos:exactMatch wd:Q103844498 .
+
+:Lesotho owl:sameAs wd:Q1013 ;
+    skos:exactMatch wd:Q1013 .
+
+:Liechtenstein owl:sameAs wd:Q347 ;
+    skos:exactMatch wd:Q347 .
+
+:Lituanie owl:sameAs wd:Q37 ;
+    skos:exactMatch wd:Q37 .
+
+:LiveJournal owl:sameAs wd:Q219523 ;
+    skos:exactMatch wd:Q219523 .
+
+:Luxembourg owl:sameAs wd:Q32 ;
+    skos:exactMatch wd:Q32 .
+
+:MEAE owl:sameAs wd:Q789848 ;
+    skos:exactMatch wd:Q789848 .
+
+:MRE owl:sameAs wd:Q4201225 ;
+    skos:exactMatch wd:Q4201225 .
+
+:Macedoine owl:sameAs wd:Q221 ;
+    skos:exactMatch wd:Q221 .
+
+:Madagascar owl:sameAs wd:Q1019 ;
+    skos:exactMatch wd:Q1019 .
+
+:Maldives owl:sameAs wd:Q826 ;
+    skos:exactMatch wd:Q826 .
+
+:Mali owl:sameAs wd:Q912 ;
+    skos:exactMatch wd:Q912 .
+
+:Malte owl:sameAs wd:Q233 ;
+    skos:exactMatch wd:Q233 .
+
+:Maroc a owl:Thing ;
+    rdfs:label "Maroc"@fr ;
+    rdfs:comment "Defined locally: Type LOC defined locally" ;
+    owl:sameAs wd:Q1028 ;
+    skos:exactMatch wd:Q1028 .
+
+:Marrakech owl:sameAs wd:Q101625 ;
+    skos:exactMatch wd:Q101625 .
+
+:Marrakesh owl:sameAs wd:Q101625 ;
+    skos:exactMatch wd:Q101625 .
+
+:Mauritanie owl:sameAs wd:Q1025 ;
+    skos:exactMatch wd:Q1025 .
+
+:Mayotte owl:sameAs wd:Q17063 ;
+    skos:exactMatch wd:Q17063 .
+
+:Mellal owl:sameAs wd:Q131364923 ;
+    skos:exactMatch wd:Q131364923 .
+
+:Mexique owl:sameAs wd:Q96 ;
+    skos:exactMatch wd:Q96 .
+
+:Ministere_des_Affaires_Etrangeres owl:sameAs wd:Q789848 ;
+    skos:exactMatch wd:Q789848 .
+
+:Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation owl:sameAs wd:Q6866981 ;
+    skos:exactMatch wd:Q6866981 .
+
+:Moldavie owl:sameAs wd:Q217 ;
+    skos:exactMatch wd:Q217 .
+
+:Monaco owl:sameAs wd:Q235 ;
+    skos:exactMatch wd:Q235 .
+
+:Mongolie owl:sameAs wd:Q711 ;
+    skos:exactMatch wd:Q711 .
+
+:Mozambique owl:sameAs wd:Q1029 ;
+    skos:exactMatch wd:Q1029 .
+
+:Myanmar owl:sameAs wd:Q836 ;
+    skos:exactMatch wd:Q836 .
+
+:Nador owl:sameAs wd:Q824594 ;
+    skos:exactMatch wd:Q824594 .
+
+:Nationalite owl:sameAs wd:Q231002 ;
+    skos:exactMatch wd:Q231002 .
+
+:Nicaragua owl:sameAs wd:Q811 ;
+    skos:exactMatch wd:Q811 .
+
+:Niger owl:sameAs wd:Q503932 ;
+    skos:exactMatch wd:Q503932 .
+
+:Nouvelle_Zelande owl:sameAs wd:Q664 ;
+    skos:exactMatch wd:Q664 .
+
+:Odnoklassniki owl:sameAs wd:Q1123836 ;
+    skos:exactMatch wd:Q1123836 .
+
+:Olivier_Ramadour owl:sameAs wd:Q134452404 ;
+    skos:exactMatch wd:Q134452404 .
+
+:Oman owl:sameAs wd:Q842 ;
+    skos:exactMatch wd:Q842 .
+
+:Ouganda owl:sameAs wd:Q1036 ;
+    skos:exactMatch wd:Q1036 .
+
+:Ouzbekistan owl:sameAs wd:Q265 ;
+    skos:exactMatch wd:Q265 .
+
+:Pakistan owl:sameAs wd:Q843 ;
+    skos:exactMatch wd:Q843 .
+
+:Palau owl:sameAs wd:Q695 ;
+    skos:exactMatch wd:Q695 .
+
+:Palestine owl:sameAs wd:Q219060 ;
+    skos:exactMatch wd:Q219060 .
+
+:Panama owl:sameAs wd:Q804 ;
+    skos:exactMatch wd:Q804 .
+
+:Papouasie_Nouvelle_Guinee owl:sameAs wd:Q691 ;
+    skos:exactMatch wd:Q691 .
+
+:Paraguay owl:sameAs wd:Q733 ;
+    skos:exactMatch wd:Q733 .
+
+:Paris owl:sameAs wd:Q90 ;
+    skos:exactMatch wd:Q90 .
+
+:Passeport owl:sameAs wd:Q43812 ;
+    skos:exactMatch wd:Q43812 .
+
+:Passeport_biometrique owl:sameAs wd:Q623045 ;
+    skos:exactMatch wd:Q623045 .
+
+:Passeports owl:sameAs wd:Q337474 ;
+    skos:exactMatch wd:Q337474 .
+
+:Paypal owl:sameAs wd:Q483959 ;
+    skos:exactMatch wd:Q483959 .
+
+:Pays_Bas owl:sameAs wd:Q55 ;
+    skos:exactMatch wd:Q55 .
+
+:Philippines owl:sameAs wd:Q928 ;
+    skos:exactMatch wd:Q928 .
+
+:Pinterest owl:sameAs wd:Q255381 ;
+    skos:exactMatch wd:Q255381 .
+
+:Plurk owl:sameAs wd:Q32111 ;
+    skos:exactMatch wd:Q32111 .
+
+:Pologne owl:sameAs wd:Q36 ;
+    skos:exactMatch wd:Q36 .
+
+:Porto_Rico owl:sameAs wd:Q1985148 ;
+    skos:exactMatch wd:Q1985148 .
+
+:Portugal owl:sameAs wd:Q45 ;
+    skos:exactMatch wd:Q45 .
+
+:Pusha owl:sameAs wd:Q2329709 ;
+    skos:exactMatch wd:Q2329709 .
+
+:Qatar owl:sameAs wd:Q846 ;
+    skos:exactMatch wd:Q846 .
+
+:Rabat owl:sameAs wd:Q3551 ;
+    skos:exactMatch wd:Q3551 .
+
+:Reddit owl:sameAs wd:Q1136 ;
+    skos:exactMatch wd:Q1136 .
+
+:Renren owl:sameAs wd:Q784022 ;
+    skos:exactMatch wd:Q784022 .
+
+:Republique_centrafricaine owl:sameAs wd:Q929 ;
+    skos:exactMatch wd:Q929 .
+
+:Republique_du_Congo a owl:Thing ;
+    rdfs:label "République du Congo"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" ;
+    owl:sameAs wd:Q971 ;
+    skos:exactMatch wd:Q971 .
+
+:Royaume_Uni owl:sameAs wd:Q145 ;
+    skos:exactMatch wd:Q145 .
+
+:Sainte_Cecile_les_Vignes owl:sameAs wd:Q28497140 ;
+    skos:exactMatch wd:Q28497140 .
+
+:Sao_Tome_et_Principe owl:sameAs wd:Q1039 ;
+    skos:exactMatch wd:Q1039 .
+
+:Senegal owl:sameAs wd:Q1041 ;
+    skos:exactMatch wd:Q1041 .
+
+:Sidi owl:sameAs wd:Q7508824 ;
+    skos:exactMatch wd:Q7508824 .
+
+:Sierra_Leone owl:sameAs wd:Q1044 ;
+    skos:exactMatch wd:Q1044 .
+
+:Sina owl:sameAs wd:Q80252 ;
+    skos:exactMatch wd:Q80252 .
+
+:Skype owl:sameAs wd:Q40984 ;
+    skos:exactMatch wd:Q40984 .
+
+:Slashdot owl:sameAs wd:Q59083 ;
+    skos:exactMatch wd:Q59083 .
+
+:Soudan_du_Sud owl:sameAs wd:Q958 ;
+    skos:exactMatch wd:Q958 .
+
+:Sri_Lanka owl:sameAs wd:Q854 ;
+    skos:exactMatch wd:Q854 .
+
+:Suisse owl:sameAs wd:Q39 ;
+    skos:exactMatch wd:Q39 .
+
+:Suriname owl:sameAs wd:Q730 ;
+    skos:exactMatch wd:Q730 .
+
+:Swaziland owl:sameAs wd:Q1050 ;
+    skos:exactMatch wd:Q1050 .
+
+:Symbaloo owl:sameAs wd:Q20010884 ;
+    skos:exactMatch wd:Q20010884 .
+
+:Syrie owl:sameAs wd:Q858 ;
+    skos:exactMatch wd:Q858 .
+
+:Tadjikistan owl:sameAs wd:Q863 ;
+    skos:exactMatch wd:Q863 .
+
+:Tanger owl:sameAs wd:Q126148 ;
+    skos:exactMatch wd:Q126148 .
+
+:Tanzanie a owl:Thing ;
+    rdfs:label "Tanzanie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" ;
+    owl:sameAs wd:Q924 ;
+    skos:exactMatch wd:Q924 .
+
+:Tchad owl:sameAs wd:Q657 ;
+    skos:exactMatch wd:Q657 .
+
+:Telegram owl:sameAs wd:Q32049814 ;
+    skos:exactMatch wd:Q32049814 .
+
+:Threema owl:sameAs wd:Q13512316 ;
+    skos:exactMatch wd:Q13512316 .
+
+:Togo owl:sameAs wd:Q945 ;
+    skos:exactMatch wd:Q945 .
+
+:Trinite_et_Tobago owl:sameAs wd:Q754 ;
+    skos:exactMatch wd:Q754 .
+
+:Tuenti owl:sameAs wd:Q609524 ;
+    skos:exactMatch wd:Q609524 .
+
+:Tumblr owl:sameAs wd:Q384060 ;
+    skos:exactMatch wd:Q384060 .
+
+:Tunisie a owl:Thing ;
+    rdfs:label "Tunisie"@fr ;
+    rdfs:comment "Defined locally: No Wikidata match above threshold" ;
+    owl:sameAs wd:Q948 ;
+    skos:exactMatch wd:Q948 .
+
+:Turkmenistan owl:sameAs wd:Q874 ;
+    skos:exactMatch wd:Q874 .
+
+:Ukraine owl:sameAs wd:Q212 ;
+    skos:exactMatch wd:Q212 .
+
+:Uruguay owl:sameAs wd:Q77 ;
+    skos:exactMatch wd:Q77 .
+
+:Vanuatu owl:sameAs wd:Q686 ;
+    skos:exactMatch wd:Q686 .
+
+:Venezuela owl:sameAs wd:Q717 ;
+    skos:exactMatch wd:Q717 .
+
+:Viadeo owl:sameAs wd:Q181592 ;
+    skos:exactMatch wd:Q181592 .
+
+:Viber owl:sameAs wd:Q332707 ;
+    skos:exactMatch wd:Q332707 .
+
+:Vietnam owl:sameAs wd:Q881 ;
+    skos:exactMatch wd:Q881 .
+
+:Wanelo owl:sameAs wd:Q134687175 ;
+    skos:exactMatch wd:Q134687175 .
+
+:Weibo owl:sameAs wd:Q92526 ;
+    skos:exactMatch wd:Q92526 .
+
+:Wykop owl:sameAs wd:Q8039882 ;
+    skos:exactMatch wd:Q8039882 .
+
+:Yahoo owl:sameAs wd:Q37093 ;
+    skos:exactMatch wd:Q37093 .
+
+:Yahoo_Mail owl:sameAs wd:Q868165 ;
+    skos:exactMatch wd:Q868165 .
+
+:Yoolink owl:sameAs wd:Q3572554 ;
+    skos:exactMatch wd:Q3572554 .
+
+:Yummly owl:sameAs wd:Q8061140 ;
+    skos:exactMatch wd:Q8061140 .
+
+:Zimbabwe owl:sameAs wd:Q954 ;
+    skos:exactMatch wd:Q954 .
+
+:kafala owl:sameAs wd:Q1721015 ;
+    skos:exactMatch wd:Q1721015 .
+
+:la_Cote_dIvoire owl:sameAs wd:Q19182533 ;
+    skos:exactMatch wd:Q19182533 .
+
+:la_France owl:sameAs wd:Q142 ;
+    skos:exactMatch wd:Q142 .
+
+:la_Mission_Diplomatique owl:sameAs wd:Q17360091 ;
+    skos:exactMatch wd:Q17360091 .
+
+:le_Burkina_Faso owl:sameAs wd:Q965 ;
+    skos:exactMatch wd:Q965 .
+
+:le_Gabon owl:sameAs wd:Q1000 ;
+    skos:exactMatch wd:Q1000 .
+
+:le_Senegal owl:sameAs wd:Q56480478 ;
+    skos:exactMatch wd:Q56480478 .
+
+:universite owl:sameAs wd:Q3918 ;
+    skos:exactMatch wd:Q3918 .
+

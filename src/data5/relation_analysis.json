@@ -1,0 +1,2403 @@
+{
+  "per_relation": {
+    "Contact_aux_via": {
+      "uri": "http://consulat.ma/kg/Contact_aux_via",
+      "top_similar_relations": [
+        "P706",
+        "P708",
+        "P3320",
+        "headquartersLocation",
+        "P5009"
+      ],
+      "embedding_norm": 11.074005126953125
+    },
+    "Pour_contacter_de_aux": {
+      "uri": "http://consulat.ma/kg/Pour_contacter_de_aux",
+      "top_similar_relations": [
+        "P610",
+        "P275",
+        "externalEntity",
+        "relatedTo",
+        "P39"
+      ],
+      "embedding_norm": 10.766013145446777
+    },
+    "a_de_pour_ayant": {
+      "uri": "http://consulat.ma/kg/a_de_pour_ayant",
+      "top_similar_relations": [
+        "P358",
+        "P2872",
+        "P38",
+        "P740",
+        "P2388"
+      ],
+      "embedding_norm": 10.898722648620605
+    },
+    "appliesTo": {
+      "uri": "http://consulat.ma/kg/appliesTo",
+      "top_similar_relations": [
+        "P4777",
+        "P2283",
+        "P12714",
+        "P1366",
+        "P2853"
+      ],
+      "embedding_norm": 11.631462097167969
+    },
+    "aux": {
+      "uri": "http://consulat.ma/kg/aux",
+      "top_similar_relations": [
+        "P169",
+        "P138",
+        "P1454",
+        "P13574",
+        "P1366"
+      ],
+      "embedding_norm": 11.159156799316406
+    },
+    "capital": {
+      "uri": "http://consulat.ma/kg/capital",
+      "top_similar_relations": [
+        "P1343",
+        "P1366",
+        "containsAdministrativeDivision",
+        "locatedIn",
+        "headquartersLocation"
+      ],
+      "embedding_norm": 11.489644050598145
+    },
+    "containsAdministrativeDivision": {
+      "uri": "http://consulat.ma/kg/containsAdministrativeDivision",
+      "top_similar_relations": [
+        "locatedIn",
+        "capital",
+        "P1366",
+        "P1343",
+        "externalEntity"
+      ],
+      "embedding_norm": 10.134690284729004
+    },
+    "country": {
+      "uri": "http://consulat.ma/kg/country",
+      "top_similar_relations": [
+        "P4777",
+        "P1366",
+        "P2670",
+        "ne_au",
+        "P277"
+      ],
+      "embedding_norm": 10.90188980102539
+    },
+    "dans_de_de": {
+      "uri": "http://consulat.ma/kg/dans_de_de",
+      "top_similar_relations": [
+        "P1535",
+        "P418",
+        "P832",
+        "P121",
+        "P868"
+      ],
+      "embedding_norm": 11.342605590820312
+    },
+    "de": {
+      "uri": "http://consulat.ma/kg/de",
+      "top_similar_relations": [
+        "privateEntity",
+        "deja",
+        "relatedTo",
+        "P6379",
+        "P10624"
+      ],
+      "embedding_norm": 11.368810653686523
+    },
+    "de_sont_a_pour": {
+      "uri": "http://consulat.ma/kg/de_sont_a_pour",
+      "top_similar_relations": [
+        "P136",
+        "P277",
+        "P1889",
+        "P172",
+        "P121"
+      ],
+      "embedding_norm": 11.320478439331055
+    },
+    "deja": {
+      "uri": "http://consulat.ma/kg/deja",
+      "top_similar_relations": [
+        "privateEntity",
+        "de",
+        "P2652",
+        "relatedTo",
+        "P2670"
+      ],
+      "embedding_norm": 10.760998725891113
+    },
+    "est_a": {
+      "uri": "http://consulat.ma/kg/est_a",
+      "top_similar_relations": [
+        "P8989",
+        "P208",
+        "externalEntity",
+        "P460",
+        "P407"
+      ],
+      "embedding_norm": 11.207499504089355
+    },
+    "est_des_a_dans": {
+      "uri": "http://consulat.ma/kg/est_des_a_dans",
+      "top_similar_relations": [
+        "P1546",
+        "P195",
+        "P1906",
+        "P2541",
+        "country"
+      ],
+      "embedding_norm": 11.341185569763184
+    },
+    "externalEntity": {
+      "uri": "http://consulat.ma/kg/externalEntity",
+      "top_similar_relations": [
+        "rdf-schema#subPropertyOf",
+        "locatedIn",
+        "containsAdministrativeDivision",
+        "Pour_contacter_de_aux",
+        "P39"
+      ],
+      "embedding_norm": 10.281494140625
+    },
+    "hasPart": {
+      "uri": "http://consulat.ma/kg/hasPart",
+      "top_similar_relations": [
+        "P276",
+        "parentOrganization",
+        "P6104",
+        "P1464",
+        "P121"
+      ],
+      "embedding_norm": 11.787452697753906
+    },
+    "headquartersLocation": {
+      "uri": "http://consulat.ma/kg/headquartersLocation",
+      "top_similar_relations": [
+        "P706",
+        "P2652",
+        "P122",
+        "capital",
+        "P1343"
+      ],
+      "embedding_norm": 12.019062042236328
+    },
+    "instanceOf": {
+      "uri": "http://consulat.ma/kg/instanceOf",
+      "top_similar_relations": [
+        "P121",
+        "P3342",
+        "P1344",
+        "P1433",
+        "P1037"
+      ],
+      "embedding_norm": 10.17165756225586
+    },
+    "locatedIn": {
+      "uri": "http://consulat.ma/kg/locatedIn",
+      "top_similar_relations": [
+        "containsAdministrativeDivision",
+        "P1366",
+        "capital",
+        "externalEntity",
+        "P1343"
+      ],
+      "embedding_norm": 10.39284610748291
+    },
+    "ne": {
+      "uri": "http://consulat.ma/kg/ne",
+      "top_similar_relations": [
+        "P12443",
+        "P463",
+        "P2959",
+        "P1454",
+        "aux"
+      ],
+      "embedding_norm": 11.373189926147461
+    },
+    "ne_a_en": {
+      "uri": "http://consulat.ma/kg/ne_a_en",
+      "top_similar_relations": [
+        "P2596",
+        "rdf-schema#subPropertyOf",
+        "P1454",
+        "P1412",
+        "P452"
+      ],
+      "embedding_norm": 11.355420112609863
+    },
+    "ne_au": {
+      "uri": "http://consulat.ma/kg/ne_au",
+      "top_similar_relations": [
+        "P282",
+        "P10280",
+        "P1389",
+        "country",
+        "P1456"
+      ],
+      "embedding_norm": 10.454182624816895
+    },
+    "officialLanguage": {
+      "uri": "http://consulat.ma/kg/officialLanguage",
+      "top_similar_relations": [
+        "P12443",
+        "P1365",
+        "P1622",
+        "P1366",
+        "P78"
+      ],
+      "embedding_norm": 11.396162033081055
+    },
+    "parentOrganization": {
+      "uri": "http://consulat.ma/kg/parentOrganization",
+      "top_similar_relations": [
+        "P6104",
+        "P2853",
+        "P1791",
+        "P2652",
+        "P4290"
+      ],
+      "embedding_norm": 11.183798789978027
+    },
+    "partOf": {
+      "uri": "http://consulat.ma/kg/partOf",
+      "top_similar_relations": [
+        "privateEntity",
+        "relatedTo",
+        "P3342",
+        "P11463",
+        "P1552"
+      ],
+      "embedding_norm": 10.231868743896484
+    },
+    "privateEntity": {
+      "uri": "http://consulat.ma/kg/privateEntity",
+      "top_similar_relations": [
+        "deja",
+        "de",
+        "relatedTo",
+        "partOf",
+        "P2652"
+      ],
+      "embedding_norm": 11.146676063537598
+    },
+    "relatedTo": {
+      "uri": "http://consulat.ma/kg/relatedTo",
+      "top_similar_relations": [
+        "privateEntity",
+        "P4913",
+        "P5008",
+        "P437",
+        "partOf"
+      ],
+      "embedding_norm": 10.711617469787598
+    },
+    "related_to": {
+      "uri": "http://consulat.ma/kg/related_to",
+      "top_similar_relations": [
+        "P6216",
+        "P793",
+        "P5008",
+        "P2354",
+        "rdf-schema#subPropertyOf"
+      ],
+      "embedding_norm": 11.044329643249512
+    },
+    "sont_a_du_de": {
+      "uri": "http://consulat.ma/kg/sont_a_du_de",
+      "top_similar_relations": [
+        "P47",
+        "P366",
+        "Contact_aux_via",
+        "P3320",
+        "P807"
+      ],
+      "embedding_norm": 10.161056518554688
+    },
+    "subclassOf": {
+      "uri": "http://consulat.ma/kg/subclassOf",
+      "top_similar_relations": [
+        "P1072",
+        "P10624",
+        "P122",
+        "P807",
+        "partOf"
+      ],
+      "embedding_norm": 11.223407745361328
+    },
+    "vivez": {
+      "uri": "http://consulat.ma/kg/vivez",
+      "top_similar_relations": [
+        "P5008",
+        "P501",
+        "P155",
+        "P437",
+        "P2853"
+      ],
+      "embedding_norm": 11.220004081726074
+    },
+    "vous": {
+      "uri": "http://consulat.ma/kg/vous",
+      "top_similar_relations": [
+        "P2652",
+        "Contact_aux_via",
+        "instanceOf",
+        "P1433",
+        "sont_a_du_de"
+      ],
+      "embedding_norm": 10.25296401977539
+    },
+    "rdf-schema#subClassOf": {
+      "uri": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "top_similar_relations": [
+        "P2184",
+        "core#exactMatch",
+        "P1552",
+        "P1622",
+        "P78"
+      ],
+      "embedding_norm": 10.848016738891602
+    },
+    "rdf-schema#subPropertyOf": {
+      "uri": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+      "top_similar_relations": [
+        "externalEntity",
+        "P1424",
+        "P39",
+        "ne_a_en",
+        "related_to"
+      ],
+      "embedding_norm": 10.460536003112793
+    },
+    "core#exactMatch": {
+      "uri": "http://www.w3.org/2004/02/skos/core#exactMatch",
+      "top_similar_relations": [
+        "P463",
+        "P1424",
+        "locatedIn",
+        "containsAdministrativeDivision",
+        "P457"
+      ],
+      "embedding_norm": 10.651124000549316
+    },
+    "P101": {
+      "uri": "http://www.wikidata.org/prop/direct/P101",
+      "top_similar_relations": [
+        "P61",
+        "P2936",
+        "P822",
+        "P1382",
+        "P210"
+      ],
+      "embedding_norm": 10.679159164428711
+    },
+    "P10280": {
+      "uri": "http://www.wikidata.org/prop/direct/P10280",
+      "top_similar_relations": [
+        "ne_au",
+        "P282",
+        "P1389",
+        "P3342",
+        "P1456"
+      ],
+      "embedding_norm": 11.060591697692871
+    },
+    "P103": {
+      "uri": "http://www.wikidata.org/prop/direct/P103",
+      "top_similar_relations": [
+        "P6216",
+        "P78",
+        "P1456",
+        "officialLanguage",
+        "P1389"
+      ],
+      "embedding_norm": 10.766942024230957
+    },
+    "P1037": {
+      "uri": "http://www.wikidata.org/prop/direct/P1037",
+      "top_similar_relations": [
+        "P3075",
+        "P1151",
+        "P178",
+        "P170",
+        "P3342"
+      ],
+      "embedding_norm": 11.805493354797363
+    },
+    "P1056": {
+      "uri": "http://www.wikidata.org/prop/direct/P1056",
+      "top_similar_relations": [
+        "P170",
+        "P669",
+        "P807",
+        "P127",
+        "P1037"
+      ],
+      "embedding_norm": 10.799578666687012
+    },
+    "P106": {
+      "uri": "http://www.wikidata.org/prop/direct/P106",
+      "top_similar_relations": [
+        "P4290",
+        "parentOrganization",
+        "P485",
+        "P6104",
+        "P2853"
+      ],
+      "embedding_norm": 10.445967674255371
+    },
+    "P10624": {
+      "uri": "http://www.wikidata.org/prop/direct/P10624",
+      "top_similar_relations": [
+        "P1072",
+        "subclassOf",
+        "de",
+        "P3320",
+        "P190"
+      ],
+      "embedding_norm": 10.784966468811035
+    },
+    "P1072": {
+      "uri": "http://www.wikidata.org/prop/direct/P1072",
+      "top_similar_relations": [
+        "P10624",
+        "subclassOf",
+        "P3320",
+        "de",
+        "P1336"
+      ],
+      "embedding_norm": 10.423906326293945
+    },
+    "P1073": {
+      "uri": "http://www.wikidata.org/prop/direct/P1073",
+      "top_similar_relations": [
+        "P735",
+        "P1382",
+        "P209",
+        "P822",
+        "P460"
+      ],
+      "embedding_norm": 10.788019180297852
+    },
+    "P10888": {
+      "uri": "http://www.wikidata.org/prop/direct/P10888",
+      "top_similar_relations": [
+        "P479",
+        "P1589",
+        "P1622",
+        "P463",
+        "P2959"
+      ],
+      "embedding_norm": 11.22349739074707
+    },
+    "P112": {
+      "uri": "http://www.wikidata.org/prop/direct/P112",
+      "top_similar_relations": [
+        "P5658",
+        "P735",
+        "P1535",
+        "P3075",
+        "P1552"
+      ],
+      "embedding_norm": 10.466856002807617
+    },
+    "P11463": {
+      "uri": "http://www.wikidata.org/prop/direct/P11463",
+      "top_similar_relations": [
+        "P137",
+        "P38",
+        "P1622",
+        "P12443",
+        "P1589"
+      ],
+      "embedding_norm": 10.399359703063965
+    },
+    "P1151": {
+      "uri": "http://www.wikidata.org/prop/direct/P1151",
+      "top_similar_relations": [
+        "P137",
+        "P1037",
+        "P170",
+        "P12443",
+        "P178"
+      ],
+      "embedding_norm": 11.584931373596191
+    },
+    "P121": {
+      "uri": "http://www.wikidata.org/prop/direct/P121",
+      "top_similar_relations": [
+        "instanceOf",
+        "P421",
+        "P3342",
+        "P276",
+        "P275"
+      ],
+      "embedding_norm": 10.135523796081543
+    },
+    "P122": {
+      "uri": "http://www.wikidata.org/prop/direct/P122",
+      "top_similar_relations": [
+        "P306",
+        "P194",
+        "P206",
+        "P355",
+        "headquartersLocation"
+      ],
+      "embedding_norm": 11.150908470153809
+    },
+    "P12443": {
+      "uri": "http://www.wikidata.org/prop/direct/P12443",
+      "top_similar_relations": [
+        "P1365",
+        "P1622",
+        "P1589",
+        "officialLanguage",
+        "P2959"
+      ],
+      "embedding_norm": 12.521113395690918
+    },
+    "P1269": {
+      "uri": "http://www.wikidata.org/prop/direct/P1269",
+      "top_similar_relations": [
+        "P488",
+        "P832",
+        "P868",
+        "P530",
+        "P822"
+      ],
+      "embedding_norm": 10.953914642333984
+    },
+    "P127": {
+      "uri": "http://www.wikidata.org/prop/direct/P127",
+      "top_similar_relations": [
+        "P1056",
+        "P463",
+        "P2633",
+        "P2959",
+        "P1465"
+      ],
+      "embedding_norm": 10.954851150512695
+    },
+    "P12714": {
+      "uri": "http://www.wikidata.org/prop/direct/P12714",
+      "top_similar_relations": [
+        "appliesTo",
+        "P156",
+        "P38",
+        "P1465",
+        "P169"
+      ],
+      "embedding_norm": 10.704024314880371
+    },
+    "P1303": {
+      "uri": "http://www.wikidata.org/prop/direct/P1303",
+      "top_similar_relations": [
+        "P1875",
+        "P1424",
+        "P2388",
+        "P735",
+        "P910"
+      ],
+      "embedding_norm": 10.682544708251953
+    },
+    "P1304": {
+      "uri": "http://www.wikidata.org/prop/direct/P1304",
+      "top_similar_relations": [
+        "P2354",
+        "P1344",
+        "P457",
+        "P2852",
+        "deja"
+      ],
+      "embedding_norm": 10.84146499633789
+    },
+    "P1313": {
+      "uri": "http://www.wikidata.org/prop/direct/P1313",
+      "top_similar_relations": [
+        "P437",
+        "P5008",
+        "P4913",
+        "P750",
+        "P793"
+      ],
+      "embedding_norm": 9.368062019348145
+    },
+    "P1327": {
+      "uri": "http://www.wikidata.org/prop/direct/P1327",
+      "top_similar_relations": [
+        "P2283",
+        "P8625",
+        "P6216",
+        "P1382",
+        "P155"
+      ],
+      "embedding_norm": 9.370007514953613
+    },
+    "P1336": {
+      "uri": "http://www.wikidata.org/prop/direct/P1336",
+      "top_similar_relations": [
+        "P740",
+        "P1552",
+        "P1072",
+        "de_sont_a_pour",
+        "P418"
+      ],
+      "embedding_norm": 10.430609703063965
+    },
+    "P1343": {
+      "uri": "http://www.wikidata.org/prop/direct/P1343",
+      "top_similar_relations": [
+        "capital",
+        "P1366",
+        "containsAdministrativeDivision",
+        "headquartersLocation",
+        "locatedIn"
+      ],
+      "embedding_norm": 11.301567077636719
+    },
+    "P1344": {
+      "uri": "http://www.wikidata.org/prop/direct/P1344",
+      "top_similar_relations": [
+        "P3342",
+        "instanceOf",
+        "P264",
+        "P1951",
+        "P121"
+      ],
+      "embedding_norm": 11.4204740524292
+    },
+    "P13574": {
+      "uri": "http://www.wikidata.org/prop/direct/P13574",
+      "top_similar_relations": [
+        "P1533",
+        "P750",
+        "P163",
+        "P793",
+        "P2184"
+      ],
+      "embedding_norm": 10.382782936096191
+    },
+    "P136": {
+      "uri": "http://www.wikidata.org/prop/direct/P136",
+      "top_similar_relations": [
+        "P747",
+        "de_sont_a_pour",
+        "P1906",
+        "est_des_a_dans",
+        "P195"
+      ],
+      "embedding_norm": 10.906410217285156
+    },
+    "P1365": {
+      "uri": "http://www.wikidata.org/prop/direct/P1365",
+      "top_similar_relations": [
+        "P1791",
+        "P12443",
+        "P421",
+        "P2388",
+        "parentOrganization"
+      ],
+      "embedding_norm": 10.781347274780273
+    },
+    "P1366": {
+      "uri": "http://www.wikidata.org/prop/direct/P1366",
+      "top_similar_relations": [
+        "capital",
+        "P1343",
+        "locatedIn",
+        "containsAdministrativeDivision",
+        "country"
+      ],
+      "embedding_norm": 13.666397094726562
+    },
+    "P137": {
+      "uri": "http://www.wikidata.org/prop/direct/P137",
+      "top_similar_relations": [
+        "P1151",
+        "P1791",
+        "P11463",
+        "P208",
+        "P1365"
+      ],
+      "embedding_norm": 12.009079933166504
+    },
+    "P1376": {
+      "uri": "http://www.wikidata.org/prop/direct/P1376",
+      "top_similar_relations": [
+        "P460",
+        "P1412",
+        "P3403",
+        "P5869",
+        "P7936"
+      ],
+      "embedding_norm": 10.811760902404785
+    },
+    "P138": {
+      "uri": "http://www.wikidata.org/prop/direct/P138",
+      "top_similar_relations": [
+        "aux",
+        "P1465",
+        "P747",
+        "P452",
+        "P2868"
+      ],
+      "embedding_norm": 10.818551063537598
+    },
+    "P1382": {
+      "uri": "http://www.wikidata.org/prop/direct/P1382",
+      "top_similar_relations": [
+        "P2936",
+        "P1535",
+        "P2541",
+        "P50",
+        "P1073"
+      ],
+      "embedding_norm": 11.005358695983887
+    },
+    "P1389": {
+      "uri": "http://www.wikidata.org/prop/direct/P1389",
+      "top_similar_relations": [
+        "P10280",
+        "ne_au",
+        "P282",
+        "P734",
+        "P35"
+      ],
+      "embedding_norm": 11.845340728759766
+    },
+    "P140": {
+      "uri": "http://www.wikidata.org/prop/direct/P140",
+      "top_similar_relations": [
+        "P8402",
+        "P35",
+        "P8625",
+        "P27",
+        "P1303"
+      ],
+      "embedding_norm": 10.996768951416016
+    },
+    "P1412": {
+      "uri": "http://www.wikidata.org/prop/direct/P1412",
+      "top_similar_relations": [
+        "P2596",
+        "P1376",
+        "P485",
+        "P7936",
+        "ne_a_en"
+      ],
+      "embedding_norm": 10.424711227416992
+    },
+    "P1414": {
+      "uri": "http://www.wikidata.org/prop/direct/P1414",
+      "top_similar_relations": [
+        "P1789",
+        "P1552",
+        "P5658",
+        "P166",
+        "P3403"
+      ],
+      "embedding_norm": 10.572577476501465
+    },
+    "P1416": {
+      "uri": "http://www.wikidata.org/prop/direct/P1416",
+      "top_similar_relations": [
+        "P5203",
+        "P1441",
+        "P1875",
+        "P27",
+        "P735"
+      ],
+      "embedding_norm": 10.92298698425293
+    },
+    "P1424": {
+      "uri": "http://www.wikidata.org/prop/direct/P1424",
+      "top_similar_relations": [
+        "P1303",
+        "P1875",
+        "P85",
+        "rdf-schema#subPropertyOf",
+        "core#exactMatch"
+      ],
+      "embedding_norm": 11.312925338745117
+    },
+    "P1433": {
+      "uri": "http://www.wikidata.org/prop/direct/P1433",
+      "top_similar_relations": [
+        "P479",
+        "P10888",
+        "P1589",
+        "instanceOf",
+        "headquartersLocation"
+      ],
+      "embedding_norm": 12.464956283569336
+    },
+    "P1435": {
+      "uri": "http://www.wikidata.org/prop/direct/P1435",
+      "top_similar_relations": [
+        "capital",
+        "P1343",
+        "P176",
+        "P178",
+        "Contact_aux_via"
+      ],
+      "embedding_norm": 10.932731628417969
+    },
+    "P1441": {
+      "uri": "http://www.wikidata.org/prop/direct/P1441",
+      "top_similar_relations": [
+        "P1889",
+        "P275",
+        "P1416",
+        "P553",
+        "P85"
+      ],
+      "embedding_norm": 10.861903190612793
+    },
+    "P1454": {
+      "uri": "http://www.wikidata.org/prop/direct/P1454",
+      "top_similar_relations": [
+        "P1465",
+        "aux",
+        "ne_a_en",
+        "ne",
+        "P176"
+      ],
+      "embedding_norm": 10.545862197875977
+    },
+    "P1456": {
+      "uri": "http://www.wikidata.org/prop/direct/P1456",
+      "top_similar_relations": [
+        "country",
+        "P10280",
+        "P169",
+        "ne_au",
+        "P103"
+      ],
+      "embedding_norm": 11.020800590515137
+    },
+    "P1464": {
+      "uri": "http://www.wikidata.org/prop/direct/P1464",
+      "top_similar_relations": [
+        "P276",
+        "P8625",
+        "P407",
+        "P2652",
+        "headquartersLocation"
+      ],
+      "embedding_norm": 10.6464204788208
+    },
+    "P1465": {
+      "uri": "http://www.wikidata.org/prop/direct/P1465",
+      "top_similar_relations": [
+        "P1454",
+        "P138",
+        "P208",
+        "P12714",
+        "P127"
+      ],
+      "embedding_norm": 11.004670143127441
+    },
+    "P1533": {
+      "uri": "http://www.wikidata.org/prop/direct/P1533",
+      "top_similar_relations": [
+        "P13574",
+        "P2184",
+        "P163",
+        "P3975",
+        "P750"
+      ],
+      "embedding_norm": 11.172927856445312
+    },
+    "P1535": {
+      "uri": "http://www.wikidata.org/prop/direct/P1535",
+      "top_similar_relations": [
+        "P6886",
+        "P1382",
+        "P282",
+        "P166",
+        "P2283"
+      ],
+      "embedding_norm": 9.346166610717773
+    },
+    "P1546": {
+      "uri": "http://www.wikidata.org/prop/direct/P1546",
+      "top_similar_relations": [
+        "P1906",
+        "P400",
+        "P3025",
+        "P1366",
+        "est_des_a_dans"
+      ],
+      "embedding_norm": 10.872232437133789
+    },
+    "P155": {
+      "uri": "http://www.wikidata.org/prop/direct/P155",
+      "top_similar_relations": [
+        "P501",
+        "P2853",
+        "P6104",
+        "P793",
+        "P437"
+      ],
+      "embedding_norm": 8.56116771697998
+    },
+    "P1552": {
+      "uri": "http://www.wikidata.org/prop/direct/P1552",
+      "top_similar_relations": [
+        "P734",
+        "P5658",
+        "P1336",
+        "P1414",
+        "P194"
+      ],
+      "embedding_norm": 10.791543960571289
+    },
+    "P156": {
+      "uri": "http://www.wikidata.org/prop/direct/P156",
+      "top_similar_relations": [
+        "P2852",
+        "P12714",
+        "Pour_contacter_de_aux",
+        "P1875",
+        "P1303"
+      ],
+      "embedding_norm": 10.748228073120117
+    },
+    "P1589": {
+      "uri": "http://www.wikidata.org/prop/direct/P1589",
+      "top_similar_relations": [
+        "P10888",
+        "P479",
+        "P463",
+        "P2959",
+        "P1622"
+      ],
+      "embedding_norm": 11.500387191772461
+    },
+    "P1622": {
+      "uri": "http://www.wikidata.org/prop/direct/P1622",
+      "top_similar_relations": [
+        "P10888",
+        "P1589",
+        "P479",
+        "P12443",
+        "P463"
+      ],
+      "embedding_norm": 12.103851318359375
+    },
+    "P163": {
+      "uri": "http://www.wikidata.org/prop/direct/P163",
+      "top_similar_relations": [
+        "P1533",
+        "P13574",
+        "P30",
+        "P6379",
+        "P2283"
+      ],
+      "embedding_norm": 10.401104927062988
+    },
+    "P166": {
+      "uri": "http://www.wikidata.org/prop/direct/P166",
+      "top_similar_relations": [
+        "P734",
+        "P1535",
+        "P1414",
+        "P194",
+        "P276"
+      ],
+      "embedding_norm": 10.63981819152832
+    },
+    "P169": {
+      "uri": "http://www.wikidata.org/prop/direct/P169",
+      "top_similar_relations": [
+        "P1037",
+        "aux",
+        "P2579",
+        "P1456",
+        "P264"
+      ],
+      "embedding_norm": 10.933487892150879
+    },
+    "P170": {
+      "uri": "http://www.wikidata.org/prop/direct/P170",
+      "top_similar_relations": [
+        "P1037",
+        "P12443",
+        "P178",
+        "P1151",
+        "P3075"
+      ],
+      "embedding_norm": 12.87213134765625
+    },
+    "P172": {
+      "uri": "http://www.wikidata.org/prop/direct/P172",
+      "top_similar_relations": [
+        "P19",
+        "P3320",
+        "de_sont_a_pour",
+        "P2852",
+        "P452"
+      ],
+      "embedding_norm": 10.712015151977539
+    },
+    "P1740": {
+      "uri": "http://www.wikidata.org/prop/direct/P1740",
+      "top_similar_relations": [
+        "P8402",
+        "parentOrganization",
+        "P1791",
+        "P1304",
+        "P306"
+      ],
+      "embedding_norm": 10.535980224609375
+    },
+    "P176": {
+      "uri": "http://www.wikidata.org/prop/direct/P176",
+      "top_similar_relations": [
+        "P1435",
+        "headquartersLocation",
+        "P485",
+        "P127",
+        "P47"
+      ],
+      "embedding_norm": 10.786766052246094
+    },
+    "P178": {
+      "uri": "http://www.wikidata.org/prop/direct/P178",
+      "top_similar_relations": [
+        "P3075",
+        "P1037",
+        "P12443",
+        "P170",
+        "P1151"
+      ],
+      "embedding_norm": 10.827821731567383
+    },
+    "P1789": {
+      "uri": "http://www.wikidata.org/prop/direct/P1789",
+      "top_similar_relations": [
+        "P1414",
+        "P163",
+        "Pour_contacter_de_aux",
+        "P495",
+        "dans_de_de"
+      ],
+      "embedding_norm": 10.937931060791016
+    },
+    "P1791": {
+      "uri": "http://www.wikidata.org/prop/direct/P1791",
+      "top_similar_relations": [
+        "P1365",
+        "P421",
+        "parentOrganization",
+        "P2388",
+        "P12443"
+      ],
+      "embedding_norm": 11.617965698242188
+    },
+    "P1792": {
+      "uri": "http://www.wikidata.org/prop/direct/P1792",
+      "top_similar_relations": [
+        "P8324",
+        "P1830",
+        "P1906",
+        "P7867",
+        "P39"
+      ],
+      "embedding_norm": 10.678221702575684
+    },
+    "P1830": {
+      "uri": "http://www.wikidata.org/prop/direct/P1830",
+      "top_similar_relations": [
+        "P2541",
+        "capital",
+        "P1343",
+        "P8625",
+        "P488"
+      ],
+      "embedding_norm": 10.818366050720215
+    },
+    "P1875": {
+      "uri": "http://www.wikidata.org/prop/direct/P1875",
+      "top_similar_relations": [
+        "P1303",
+        "P5203",
+        "P1424",
+        "P735",
+        "P501"
+      ],
+      "embedding_norm": 10.726725578308105
+    },
+    "P1889": {
+      "uri": "http://www.wikidata.org/prop/direct/P1889",
+      "top_similar_relations": [
+        "P1441",
+        "P7867",
+        "de_sont_a_pour",
+        "P194",
+        "P210"
+      ],
+      "embedding_norm": 10.675342559814453
+    },
+    "P19": {
+      "uri": "http://www.wikidata.org/prop/direct/P19",
+      "top_similar_relations": [
+        "P172",
+        "P452",
+        "est_des_a_dans",
+        "P1433",
+        "P807"
+      ],
+      "embedding_norm": 10.728917121887207
+    },
+    "P190": {
+      "uri": "http://www.wikidata.org/prop/direct/P190",
+      "top_similar_relations": [
+        "P2388",
+        "deja",
+        "P10624",
+        "P5869",
+        "P1072"
+      ],
+      "embedding_norm": 10.812292098999023
+    },
+    "P1906": {
+      "uri": "http://www.wikidata.org/prop/direct/P1906",
+      "top_similar_relations": [
+        "P1546",
+        "P400",
+        "P6104",
+        "P1366",
+        "P3025"
+      ],
+      "embedding_norm": 10.704524040222168
+    },
+    "P194": {
+      "uri": "http://www.wikidata.org/prop/direct/P194",
+      "top_similar_relations": [
+        "P122",
+        "P530",
+        "P1546",
+        "headquartersLocation",
+        "capital"
+      ],
+      "embedding_norm": 10.7496919631958
+    },
+    "P195": {
+      "uri": "http://www.wikidata.org/prop/direct/P195",
+      "top_similar_relations": [
+        "P735",
+        "est_des_a_dans",
+        "P136",
+        "P910",
+        "P3403"
+      ],
+      "embedding_norm": 10.574358940124512
+    },
+    "P1951": {
+      "uri": "http://www.wikidata.org/prop/direct/P1951",
+      "top_similar_relations": [
+        "P1344",
+        "P452",
+        "de_sont_a_pour",
+        "P495",
+        "P740"
+      ],
+      "embedding_norm": 10.624618530273438
+    },
+    "P206": {
+      "uri": "http://www.wikidata.org/prop/direct/P206",
+      "top_similar_relations": [
+        "P355",
+        "P306",
+        "P530",
+        "P122",
+        "est_a"
+      ],
+      "embedding_norm": 10.583999633789062
+    },
+    "P208": {
+      "uri": "http://www.wikidata.org/prop/direct/P208",
+      "top_similar_relations": [
+        "P137",
+        "P8402",
+        "P5769",
+        "P2596",
+        "est_a"
+      ],
+      "embedding_norm": 10.53102970123291
+    },
+    "P209": {
+      "uri": "http://www.wikidata.org/prop/direct/P209",
+      "top_similar_relations": [
+        "P485",
+        "P1589",
+        "P463",
+        "P1073",
+        "P479"
+      ],
+      "embedding_norm": 10.915337562561035
+    },
+    "P21": {
+      "uri": "http://www.wikidata.org/prop/direct/P21",
+      "top_similar_relations": [
+        "P5658",
+        "P3342",
+        "P122",
+        "P6886",
+        "P3075"
+      ],
+      "embedding_norm": 12.02226734161377
+    },
+    "P210": {
+      "uri": "http://www.wikidata.org/prop/direct/P210",
+      "top_similar_relations": [
+        "P5125",
+        "P8625",
+        "P169",
+        "P1889",
+        "P101"
+      ],
+      "embedding_norm": 11.026165008544922
+    },
+    "P2184": {
+      "uri": "http://www.wikidata.org/prop/direct/P2184",
+      "top_similar_relations": [
+        "P3975",
+        "P1533",
+        "P13574",
+        "P910",
+        "P2341"
+      ],
+      "embedding_norm": 10.663528442382812
+    },
+    "P2238": {
+      "uri": "http://www.wikidata.org/prop/direct/P2238",
+      "top_similar_relations": [
+        "P2354",
+        "P358",
+        "P2596",
+        "P170",
+        "P2872"
+      ],
+      "embedding_norm": 11.056621551513672
+    },
+    "P2283": {
+      "uri": "http://www.wikidata.org/prop/direct/P2283",
+      "top_similar_relations": [
+        "P2853",
+        "P793",
+        "P5008",
+        "P437",
+        "P4777"
+      ],
+      "embedding_norm": 9.734130859375
+    },
+    "P2341": {
+      "uri": "http://www.wikidata.org/prop/direct/P2341",
+      "top_similar_relations": [
+        "P3975",
+        "P2184",
+        "P417",
+        "P1433",
+        "P1791"
+      ],
+      "embedding_norm": 10.644702911376953
+    },
+    "P2354": {
+      "uri": "http://www.wikidata.org/prop/direct/P2354",
+      "top_similar_relations": [
+        "P1304",
+        "P2238",
+        "P2596",
+        "P5769",
+        "P8324"
+      ],
+      "embedding_norm": 10.536832809448242
+    },
+    "P237": {
+      "uri": "http://www.wikidata.org/prop/direct/P237",
+      "top_similar_relations": [
+        "officialLanguage",
+        "est_des_a_dans",
+        "P400",
+        "P2388",
+        "P61"
+      ],
+      "embedding_norm": 10.50297737121582
+    },
+    "P2388": {
+      "uri": "http://www.wikidata.org/prop/direct/P2388",
+      "top_similar_relations": [
+        "P1791",
+        "P1365",
+        "P421",
+        "P1303",
+        "P190"
+      ],
+      "embedding_norm": 10.606924057006836
+    },
+    "P2541": {
+      "uri": "http://www.wikidata.org/prop/direct/P2541",
+      "top_similar_relations": [
+        "P1382",
+        "P1830",
+        "est_des_a_dans",
+        "P50",
+        "P868"
+      ],
+      "embedding_norm": 10.769594192504883
+    },
+    "P2579": {
+      "uri": "http://www.wikidata.org/prop/direct/P2579",
+      "top_similar_relations": [
+        "P169",
+        "P277",
+        "P488",
+        "deja",
+        "privateEntity"
+      ],
+      "embedding_norm": 10.929609298706055
+    },
+    "P2596": {
+      "uri": "http://www.wikidata.org/prop/direct/P2596",
+      "top_similar_relations": [
+        "P2354",
+        "ne_a_en",
+        "P1412",
+        "P2238",
+        "P170"
+      ],
+      "embedding_norm": 11.187189102172852
+    },
+    "P2614": {
+      "uri": "http://www.wikidata.org/prop/direct/P2614",
+      "top_similar_relations": [
+        "P2853",
+        "P750",
+        "P437",
+        "parentOrganization",
+        "P4913"
+      ],
+      "embedding_norm": 13.554381370544434
+    },
+    "P2633": {
+      "uri": "http://www.wikidata.org/prop/direct/P2633",
+      "top_similar_relations": [
+        "P35",
+        "P7936",
+        "P8989",
+        "P127",
+        "P61"
+      ],
+      "embedding_norm": 11.235036849975586
+    },
+    "P264": {
+      "uri": "http://www.wikidata.org/prop/direct/P264",
+      "top_similar_relations": [
+        "P1344",
+        "P3342",
+        "P169",
+        "P1037",
+        "P1151"
+      ],
+      "embedding_norm": 10.93404483795166
+    },
+    "P2652": {
+      "uri": "http://www.wikidata.org/prop/direct/P2652",
+      "top_similar_relations": [
+        "headquartersLocation",
+        "P6104",
+        "parentOrganization",
+        "deja",
+        "P2853"
+      ],
+      "embedding_norm": 12.12995433807373
+    },
+    "P2670": {
+      "uri": "http://www.wikidata.org/prop/direct/P2670",
+      "top_similar_relations": [
+        "country",
+        "deja",
+        "P1366",
+        "P6104",
+        "P418"
+      ],
+      "embedding_norm": 10.848504066467285
+    },
+    "P27": {
+      "uri": "http://www.wikidata.org/prop/direct/P27",
+      "top_similar_relations": [
+        "appliesTo",
+        "P13574",
+        "P121",
+        "P4777",
+        "P1416"
+      ],
+      "embedding_norm": 10.921208381652832
+    },
+    "P2746": {
+      "uri": "http://www.wikidata.org/prop/direct/P2746",
+      "top_similar_relations": [
+        "P8989",
+        "P822",
+        "P400",
+        "P208",
+        "P3403"
+      ],
+      "embedding_norm": 9.790081024169922
+    },
+    "P275": {
+      "uri": "http://www.wikidata.org/prop/direct/P275",
+      "top_similar_relations": [
+        "P4290",
+        "parentOrganization",
+        "P121",
+        "P793",
+        "P750"
+      ],
+      "embedding_norm": 8.412163734436035
+    },
+    "P276": {
+      "uri": "http://www.wikidata.org/prop/direct/P276",
+      "top_similar_relations": [
+        "hasPart",
+        "P1464",
+        "P121",
+        "P832",
+        "P3025"
+      ],
+      "embedding_norm": 11.123353958129883
+    },
+    "P277": {
+      "uri": "http://www.wikidata.org/prop/direct/P277",
+      "top_similar_relations": [
+        "country",
+        "P495",
+        "de_sont_a_pour",
+        "P178",
+        "P5658"
+      ],
+      "embedding_norm": 11.695390701293945
+    },
+    "P282": {
+      "uri": "http://www.wikidata.org/prop/direct/P282",
+      "top_similar_relations": [
+        "ne_au",
+        "P10280",
+        "P1389",
+        "P1535",
+        "relatedTo"
+      ],
+      "embedding_norm": 9.490784645080566
+    },
+    "P2852": {
+      "uri": "http://www.wikidata.org/prop/direct/P2852",
+      "top_similar_relations": [
+        "P735",
+        "P1304",
+        "P747",
+        "P156",
+        "P47"
+      ],
+      "embedding_norm": 10.820201873779297
+    },
+    "P2853": {
+      "uri": "http://www.wikidata.org/prop/direct/P2853",
+      "top_similar_relations": [
+        "P437",
+        "P5008",
+        "P793",
+        "parentOrganization",
+        "P750"
+      ],
+      "embedding_norm": 10.228065490722656
+    },
+    "P2868": {
+      "uri": "http://www.wikidata.org/prop/direct/P2868",
+      "top_similar_relations": [
+        "P5869",
+        "P1414",
+        "P1269",
+        "P19",
+        "P6"
+      ],
+      "embedding_norm": 11.004037857055664
+    },
+    "P2872": {
+      "uri": "http://www.wikidata.org/prop/direct/P2872",
+      "top_similar_relations": [
+        "P358",
+        "a_de_pour_ayant",
+        "P3025",
+        "P2238",
+        "P2283"
+      ],
+      "embedding_norm": 10.884087562561035
+    },
+    "P2936": {
+      "uri": "http://www.wikidata.org/prop/direct/P2936",
+      "top_similar_relations": [
+        "P1382",
+        "P2283",
+        "P101",
+        "P1535",
+        "P1327"
+      ],
+      "embedding_norm": 10.278427124023438
+    },
+    "P2959": {
+      "uri": "http://www.wikidata.org/prop/direct/P2959",
+      "top_similar_relations": [
+        "P463",
+        "P1589",
+        "P10888",
+        "P12443",
+        "P479"
+      ],
+      "embedding_norm": 10.780407905578613
+    },
+    "P30": {
+      "uri": "http://www.wikidata.org/prop/direct/P30",
+      "top_similar_relations": [
+        "P163",
+        "P495",
+        "P1546",
+        "P358",
+        "P2872"
+      ],
+      "embedding_norm": 11.11599349975586
+    },
+    "P3025": {
+      "uri": "http://www.wikidata.org/prop/direct/P3025",
+      "top_similar_relations": [
+        "P400",
+        "P6104",
+        "P1546",
+        "P2652",
+        "P1906"
+      ],
+      "embedding_norm": 11.101827621459961
+    },
+    "P306": {
+      "uri": "http://www.wikidata.org/prop/direct/P306",
+      "top_similar_relations": [
+        "P206",
+        "P355",
+        "P530",
+        "P122",
+        "P485"
+      ],
+      "embedding_norm": 10.61162281036377
+    },
+    "P3075": {
+      "uri": "http://www.wikidata.org/prop/direct/P3075",
+      "top_similar_relations": [
+        "P178",
+        "P1037",
+        "P8989",
+        "P3320",
+        "P1151"
+      ],
+      "embedding_norm": 10.223087310791016
+    },
+    "P3320": {
+      "uri": "http://www.wikidata.org/prop/direct/P3320",
+      "top_similar_relations": [
+        "P3075",
+        "P172",
+        "Contact_aux_via",
+        "est_des_a_dans",
+        "P1072"
+      ],
+      "embedding_norm": 10.872856140136719
+    },
+    "P3342": {
+      "uri": "http://www.wikidata.org/prop/direct/P3342",
+      "top_similar_relations": [
+        "P1344",
+        "P1037",
+        "instanceOf",
+        "P417",
+        "P121"
+      ],
+      "embedding_norm": 11.413216590881348
+    },
+    "P3403": {
+      "uri": "http://www.wikidata.org/prop/direct/P3403",
+      "top_similar_relations": [
+        "P7936",
+        "P1376",
+        "P1414",
+        "P2746",
+        "P275"
+      ],
+      "embedding_norm": 10.623239517211914
+    },
+    "P35": {
+      "uri": "http://www.wikidata.org/prop/direct/P35",
+      "top_similar_relations": [
+        "P2633",
+        "P1389",
+        "P5125",
+        "P140",
+        "P2596"
+      ],
+      "embedding_norm": 10.898184776306152
+    },
+    "P355": {
+      "uri": "http://www.wikidata.org/prop/direct/P355",
+      "top_similar_relations": [
+        "P206",
+        "P306",
+        "P530",
+        "P122",
+        "est_a"
+      ],
+      "embedding_norm": 10.344606399536133
+    },
+    "P358": {
+      "uri": "http://www.wikidata.org/prop/direct/P358",
+      "top_similar_relations": [
+        "P2872",
+        "a_de_pour_ayant",
+        "P2238",
+        "P2283",
+        "P2853"
+      ],
+      "embedding_norm": 10.508292198181152
+    },
+    "P366": {
+      "uri": "http://www.wikidata.org/prop/direct/P366",
+      "top_similar_relations": [
+        "P8324",
+        "P610",
+        "P7867",
+        "sont_a_du_de",
+        "P1344"
+      ],
+      "embedding_norm": 10.889623641967773
+    },
+    "P38": {
+      "uri": "http://www.wikidata.org/prop/direct/P38",
+      "top_similar_relations": [
+        "P1546",
+        "a_de_pour_ayant",
+        "P11463",
+        "P2959",
+        "P421"
+      ],
+      "embedding_norm": 10.855829238891602
+    },
+    "P39": {
+      "uri": "http://www.wikidata.org/prop/direct/P39",
+      "top_similar_relations": [
+        "P807",
+        "externalEntity",
+        "rdf-schema#subPropertyOf",
+        "Pour_contacter_de_aux",
+        "P740"
+      ],
+      "embedding_norm": 10.92876148223877
+    },
+    "P3975": {
+      "uri": "http://www.wikidata.org/prop/direct/P3975",
+      "top_similar_relations": [
+        "P2184",
+        "P1533",
+        "P910",
+        "P13574",
+        "P2341"
+      ],
+      "embedding_norm": 11.34245491027832
+    },
+    "P400": {
+      "uri": "http://www.wikidata.org/prop/direct/P400",
+      "top_similar_relations": [
+        "P3025",
+        "P1546",
+        "P910",
+        "P1906",
+        "P6104"
+      ],
+      "embedding_norm": 10.3065767288208
+    },
+    "P407": {
+      "uri": "http://www.wikidata.org/prop/direct/P407",
+      "top_similar_relations": [
+        "P1464",
+        "P530",
+        "est_a",
+        "P1589",
+        "P12443"
+      ],
+      "embedding_norm": 11.069271087646484
+    },
+    "P414": {
+      "uri": "http://www.wikidata.org/prop/direct/P414",
+      "top_similar_relations": [
+        "P1424",
+        "P1376",
+        "P27",
+        "P530",
+        "de_sont_a_pour"
+      ],
+      "embedding_norm": 10.718981742858887
+    },
+    "P417": {
+      "uri": "http://www.wikidata.org/prop/direct/P417",
+      "top_similar_relations": [
+        "P3342",
+        "P1037",
+        "P1344",
+        "relatedTo",
+        "headquartersLocation"
+      ],
+      "embedding_norm": 12.094444274902344
+    },
+    "P418": {
+      "uri": "http://www.wikidata.org/prop/direct/P418",
+      "top_similar_relations": [
+        "P740",
+        "relatedTo",
+        "P1336",
+        "dans_de_de",
+        "P2936"
+      ],
+      "embedding_norm": 11.31325626373291
+    },
+    "P421": {
+      "uri": "http://www.wikidata.org/prop/direct/P421",
+      "top_similar_relations": [
+        "P1791",
+        "P1365",
+        "P121",
+        "P2388",
+        "P12443"
+      ],
+      "embedding_norm": 12.033766746520996
+    },
+    "P4290": {
+      "uri": "http://www.wikidata.org/prop/direct/P4290",
+      "top_similar_relations": [
+        "P106",
+        "P275",
+        "parentOrganization",
+        "P793",
+        "P2853"
+      ],
+      "embedding_norm": 7.843068599700928
+    },
+    "P437": {
+      "uri": "http://www.wikidata.org/prop/direct/P437",
+      "top_similar_relations": [
+        "P5008",
+        "P4913",
+        "P1313",
+        "P750",
+        "P2853"
+      ],
+      "embedding_norm": 9.664122581481934
+    },
+    "P452": {
+      "uri": "http://www.wikidata.org/prop/direct/P452",
+      "top_similar_relations": [
+        "P6",
+        "P1951",
+        "P19",
+        "P172",
+        "P306"
+      ],
+      "embedding_norm": 10.997820854187012
+    },
+    "P457": {
+      "uri": "http://www.wikidata.org/prop/direct/P457",
+      "top_similar_relations": [
+        "P1304",
+        "P1344",
+        "P121",
+        "core#exactMatch",
+        "P27"
+      ],
+      "embedding_norm": 10.816620826721191
+    },
+    "P460": {
+      "uri": "http://www.wikidata.org/prop/direct/P460",
+      "top_similar_relations": [
+        "P5009",
+        "P708",
+        "P735",
+        "P1376",
+        "est_a"
+      ],
+      "embedding_norm": 11.106710433959961
+    },
+    "P463": {
+      "uri": "http://www.wikidata.org/prop/direct/P463",
+      "top_similar_relations": [
+        "P2959",
+        "P1589",
+        "P10888",
+        "P479",
+        "P1622"
+      ],
+      "embedding_norm": 10.680520057678223
+    },
+    "P47": {
+      "uri": "http://www.wikidata.org/prop/direct/P47",
+      "top_similar_relations": [
+        "sont_a_du_de",
+        "P5009",
+        "P750",
+        "P708",
+        "P2852"
+      ],
+      "embedding_norm": 10.95389175415039
+    },
+    "P4777": {
+      "uri": "http://www.wikidata.org/prop/direct/P4777",
+      "top_similar_relations": [
+        "appliesTo",
+        "country",
+        "P2283",
+        "P1546",
+        "P1366"
+      ],
+      "embedding_norm": 12.881734848022461
+    },
+    "P479": {
+      "uri": "http://www.wikidata.org/prop/direct/P479",
+      "top_similar_relations": [
+        "P10888",
+        "P1589",
+        "P463",
+        "P1622",
+        "P2959"
+      ],
+      "embedding_norm": 10.85865592956543
+    },
+    "P485": {
+      "uri": "http://www.wikidata.org/prop/direct/P485",
+      "top_similar_relations": [
+        "P2853",
+        "P106",
+        "P5769",
+        "P4290",
+        "P209"
+      ],
+      "embedding_norm": 9.786497116088867
+    },
+    "P488": {
+      "uri": "http://www.wikidata.org/prop/direct/P488",
+      "top_similar_relations": [
+        "P1269",
+        "P1830",
+        "P2579",
+        "P1433",
+        "P2596"
+      ],
+      "embedding_norm": 10.68064022064209
+    },
+    "P4913": {
+      "uri": "http://www.wikidata.org/prop/direct/P4913",
+      "top_similar_relations": [
+        "P437",
+        "P5008",
+        "P750",
+        "P1313",
+        "P793"
+      ],
+      "embedding_norm": 8.894713401794434
+    },
+    "P495": {
+      "uri": "http://www.wikidata.org/prop/direct/P495",
+      "top_similar_relations": [
+        "P277",
+        "P30",
+        "P1433",
+        "P452",
+        "P1382"
+      ],
+      "embedding_norm": 10.539383888244629
+    },
+    "P50": {
+      "uri": "http://www.wikidata.org/prop/direct/P50",
+      "top_similar_relations": [
+        "P8402",
+        "P1382",
+        "P8933",
+        "P2541",
+        "P1433"
+      ],
+      "embedding_norm": 11.02616024017334
+    },
+    "P5008": {
+      "uri": "http://www.wikidata.org/prop/direct/P5008",
+      "top_similar_relations": [
+        "P437",
+        "P4913",
+        "P1313",
+        "P750",
+        "P793"
+      ],
+      "embedding_norm": 8.544600486755371
+    },
+    "P5009": {
+      "uri": "http://www.wikidata.org/prop/direct/P5009",
+      "top_similar_relations": [
+        "P460",
+        "P706",
+        "P47",
+        "Contact_aux_via",
+        "P437"
+      ],
+      "embedding_norm": 10.57027530670166
+    },
+    "P501": {
+      "uri": "http://www.wikidata.org/prop/direct/P501",
+      "top_similar_relations": [
+        "P155",
+        "P2853",
+        "P793",
+        "P6104",
+        "P437"
+      ],
+      "embedding_norm": 8.828020095825195
+    },
+    "P5125": {
+      "uri": "http://www.wikidata.org/prop/direct/P5125",
+      "top_similar_relations": [
+        "P210",
+        "P35",
+        "P1456",
+        "de_sont_a_pour",
+        "P194"
+      ],
+      "embedding_norm": 10.899385452270508
+    },
+    "P5203": {
+      "uri": "http://www.wikidata.org/prop/direct/P5203",
+      "top_similar_relations": [
+        "P1875",
+        "P706",
+        "P735",
+        "P12443",
+        "P170"
+      ],
+      "embedding_norm": 10.740456581115723
+    },
+    "P530": {
+      "uri": "http://www.wikidata.org/prop/direct/P530",
+      "top_similar_relations": [
+        "P306",
+        "P206",
+        "P355",
+        "P122",
+        "P194"
+      ],
+      "embedding_norm": 10.469354629516602
+    },
+    "P553": {
+      "uri": "http://www.wikidata.org/prop/direct/P553",
+      "top_similar_relations": [
+        "P85",
+        "P400",
+        "P1441",
+        "P178",
+        "P7084"
+      ],
+      "embedding_norm": 10.487832069396973
+    },
+    "P5658": {
+      "uri": "http://www.wikidata.org/prop/direct/P5658",
+      "top_similar_relations": [
+        "P1552",
+        "P21",
+        "P137",
+        "P1151",
+        "P277"
+      ],
+      "embedding_norm": 10.66696548461914
+    },
+    "P5769": {
+      "uri": "http://www.wikidata.org/prop/direct/P5769",
+      "top_similar_relations": [
+        "P8324",
+        "P485",
+        "P170",
+        "P1037",
+        "P2354"
+      ],
+      "embedding_norm": 10.641131401062012
+    },
+    "P5869": {
+      "uri": "http://www.wikidata.org/prop/direct/P5869",
+      "top_similar_relations": [
+        "P1376",
+        "P178",
+        "P2868",
+        "P190",
+        "P706"
+      ],
+      "embedding_norm": 11.149808883666992
+    },
+    "P6": {
+      "uri": "http://www.wikidata.org/prop/direct/P6",
+      "top_similar_relations": [
+        "P452",
+        "P1269",
+        "P276",
+        "P2868",
+        "P8625"
+      ],
+      "embedding_norm": 11.082119941711426
+    },
+    "P61": {
+      "uri": "http://www.wikidata.org/prop/direct/P61",
+      "top_similar_relations": [
+        "P101",
+        "P136",
+        "P2633",
+        "P237",
+        "P38"
+      ],
+      "embedding_norm": 10.950470924377441
+    },
+    "P610": {
+      "uri": "http://www.wikidata.org/prop/direct/P610",
+      "top_similar_relations": [
+        "Pour_contacter_de_aux",
+        "P4913",
+        "P366",
+        "P2853",
+        "P793"
+      ],
+      "embedding_norm": 11.109452247619629
+    },
+    "P6104": {
+      "uri": "http://www.wikidata.org/prop/direct/P6104",
+      "top_similar_relations": [
+        "parentOrganization",
+        "P2853",
+        "P3025",
+        "P2652",
+        "P501"
+      ],
+      "embedding_norm": 10.48740005493164
+    },
+    "P6216": {
+      "uri": "http://www.wikidata.org/prop/direct/P6216",
+      "top_similar_relations": [
+        "P6379",
+        "P103",
+        "related_to",
+        "P868",
+        "P8744"
+      ],
+      "embedding_norm": 10.791984558105469
+    },
+    "P6379": {
+      "uri": "http://www.wikidata.org/prop/direct/P6379",
+      "top_similar_relations": [
+        "P6216",
+        "P8744",
+        "P163",
+        "de",
+        "P1435"
+      ],
+      "embedding_norm": 10.81638240814209
+    },
+    "P669": {
+      "uri": "http://www.wikidata.org/prop/direct/P669",
+      "top_similar_relations": [
+        "P1056",
+        "relatedTo",
+        "P35",
+        "P6886",
+        "P1303"
+      ],
+      "embedding_norm": 10.886500358581543
+    },
+    "P6886": {
+      "uri": "http://www.wikidata.org/prop/direct/P6886",
+      "top_similar_relations": [
+        "P1535",
+        "P21",
+        "P669",
+        "P122",
+        "P5658"
+      ],
+      "embedding_norm": 10.869223594665527
+    },
+    "P706": {
+      "uri": "http://www.wikidata.org/prop/direct/P706",
+      "top_similar_relations": [
+        "headquartersLocation",
+        "Contact_aux_via",
+        "P8933",
+        "P2652",
+        "P5009"
+      ],
+      "embedding_norm": 12.387847900390625
+    },
+    "P708": {
+      "uri": "http://www.wikidata.org/prop/direct/P708",
+      "top_similar_relations": [
+        "P460",
+        "Contact_aux_via",
+        "P47",
+        "P1433",
+        "P1304"
+      ],
+      "embedding_norm": 11.317047119140625
+    },
+    "P7084": {
+      "uri": "http://www.wikidata.org/prop/direct/P7084",
+      "top_similar_relations": [
+        "P2596",
+        "P122",
+        "P8989",
+        "P38",
+        "P553"
+      ],
+      "embedding_norm": 10.717470169067383
+    },
+    "P734": {
+      "uri": "http://www.wikidata.org/prop/direct/P734",
+      "top_similar_relations": [
+        "P1552",
+        "P166",
+        "P1389",
+        "P2354",
+        "P7936"
+      ],
+      "embedding_norm": 10.38940715789795
+    },
+    "P735": {
+      "uri": "http://www.wikidata.org/prop/direct/P735",
+      "top_similar_relations": [
+        "P195",
+        "P1875",
+        "P1073",
+        "P460",
+        "P2852"
+      ],
+      "embedding_norm": 10.478801727294922
+    },
+    "P740": {
+      "uri": "http://www.wikidata.org/prop/direct/P740",
+      "top_similar_relations": [
+        "P1336",
+        "P418",
+        "P735",
+        "P39",
+        "P1072"
+      ],
+      "embedding_norm": 10.739034652709961
+    },
+    "P747": {
+      "uri": "http://www.wikidata.org/prop/direct/P747",
+      "top_similar_relations": [
+        "P136",
+        "P2852",
+        "de_sont_a_pour",
+        "P138",
+        "P1336"
+      ],
+      "embedding_norm": 11.068521499633789
+    },
+    "P750": {
+      "uri": "http://www.wikidata.org/prop/direct/P750",
+      "top_similar_relations": [
+        "P4913",
+        "P437",
+        "P5008",
+        "P1313",
+        "P793"
+      ],
+      "embedding_norm": 12.199918746948242
+    },
+    "P78": {
+      "uri": "http://www.wikidata.org/prop/direct/P78",
+      "top_similar_relations": [
+        "P8989",
+        "officialLanguage",
+        "P103",
+        "P6216",
+        "P5869"
+      ],
+      "embedding_norm": 11.129392623901367
+    },
+    "P7867": {
+      "uri": "http://www.wikidata.org/prop/direct/P7867",
+      "top_similar_relations": [
+        "P155",
+        "P501",
+        "P1889",
+        "P366",
+        "P208"
+      ],
+      "embedding_norm": 9.99791431427002
+    },
+    "P793": {
+      "uri": "http://www.wikidata.org/prop/direct/P793",
+      "top_similar_relations": [
+        "P437",
+        "P5008",
+        "P750",
+        "P2853",
+        "P1313"
+      ],
+      "embedding_norm": 9.579854965209961
+    },
+    "P7936": {
+      "uri": "http://www.wikidata.org/prop/direct/P7936",
+      "top_similar_relations": [
+        "P3403",
+        "P2633",
+        "P1376",
+        "P1412",
+        "P734"
+      ],
+      "embedding_norm": 11.052602767944336
+    },
+    "P807": {
+      "uri": "http://www.wikidata.org/prop/direct/P807",
+      "top_similar_relations": [
+        "P1622",
+        "P39",
+        "P1056",
+        "P8402",
+        "P10888"
+      ],
+      "embedding_norm": 10.43161678314209
+    },
+    "P822": {
+      "uri": "http://www.wikidata.org/prop/direct/P822",
+      "top_similar_relations": [
+        "P8989",
+        "P2746",
+        "P1269",
+        "P101",
+        "P1073"
+      ],
+      "embedding_norm": 10.831764221191406
+    },
+    "P832": {
+      "uri": "http://www.wikidata.org/prop/direct/P832",
+      "top_similar_relations": [
+        "P276",
+        "P1269",
+        "P8933",
+        "dans_de_de",
+        "P366"
+      ],
+      "embedding_norm": 10.707114219665527
+    },
+    "P8324": {
+      "uri": "http://www.wikidata.org/prop/direct/P8324",
+      "top_similar_relations": [
+        "P5769",
+        "P12443",
+        "P366",
+        "P2388",
+        "P1792"
+      ],
+      "embedding_norm": 10.519634246826172
+    },
+    "P8402": {
+      "uri": "http://www.wikidata.org/prop/direct/P8402",
+      "top_similar_relations": [
+        "P1740",
+        "P50",
+        "P140",
+        "P137",
+        "P208"
+      ],
+      "embedding_norm": 10.342020988464355
+    },
+    "P85": {
+      "uri": "http://www.wikidata.org/prop/direct/P85",
+      "top_similar_relations": [
+        "P553",
+        "P1424",
+        "P1441",
+        "P206",
+        "P306"
+      ],
+      "embedding_norm": 11.00755786895752
+    },
+    "P8625": {
+      "uri": "http://www.wikidata.org/prop/direct/P8625",
+      "top_similar_relations": [
+        "P1464",
+        "P1327",
+        "P1830",
+        "P735",
+        "P210"
+      ],
+      "embedding_norm": 11.002280235290527
+    },
+    "P868": {
+      "uri": "http://www.wikidata.org/prop/direct/P868",
+      "top_similar_relations": [
+        "P6216",
+        "P1269",
+        "P2541",
+        "P1382",
+        "P8744"
+      ],
+      "embedding_norm": 10.643143653869629
+    },
+    "P8744": {
+      "uri": "http://www.wikidata.org/prop/direct/P8744",
+      "top_similar_relations": [
+        "P6379",
+        "P6216",
+        "P166",
+        "P868",
+        "P8625"
+      ],
+      "embedding_norm": 11.110849380493164
+    },
+    "P8933": {
+      "uri": "http://www.wikidata.org/prop/direct/P8933",
+      "top_similar_relations": [
+        "P706",
+        "P50",
+        "P2614",
+        "Contact_aux_via",
+        "P1037"
+      ],
+      "embedding_norm": 10.496955871582031
+    },
+    "P8989": {
+      "uri": "http://www.wikidata.org/prop/direct/P8989",
+      "top_similar_relations": [
+        "P2746",
+        "P3075",
+        "P822",
+        "P178",
+        "P78"
+      ],
+      "embedding_norm": 10.512227058410645
+    },
+    "P910": {
+      "uri": "http://www.wikidata.org/prop/direct/P910",
+      "top_similar_relations": [
+        "P400",
+        "P3025",
+        "P2853",
+        "P750",
+        "parentOrganization"
+      ],
+      "embedding_norm": 10.08465576171875
+    }
+  },
+  "candidate_inverse_pairs": []
+}

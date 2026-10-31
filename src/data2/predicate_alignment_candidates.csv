@@ -1,0 +1,30 @@
+private_predicate,search_keyword,wikidata_pid,wikidata_label,wikidata_description,validated_alignment,alignment_type
+isIssuedBy,issued,P2378,issued by,"organisation or other agent that issues or allocates an identifier, code, classification number, etc.",P176,equivalentProperty
+issues,issue,P433,issue,"issue of a newspaper, a scientific journal or magazine for reference purpose",,
+issues,issue,P562,central bank/issuer,central bank or other issuing authority for the currency,,
+issues,issue,P1401,issue tracker URL,"web page where bugs, issues, and feature requests for a particular software program can be listed or reported",,
+issues,issue,P2378,issued by,"organisation or other agent that issues or allocates an identifier, code, classification number, etc.",,
+issues,issue,P4484,INDUCKS issue ID,identifier for an issue of a printed publication of the Disney Universe,,
+isEstablishedBy,founded,P112,founded by,"founder or co-founder of this organization, religion, place or entity",P571,subPropertyOf
+hasJurisdictionOver,jurisdiction,P1001,applies to jurisdiction,"the item (institution, law, public office, public register, etc) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, etc)",P1001,equivalentProperty
+hasJurisdictionOver,jurisdiction,P7925,Jurisdiction List number,distinct number used to identify a mauza or village in Bangladesh and parts of India,P1001,equivalentProperty
+hasJurisdictionOver,jurisdiction,P9630,OpenCorporates register jurisdiction,jurisdiction of company register at http://registries.opencorporates.com/,P1001,equivalentProperty
+transmitsTo,transmit,P928,activating neurotransmitter,which neurotransmitter activates the neuron,P527,subPropertyOf
+transmitsTo,transmit,P1170,transmitted signal type,type of signal transmitted by a device,P527,subPropertyOf
+reportsTo,parent organization,P749,parent organization or unit,"parent organization or unit of an organization or unit, opposite of child organization or unit (P355); use instance of (P31) to distinguish organization (Q43229) and organization unit (Q10387680)",P749,equivalentProperty
+isAttachedTo,part of,P361,part of,"object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of ""has part"" (P527, see also ""has parts of the class"" (P2670))",P361,subPropertyOf
+isAttachedTo,part of,P179,part of the series,series which contains the subject,P361,subPropertyOf
+isLocatedIn,located,P376,located on astronomical body,single astronomical body on which features or places are situated,P131,equivalentProperty
+isLocatedIn,located,P421,located in time zone,time zone for this item,P131,equivalentProperty
+isLocatedIn,located,P669,located on street,"street, road, square, or trail, where the item is located. To add the number, use Property:P670 ""house number"" as qualifier. Use property P6375 ""street address"", if there is no item for the street",P131,equivalentProperty
+isLocatedIn,located,P706,located in/on physical feature,located on the specified (geo)physical feature. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552). Use P206 for things in/on bodies of water.,P131,equivalentProperty
+isLocatedIn,located,P795,located on linear feature,linear feature along which distance is specified from a specified datum point,P131,equivalentProperty
+represents,represents,P1268,represents,"organization, individual, or concept that an entity represents",P1001,subPropertyOf
+represents,represents,P6875,motif represents,"object or concept from which this motif is derived, or which it represents",P1001,subPropertyOf
+represents,represents,P9758,symbol represents,"qualifier for ""in defining formula"" (P7235) which indicates the quantity or operator represented by a symbol in the ""defining formula"" (P2534)",P1001,subPropertyOf
+requires,requires,P5713,requires grammatical feature,grammatical features required or generally used with lexeme or form of lexeme,P4633,subPropertyOf
+relatedTo,related,P1659,related Wikidata property,used to indicate another property that might provide additional information about the subject,P1659,equivalentProperty
+relatedTo,related,P1753,list related to category,Wikimedia list equivalent to a Wikimedia category,P1659,equivalentProperty
+relatedTo,related,P1754,category related to list,Wikimedia category that matches the Wikimedia list,P1659,equivalentProperty
+relatedTo,related,P6802,related image,"less fitting image, used only because a better alternative is not available. If an appropriate image of the item is available, use P18 instead. Value should not be a generic placeholder",P1659,equivalentProperty
+relatedTo,related,P7084,related category,Wikimedia category is related to this item,P1659,equivalentProperty

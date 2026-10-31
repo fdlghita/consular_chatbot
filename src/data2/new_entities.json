@@ -1,0 +1,3422 @@
+[
+  {
+    "private_uri": "http://consulat.ma/kg/Naissance",
+    "private_label": "Naissance",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Deces",
+    "private_label": "Décès",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage",
+    "private_label": "Mariage",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/CNIE",
+    "private_label": "CNIE",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Visitez_le_Maroc",
+    "private_label": "Visitez le Maroc",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Visa",
+    "private_label": "Visa",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Antigua_et_Barbuda_Arabie",
+    "private_label": "Antigua-et-Barbuda Arabie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Benin_Bhoutan",
+    "private_label": "Bénin Bhoutan",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Bolivie_Bosnie_Herzegovine",
+    "private_label": "Bolivie Bosnie-Herzégovine",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Bresil_Brunei",
+    "private_label": "Brésil Brunéi",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cap_Vert_Centreafrique",
+    "private_label": "Cap-Vert Centreafrique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cote_dIvoire_Croatie",
+    "private_label": "Côte d’Ivoire Croatie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Gabon_Gambie",
+    "private_label": "Gabon Gambie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Grece_Grenade",
+    "private_label": "Grèce Grenade",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Guinee_Guinee",
+    "private_label": "Guinée Guinée",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Guyana_Haiti",
+    "private_label": "Guyana Haïti",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hongrie_Ile",
+    "private_label": "Hongrie Île",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Irlande_Islande",
+    "private_label": "Irlande Islande",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jamaique_Japon",
+    "private_label": "Jamaïque Japon",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Kiribati_Koweit",
+    "private_label": "Kiribati Koweït",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Malaisie_Malawi",
+    "private_label": "Malaisie Malawi",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Pays_Bas_Perou",
+    "private_label": "Pays-Bas Pérou",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Dem_du_Congo",
+    "private_label": "Dem. du Congo",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Serbie_Seychelles",
+    "private_label": "Serbie Seychelles",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Singapour_Slovaquie",
+    "private_label": "Singapour Slovaquie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Suede_Suisse",
+    "private_label": "Suède Suisse",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Syrie_Tadjikistan",
+    "private_label": "Syrie Tadjikistan",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tanzanie_Tchad",
+    "private_label": "Tanzanie Tchad",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tchequie_Thailande",
+    "private_label": "Tchéquie Thaïlande",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Togo_Tonga",
+    "private_label": "Togo Tonga",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tunisie_Turkmenistan",
+    "private_label": "Tunisie Turkménistan",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Turquie_Tuvalu",
+    "private_label": "Turquie Tuvalu",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Yemen_Zambie",
+    "private_label": "Yémen Zambie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Choisissez_ville",
+    "private_label": "Choisissez ville",
+    "entity_label": "GPE",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Carte_dIdentite_Nationale_Electronique",
+    "private_label": "Carte d’Identité Nationale Électronique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cartographie_Suivi_des_affaires_en_justice",
+    "private_label": "Cartographie Suivi des affaires en justice",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Portail_APOSTILLE",
+    "private_label": "Portail APOSTILLE",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Portail_National_des_Reclamations",
+    "private_label": "Portail National des Réclamations",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/un_Pays_Afrique_du_Sud_Allemagne_Arabie",
+    "private_label": "un Pays Afrique du Sud Allemagne Arabie",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/24_24",
+    "private_label": "24/24",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Accueil_Prestations_consulaires",
+    "private_label": "Accueil Prestations consulaires",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale",
+    "private_label": "Ministère des Affaires Étrangères et de la Coopération Internationale",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Belize_Benin",
+    "private_label": "Belize Bénin",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Bolivie_Bosnie_Herzegovine",
+    "private_label": "Bolivie Bosnie-Herzégovine",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Lettonie_Liban",
+    "private_label": "Lettonie Liban",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Liberia_Libye",
+    "private_label": "Libéria Libye",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Micronesie_Moldavie",
+    "private_label": "Micronésie Moldavie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Namibie_Nauru",
+    "private_label": "Namibie Nauru",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nigeria_Norvege",
+    "private_label": "Nigéria Norvège",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Pays_Bas_Perou",
+    "private_label": "Pays-Bas Pérou",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Twiddla",
+    "private_label": "Twiddla",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Accepter_Plus_dinformations",
+    "private_label": "Accepter Plus d'informations",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Centre_dAppels",
+    "private_label": "le Centre d'Appels",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Grece_Irlande",
+    "private_label": "Grèce Irlande",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prix_de_lappel_min",
+    "private_label": "Prix de l'appel /min",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Threema_Trello",
+    "private_label": "Threema Trello",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Yahoo_Messenger",
+    "private_label": "Yahoo Messenger",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Procedure_Pieces",
+    "private_label": "Présentation Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Observations_Droits_de_chancellerie_Presentation_Procedure_Pieces",
+    "private_label": "Formulaires Observations Droits de chancellerie Présentation Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Observations_Droits_de_chancellerie_Presentation",
+    "private_label": "Formulaires Observations Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_de_la_CNIE_du_pere",
+    "private_label": "Copie de la CNIE du père",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_2_avril_2007",
+    "private_label": "le 2 avril 2007",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_lacte_de_naissance_de_la_mere",
+    "private_label": "Copie intégrale de l’acte de naissance de la mère",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moulay",
+    "private_label": "Moulay",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/un_Pays_Afrique_du_Sud_Allemagne_Arabie_saoudite_Autriche_Bahrein",
+    "private_label": "un Pays Afrique du Sud Allemagne Arabie saoudite Autriche Bahreïn",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Grece_Irlande",
+    "private_label": "Grèce Irlande",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Blinklist",
+    "private_label": "Blinklist",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Papaly",
+    "private_label": "Papaly",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Observations_Droits_de_chancellerie_Presentation",
+    "private_label": "Procédure Observations Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Ouverture",
+    "private_label": "Procédure Ouverture",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/des_Services_Consulaires_marocains",
+    "private_label": "des Services Consulaires marocains",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Russie_Suede",
+    "private_label": "Russie Suède",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Formulaires_Observations_Droits_de_chancellerie_Presentation_Pieces",
+    "private_label": "Procédure Formulaires Observations Droits de chancellerie Présentation Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Formulaires_Observations_Droits_de_chancellerie_Presentation",
+    "private_label": "Procédure Formulaires Observations Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Maroc",
+    "private_label": "Maroc",
+    "entity_label": "LOC",
+    "reason": "Type LOC defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_de_la_piece_dIdentite_de_lepouse",
+    "private_label": "Copie de la pièce d’Identité de l’épouse",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Services_Consulaires_du_Maroc",
+    "private_label": "Services Consulaires du Maroc",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Demande_du_livret_de_famille",
+    "private_label": "Formulaires Demande du livret de famille",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_livrets_didentite_et_detat_civil",
+    "private_label": "Les livrets d'identité et d'état civil",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/avant_octobre_2002",
+    "private_label": "avant octobre 2002",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hatena",
+    "private_label": "Hatena",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/WeChat",
+    "private_label": "WeChat",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Formulaires_Droits_de_chancellerie_Presentation_Pieces",
+    "private_label": "Procédure Formulaires Droits de chancellerie Présentation Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Formulaires_Droits_de_chancellerie_Presentation",
+    "private_label": "Procédure Formulaires Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_du_livret_de_famille_perdu",
+    "private_label": "Copie du livret de famille perdu",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/bureau_detat_civil",
+    "private_label": "bureau d’état-civil",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_biais_des_services_consulaires_du_lieu_de_residence",
+    "private_label": "le biais des services consulaires du lieu de résidence",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Centre_dAppels_ci_ou_envoyer",
+    "private_label": "le Centre d’Appels ci ou envoyer",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hatena_Houzz",
+    "private_label": "Hatena Houzz",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mendeley",
+    "private_label": "Mendeley",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/MySpace",
+    "private_label": "MySpace",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Choisissez_un_Pays_Afrique_du_Sud",
+    "private_label": "Choisissez un Pays Afrique du Sud",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/MENTIONS_LEGALES",
+    "private_label": "MENTIONS LÉGALES",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Google_Gmail",
+    "private_label": "Google Gmail",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Presentation_Pieces",
+    "private_label": "Droits de chancellerie Présentation Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/un_Pays_Afrique_du_Sud",
+    "private_label": "un Pays Afrique du Sud",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Droits_de_chancellerie_Presentation_Pieces",
+    "private_label": "Procédure Droits de chancellerie Présentation Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Droits_de_chancellerie_Presentation_Tout",
+    "private_label": "Procédure Droits de chancellerie Présentation Tout",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_2_avril_2007",
+    "private_label": "du 2 avril 2007",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Danemark_Emirats",
+    "private_label": "Danemark Émirats",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prix_de_lappel_min",
+    "private_label": "Prix de l'appel /min )",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Protopage",
+    "private_label": "Protopage",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Svejo",
+    "private_label": "Svejo",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Immatriculation_consulaire",
+    "private_label": "Immatriculation consulaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Livret_de_famille",
+    "private_label": "Livret de famille",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Livret_didentite_et_detat_civil",
+    "private_label": "Livret d’identité et d’état civil",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Choisissez_un_Pays",
+    "private_label": "Choisissez un Pays",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/un_Pays_Afrique_du_Sud_Allemagne",
+    "private_label": "un Pays Afrique du Sud Allemagne",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Presentation",
+    "private_label": "Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/WordPress",
+    "private_label": "WordPress",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/La_CNIE",
+    "private_label": "La CNIE",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Pieces",
+    "private_label": "Droits de chancellerie Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Voir",
+    "private_label": "Droits de chancellerie Voir",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Carte_didentite_nationale",
+    "private_label": "Carte d'identité nationale",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_lacte_de_naissance",
+    "private_label": "Copie intégrale de l’acte de naissance",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hatena_Houzz",
+    "private_label": "Hatena Houzz",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Pieces_a_fournir_Immatriculation_consulaire",
+    "private_label": "Droits de chancellerie Pièces à fournir Immatriculation consulaire",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/CNIE_du_demandeur",
+    "private_label": "CNIE du demandeur",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Accepter_Plus",
+    "private_label": "Accepter Plus",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_Integrale_de_lacte_de_naissance_datee",
+    "private_label": "Copie Intégrale de l’acte de naissance datée",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fark",
+    "private_label": "Fark",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Centre_dAppels_ci",
+    "private_label": "le Centre d’Appels ci",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Diigo_Douban",
+    "private_label": "Diigo Douban",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Istilhaq",
+    "private_label": "Istilhaq",
+    "entity_label": "GPE",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Espagne_Etats_Unis",
+    "private_label": "Espagne États-Unis",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Portail",
+    "private_label": "Portail",
+    "entity_label": "GPE",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation",
+    "private_label": "Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Direction_des_Affaires_Consulaires_et_Sociales",
+    "private_label": "la Direction des Affaires Consulaires et Sociales",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_langue_du_pays_de_residence_du_defunt",
+    "private_label": "la langue du pays de résidence du défunt",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Maroc_Consulter",
+    "private_label": "Maroc Consulter",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_legislation_locale_du_pays_de_residence",
+    "private_label": "la législation locale du pays de résidence",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale",
+    "private_label": "Ministère des Affaires Etrangères et de la Coopération Internationale",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees_Attestation_administrative",
+    "private_label": "Préstations associées Attestation administrative",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droit_de_chancellerie_Formulaire_Observations_Pieces",
+    "private_label": "Droit de chancellerie Formulaire Observations Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage",
+    "private_label": "Mariage",
+    "entity_label": "LOC",
+    "reason": "Type LOC defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage_de_lhandicape_mental",
+    "private_label": "Mariage de l’handicapé mental",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage_des_convertis_a",
+    "private_label": "Mariage des convertis à",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/nationalite_du_pays_daccueil",
+    "private_label": "nationalité du pays d’accueil):",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees_Enregistrement_du_mariage_civil",
+    "private_label": "Préstations associées Enregistrement du mariage civil",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Draugiem",
+    "private_label": "Draugiem",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Droits_de_chancellerie_Presentation",
+    "private_label": "Procédure Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Direction_des_Affaires_Consulaires_et_Sociales",
+    "private_label": "Direction des Affaires Consulaires et Sociales",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Ishhad_Moulhaq",
+    "private_label": "« Ishhad Moulhaq »",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Netvouz",
+    "private_label": "Netvouz",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage_Ishhad_moulhaq",
+    "private_label": "Mariage Ishhad moulhaq",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/moins_de_06_mois",
+    "private_label": "moins de 06 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees_Divorce",
+    "private_label": "Préstations associées Divorce",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Diigo",
+    "private_label": "Diigo",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaire_Droits_de_chancellerie_Presentation",
+    "private_label": "Formulaire Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Direction_des_Affaires_Civiles_Rabat",
+    "private_label": "Direction des Affaires Civiles - Rabat –",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Avocat",
+    "private_label": "Avocat",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_de_la_CNIE",
+    "private_label": "Copie de la CNIE",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_du_Passeport",
+    "private_label": "Copie du Passeport",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Consulter_Divorce",
+    "private_label": "Consulter Divorce",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Accueil_Prestations_consulaires_Famille",
+    "private_label": "Accueil Prestations consulaires Famille",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mariage_Tentative_de_reconciliation",
+    "private_label": "Mariage Tentative de réconciliation",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Passeports_des_interesses",
+    "private_label": "Passeports des intéressés",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Presentation_Cet",
+    "private_label": "Droits de chancellerie Présentation Cet",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_juge_de_la_famille",
+    "private_label": "le juge de la famille",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Livret_de_famille_de_linteresse",
+    "private_label": "Livret de famille de l’intéressé (",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_lacte_de_naissance_datee_de_moins_de_six",
+    "private_label": "Copie intégrale de l’acte de naissance datée de moins de six",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_14_septembre_2017",
+    "private_label": "le 14 septembre 2017",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_Cadastre_et_de_la_Cartographie",
+    "private_label": "du Cadastre et de la Cartographie",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees_Certification_de_conformite_de_documents",
+    "private_label": "Préstations associées Certification de conformité de documents",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Formulaires_Observations",
+    "private_label": "Procédure Formulaires Observations",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Immatriculation_Consulaire",
+    "private_label": "« Immatriculation Consulaire »",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_Passeport_biometrique",
+    "private_label": "du Passeport biométrique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_ans",
+    "private_label": "18 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Carte_de_residence",
+    "private_label": "Carte de résidence",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Visa_de_long_sejour",
+    "private_label": "Visa de long séjour",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Remplir",
+    "private_label": "Procédure Remplir",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Maroc_Consulter_Admission_temporaire",
+    "private_label": "Maroc Consulter Admission temporaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Droits_de_chancellerie_REGLEMENTATION_Presentation_Procedure_Pieces",
+    "private_label": "Observations Droits de chancellerie RÉGLEMENTATION Présentation Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Droits_de_chancellerie_REGLEMENTATION_Presentation",
+    "private_label": "Observations Droits de chancellerie RÉGLEMENTATION Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/16_ans",
+    "private_label": "16 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/12_ans",
+    "private_label": "12 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/de_10_ans",
+    "private_label": "de 10 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Service_Consulaire",
+    "private_label": "le Service Consulaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_02_avril_2007",
+    "private_label": "le 02 avril 2007",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cliquer",
+    "private_label": "Cliquer",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Decret_CNIE_Cliquer",
+    "private_label": "Décret CNIE Cliquer",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ligne_des_Administrations_publiques_marocaines",
+    "private_label": "ligne des Administrations publiques marocaines",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_La_Carte_Nationale_dIdentite_Electronique",
+    "private_label": "Procédure La Carte Nationale d’Identité Electronique",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Cooperation_Africaine",
+    "private_label": "la Coopération Africaine",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Droits",
+    "private_label": "Procédure Droits",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_biais_des_services_consulaires",
+    "private_label": "le biais des services consulaires",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/de_03_mois",
+    "private_label": "de 03 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Photocopie_de_la_CNIE_de_linteresse_e",
+    "private_label": "Photocopie de la CNIE de l’intéressé(e)",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/des_Services_Consulaires_et_transmise_au_Maroc",
+    "private_label": "des Services Consulaires et transmise au Maroc",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Droits_de_chancellerie_Presentation_Procedure_Pieces",
+    "private_label": "Formulaires Droits de chancellerie Présentation Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Droits_de_chancellerie_Presentation",
+    "private_label": "Formulaires Droits de chancellerie Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Le_passeport_biometrique",
+    "private_label": "Le passeport biométrique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/5_ans",
+    "private_label": "5 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Service_Consulaire_competent",
+    "private_label": "le Service Consulaire compétent",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/12_a_18_ans",
+    "private_label": "12 à 18 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/au_Service_Consulaire_du_lieu_de_leurs_residences_pour_la_prise_dempreintes_digi",
+    "private_label": "au Service Consulaire du lieu de leurs résidences pour la prise d’empreintes digitales",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Kakao_Kik",
+    "private_label": "Kakao Kik",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Procedure_Pieces",
+    "private_label": "Observations Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Procedure",
+    "private_label": "Observations Procédure",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Registre_de_remise_des_passeports",
+    "private_label": "le « Registre de remise des passeports »",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Conformement",
+    "private_label": "Observations Conformément",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/7j_7j",
+    "private_label": "7j/7j",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Pieces",
+    "private_label": "Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Procedure_Pieces",
+    "private_label": "Droits de chancellerie Procédure Pièces",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Droits_de_chancellerie_Procedure",
+    "private_label": "Droits de chancellerie Procédure",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Laissez_Passer",
+    "private_label": "Laissez-Passer",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Le_laissez_passer",
+    "private_label": "Le laissez-passer",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Droits_de_chancellerie_Formulaires",
+    "private_label": "Observations Droits de chancellerie Formulaires",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observations_Droits_de_chancellerie_Formulaires_Presentation",
+    "private_label": "Observations Droits de chancellerie Formulaires Présentation",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/des_Autorites_Locales",
+    "private_label": "des Autorités Locales",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Formulaires_Formulaire",
+    "private_label": "Formulaires Formulaire",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Rabat_Hassan",
+    "private_label": "Rabat-Hassan",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Emirats_Arabes_Unies_et_Espagne",
+    "private_label": "Emirats Arabes Unies et Espagne",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Delivrance_de_la_CNIE",
+    "private_label": "Délivrance de la CNIE",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Renouvellement_de_la_CNIE",
+    "private_label": "Renouvellement de la CNIE",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/La_CNIE",
+    "private_label": "La CNIE",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/plus_de_12_ans",
+    "private_label": "plus de 12 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_memes",
+    "private_label": "les mêmes",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Delivrance_de_la_fiche_anthropometrique",
+    "private_label": "Délivrance de la fiche anthropométrique",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Retrait_de_la_fiche_anthropometrique",
+    "private_label": "Retrait de la fiche anthropométrique",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Delivrance_du_passeport_biometrique",
+    "private_label": "Délivrance du passeport biométrique",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/3_ans",
+    "private_label": "3 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Laissez_passer_Le_laissez_passer",
+    "private_label": "Laissez-passer Le laissez-passer",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Apostille_Lapostille",
+    "private_label": "Apostille L’apostille",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Royaume_du_Maroc",
+    "private_label": "le Royaume du Maroc",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Centre_National_du_Casier_Judiciaire",
+    "private_label": "le Centre National du Casier Judiciaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Procedure_Presentation_Lapostille",
+    "private_label": "Présentation Procédure Présentation L’apostille",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Depuis_aout_2016",
+    "private_label": "Depuis août 2016",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_Procureurs_du_Roi",
+    "private_label": "Les Procureurs du Roi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Le_Secretaire_General_du_Ministere_de_la_Justice",
+    "private_label": "Le Secrétaire Général du Ministère de la Justice",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_Walis_et",
+    "private_label": "Les Walis et",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_Autorites_Administratives",
+    "private_label": "les Autorités Administratives",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Convention_de_La_Haye",
+    "private_label": "Convention de La Haye",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_5_octobre_1961",
+    "private_label": "du 5 octobre 1961",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_14_aout_2016",
+    "private_label": "le 14 août 2016",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presenation_Observation",
+    "private_label": "Présenation Observation",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/C_Conduire",
+    "private_label": "C. Conduire",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Touring_Club_du_Maroc",
+    "private_label": "« Touring Club du Maroc »",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Touring_club",
+    "private_label": "« Touring club »",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_Ministere_de_la_Justice",
+    "private_label": "du Ministère de la Justice",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Centre_du_casier_judiciaire_national",
+    "private_label": "Centre du casier judiciaire national",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Le_Ministere_de_la_Justice",
+    "private_label": "Présentation Le Ministère de la Justice",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/service_public_associe_Passeport_biometrique",
+    "private_label": "-service public associé Passeport biométrique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Observation_Presentation_Pour",
+    "private_label": "Observation Présentation Pour",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees_Abattement_de_vieillissement_de_vehicules_Consulter_Benefi",
+    "private_label": "Préstations associées Abattement de vieillissement de véhicules Consulter Bénéfice",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Les_Marocains",
+    "private_label": "Présentation Les Marocains",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/60_ans",
+    "private_label": "60 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/10_ans",
+    "private_label": "10 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Observations",
+    "private_label": "Présentation Observations",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/trois_03_ans",
+    "private_label": "trois (03) ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/3_ans_dabattement",
+    "private_label": "3 ans d’abattement,",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1_an_dage_beneficie_de_2_ans",
+    "private_label": "1 an d’âge bénéficie de 2 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/2_ans",
+    "private_label": "2 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/moins_de_trois_ans_dage",
+    "private_label": "moins de trois ans d'âge",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/03_ans",
+    "private_label": "03) ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Presentation_Procedure",
+    "private_label": "Présentation Procédure",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_associations_reconnues_dutilite_publique",
+    "private_label": "Les associations reconnues d’utilité publique",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Certaines_uvres_de_bienfaisance",
+    "private_label": "Certaines œuvres de bienfaisance",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_federations_sportives_marocaines",
+    "private_label": "Les fédérations sportives marocaines",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_federation_nationale_du_sport_scolaire",
+    "private_label": "la fédération nationale du sport scolaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_federation_nationale_des_sports_universitaires",
+    "private_label": "la fédération nationale des sports universitaires",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Procedure_Lentite_qui_souhaite_beneficier_de_lexoneration_des_droits_et_taxes",
+    "private_label": "Procédure L’entité qui souhaite bénéficier de l’exonération des droits et taxes",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Direction_Generale_de_la_Surete_Nationale",
+    "private_label": "la Direction Générale de la Sûreté Nationale",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_03_jours",
+    "private_label": "les 03 jours",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_06_semaines_precedentes",
+    "private_label": "les 06 semaines précédentes",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/National_de_Securite_Sanitaire_des_produits_alimentaires",
+    "private_label": "National de Sécurité Sanitaire des produits alimentaires",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Direction_de_lelevage_relevant",
+    "private_label": "la Direction de l'élevage relevant",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Convention_de_Washington",
+    "private_label": "la Convention de Washington",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Douane",
+    "private_label": "Douane",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Direction_marocaine_des_Eaux_et_Forets_et_de_la_Conservation_des_Sols",
+    "private_label": "la Direction marocaine des Eaux et Forêts et de la Conservation des Sols",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_Representations_diplomatiques",
+    "private_label": "les Représentations diplomatiques",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_Services_de_securite",
+    "private_label": "les Services de sécurité",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/arabe",
+    "private_label": "arabe",
+    "entity_label": "LOC",
+    "reason": "Type LOC defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_associees",
+    "private_label": "Préstations associées",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Ministere_de_lEmploi",
+    "private_label": "le Ministère de l’Emploi.",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Colloques",
+    "private_label": "Colloques",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Stagiaire",
+    "private_label": "Stagiaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/AMCI",
+    "private_label": "AMCI",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Refugies_et_Apatrides_Formulaire",
+    "private_label": "Réfugiés et Apatrides Formulaire",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Ministere_marocain_de_lEmploi",
+    "private_label": "le Ministère marocain de l’Emploi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Direction_du_Protocole",
+    "private_label": "Direction du Protocole",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Direction_du_Protocole",
+    "private_label": "la Direction du Protocole",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Luxembourg_Australie",
+    "private_label": "Luxembourg Australie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Belgique_Maldives",
+    "private_label": "Belgique Maldives",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/REP",
+    "private_label": "REP",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Russie",
+    "private_label": "Russie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Etats_Unis_dAmerique_Suisse",
+    "private_label": "Etats-Unis d'Amérique Suisse",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Conakry",
+    "private_label": "Conakry",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Turquie_Islande",
+    "private_label": "Turquie Islande",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hong_Kong",
+    "private_label": "Hong-Kong",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hongrie",
+    "private_label": "Hongrie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Koweit",
+    "private_label": "Koweït",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Lettonie",
+    "private_label": "Lettonie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Gabon_Gambie",
+    "private_label": "Gabon Gambie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Guinee",
+    "private_label": "Guinée",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Conakry",
+    "private_label": "Conakry",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hong_Kong",
+    "private_label": "Hong Kong",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Indonesie_Jordanie",
+    "private_label": "Indonésie Jordanie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/16_et_36_ans",
+    "private_label": "16 et 36 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Malaisie_Mali_Maldives",
+    "private_label": "Malaisie Mali Maldives",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Niger_Philippines",
+    "private_label": "Niger Philippines",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tanzanie",
+    "private_label": "Tanzanie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tunisie",
+    "private_label": "Tunisie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Turquie_Togo",
+    "private_label": "Turquie Togo",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Kenya_Liban",
+    "private_label": "Kenya Liban",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Sultanat_dOman",
+    "private_label": "Sultanat d'Oman",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Besoin_daide",
+    "private_label": "Besoin d'aide",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Courriel_Copier",
+    "private_label": "Courriel Copier",
+    "entity_label": "PERSON",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer",
+    "private_label": "Fermer",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ACTIVER_MON_ESPACE_PERSONNEL",
+    "private_label": "ACTIVER MON ESPACE PERSONNEL",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_31_juillet_2023",
+    "private_label": "le 31 juillet 2023",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/decembre_2022",
+    "private_label": "décembre 2022",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/CDD",
+    "private_label": "CDD",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/fin_jusquau_surlendemain_du_jour_de_reprise_du_salarie_remplace",
+    "private_label": "fin jusqu'au surlendemain du jour de reprise du salarié remplacé",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/de_18_mois",
+    "private_label": "de 18 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Contrat",
+    "private_label": "Contrat",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/CDI",
+    "private_label": "CDI",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/24_mois",
+    "private_label": "24 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_mois",
+    "private_label": "18 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/9_mois",
+    "private_label": "9 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Allo_Service_Public",
+    "private_label": "Allô Service Public",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Lundi",
+    "private_label": "Lundi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mardi",
+    "private_label": "Mardi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mercredi",
+    "private_label": "Mercredi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jeudi",
+    "private_label": "Jeudi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cette",
+    "private_label": "Cette",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moyen_Parfait",
+    "private_label": "Moyen Parfait",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/DILA",
+    "private_label": "DILA",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Convention_collective",
+    "private_label": "Convention collective",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Accord",
+    "private_label": "Accord",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Resultat_des_negociations_menees",
+    "private_label": "Résultat des négociations menées",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_06_septembre_2024",
+    "private_label": "le 06 septembre 2024",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1ere_annee_Apres_1_an",
+    "private_label": "1ère année Après 1 an",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Pivot_Local",
+    "private_label": "Pivot Local",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/France_visas",
+    "private_label": "France-visas",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cameroun",
+    "private_label": "Cameroun",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Comores",
+    "private_label": "Comores",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cote_dIvoire_Djibouti",
+    "private_label": "Côte d'Ivoire Djibouti",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Ethiopie",
+    "private_label": "Ethiopie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Gabon",
+    "private_label": "Gabon",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Guinee",
+    "private_label": "Guinée",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Maurice_Mauritanie",
+    "private_label": "Maurice Mauritanie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Republique_du_Congo",
+    "private_label": "République du Congo",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Demander",
+    "private_label": "Demander",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Asie",
+    "private_label": "Asie",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Singapour_Taiwan_Thailande",
+    "private_label": "Singapour Taïwan Thaïlande",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Europe",
+    "private_label": "Europe",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Georgie_Royaume_Uni",
+    "private_label": "Géorgie Royaume-Uni",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Russie_Turquie",
+    "private_label": "Russie Turquie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Bolivie_Bresil",
+    "private_label": "Bolivie Brésil",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Colombie_Equateur_Etats_Unis",
+    "private_label": "Colombie Equateur États-Unis",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Tunisie_Autre",
+    "private_label": "Tunisie Autre",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/4_mois_a_1an",
+    "private_label": "4 mois à 1an",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/VLS_TS",
+    "private_label": "VLS-TS",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/15_jours_ou",
+    "private_label": "15 jours ou",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/30_jours",
+    "private_label": "30 jours",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Pivot_Local_Quelle",
+    "private_label": "Pivot Local Quelle",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/95200_Tribunal_administratif_Absence_de_reponse_du_prefet",
+    "private_label": "95200 Tribunal administratif Absence de réponse du préfet",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/95200_Tribunal_administratif_Quels",
+    "private_label": "95200 Tribunal administratif Quels",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_dacte_de_naissance",
+    "private_label": "Copie intégrale d'acte de naissance",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1_an",
+    "private_label": "1 an",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Assiduite_Resultats_aux_examens",
+    "private_label": "Assiduité Résultats aux examens",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Vendredi",
+    "private_label": "Vendredi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moyen_Vous_avez",
+    "private_label": "Moyen Vous avez",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Union_europeenne",
+    "private_label": "Union européenne",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_01_janvier_2026",
+    "private_label": "le 01 janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_mois_au_moins",
+    "private_label": "18 mois au moins",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/au_moins_18_ans",
+    "private_label": "au moins 18 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_12_derniers_mois",
+    "private_label": "les 12 derniers mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Prestations_familiales_Revenu_de_solidarite_active",
+    "private_label": "Prestations familiales Revenu de solidarité active",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Allocation_temporaire_dattente",
+    "private_label": "Allocation temporaire d'attente (",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/25_ans",
+    "private_label": "25 ans",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de",
+    "private_label": "Copie intégrale de",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_lacte_de_naissance_de_votre_epoux",
+    "private_label": "Copie intégrale de l'acte de naissance de votre époux",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_lacte_de_naissance_de_chacun_de_vos_enfants",
+    "private_label": "Copie intégrale de l'acte de naissance de chacun de vos enfants",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_legislation_du_pays_de_residence",
+    "private_label": "la législation du pays de résidence",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_consulat_de_France",
+    "private_label": "le consulat de France",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Contrat_de_travail",
+    "private_label": "les services fiscaux Contrat de travail",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Caisse_des_conges_payes_du_BTP",
+    "private_label": "la Caisse des congés payés du BTP",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Extrait_de_moins_de_3_mois_dinscription_au_registre_nationa",
+    "private_label": "les services fiscaux Extrait de moins de 3 mois d'inscription au registre national des entreprises",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_service_des_impots_Vous_exercez",
+    "private_label": "le service des impôts Vous exercez",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_service_des_impots_Vous_etes_auto_entrepreneur",
+    "private_label": "le service des impôts Vous êtes auto-entrepreneur",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_service_des_impots_Vous_etes_demandeur_demploi_Dernier_avis_dimposition",
+    "private_label": "le service des impôts Vous êtes demandeur d'emploi Dernier avis d'imposition (",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Releve_de_situation_recapitulant_les_droits_et_le_versement",
+    "private_label": "les services fiscaux Relevé de situation récapitulant les droits et le versement d'indemnités",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Decision_dattribution_dune_pension_de_vieillesse_ou_dinvali",
+    "private_label": "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie par",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Decision_dattribution_de_lallocation_Derniere_attestation_d",
+    "private_label": "les services fiscaux Décision d'attribution de l'allocation Dernière attestation de paiement de l'organisme payeur Autres situations Dernier avis d'imposition (",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Attestation_bancaire",
+    "private_label": "les services fiscaux Attestation bancaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/95200_Office_francais_de_limmigration_et_de_lintegration",
+    "private_label": "95200 Office français de l'immigration et de l'intégration (",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/6_mois",
+    "private_label": "6 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_2_mois_suivant_son",
+    "private_label": "les 2 mois suivant son",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_19e_anniversaire",
+    "private_label": "le 19e anniversaire",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_2_mois",
+    "private_label": "les 2 mois",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/VLS_TS",
+    "private_label": "VLS/TS",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ANEF_Benin",
+    "private_label": "ANEF Bénin",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Republique_du_Congo_Brazzaville",
+    "private_label": "République du Congo Brazzaville",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Cote_dIvoire_Gabon",
+    "private_label": "Côte d'Ivoire, Gabon",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Togo_Le_Benin",
+    "private_label": "Togo Le Bénin",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Cameroun",
+    "private_label": "le Cameroun",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Republique_centrafricaine",
+    "private_label": "la République centrafricaine",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Republique_du_Congo_Brazzaville",
+    "private_label": "la République du Congo Brazzaville",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Mauritanie",
+    "private_label": "la Mauritanie",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Niger",
+    "private_label": "le Niger",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Votre_epoux_se",
+    "private_label": "Votre époux(se",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ANEF",
+    "private_label": "ANEF",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Integration_de_la_famille_Votre_epoux_se",
+    "private_label": "Intégration de la famille Votre époux(se)",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_ans_au_moins",
+    "private_label": "18 ans au moins",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Copie_integrale_de_votre_acte_de_naissance",
+    "private_label": "Copie intégrale de votre acte de naissance",
+    "entity_label": "ORG",
+    "reason": "Boilerplate entity — skipped"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Contrat_de_travail_ou_attestation_de_travail_de_lemployeur_",
+    "private_label": "les services fiscaux Contrat de travail ou attestation de travail de l'employeur de moins de 3 mois dûment signée",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/la_Caisse_des_conges_payes",
+    "private_label": "la Caisse des congés payés",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_service_des_impots_Vous_etes",
+    "private_label": "le service des impôts Vous êtes",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Extrait_de_moins_de_3_mois",
+    "private_label": "les services fiscaux Extrait de moins de 3 mois",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_service_des_impots",
+    "private_label": "le service des impôts",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_services_fiscaux_Decision_dattribution_dune_pension_de_vieillesse_ou_dinvali",
+    "private_label": "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie",
+    "entity_label": "ORG",
+    "reason": "Label too long for entity search"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Office_francais_de_limmigration_et_de_lintegration",
+    "private_label": "Office français de l'immigration et de l'intégration",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_30_janvier_2002",
+    "private_label": "du 30 janvier 2002",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_9_novembre_2011",
+    "private_label": "du 9 novembre 2011",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/du_1er_aout_2014",
+    "private_label": "du 1er août 2014",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ANEF_Service",
+    "private_label": "ANEF Service",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Office_francais_de_limmigration_et_de_lintegration_Smic",
+    "private_label": "Office français de l'immigration et de l'intégration Smic",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_2_janvier_2026",
+    "private_label": "le 2 janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Hotel_de_la_subdivision",
+    "private_label": "« Hôtel de la subdivision »",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Albert_Laprade",
+    "private_label": "Albert Laprade",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1885_1978",
+    "private_label": "1885-1978",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_annees_1950",
+    "private_label": "les années 1950",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moulay_Abdellah",
+    "private_label": "Moulay Abdellah",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_Lentree",
+    "private_label": "Fermer L’entrée",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nevada",
+    "private_label": "Nevada",
+    "entity_label": "LOC",
+    "reason": "Type LOC defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nous_ecrire_Pour",
+    "private_label": "Nous écrire Pour",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/ACCEO",
+    "private_label": "ACCEO",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Service_France_Consulaire",
+    "private_label": "Service France Consulaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Reseaux_sociaux_Profil",
+    "private_label": "Réseaux sociaux Profil",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Avril_2024",
+    "private_label": "Avril 2024",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_la",
+    "private_label": "Fermer la",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_Jeudi",
+    "private_label": "Fermer Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1er_janvier",
+    "private_label": "1er janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jour_de_lAn_Mercredi",
+    "private_label": "Jour de l’An Mercredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_janvier",
+    "private_label": "14 janvier",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nouvel_An_Amazigh_Jeudi",
+    "private_label": "Nouvel An Amazigh Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/19_mars",
+    "private_label": "19 mars",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/vendredi_20_mars",
+    "private_label": "vendredi 20 mars",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Fitr_Vendredi",
+    "private_label": "Aïd Al Fitr* Vendredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1er_mai",
+    "private_label": "1er mai",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_du_Travail_Mercredi",
+    "private_label": "Fête du Travail Mercredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/27_mai",
+    "private_label": "27 mai",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/28_mai",
+    "private_label": "28 mai",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Adha_Mardi",
+    "private_label": "Aïd Al Adha* Mardi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/16_juin",
+    "private_label": "16 juin",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/17_juin",
+    "private_label": "17 juin",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram_Mardi",
+    "private_label": "Moharram* Mardi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_juillet",
+    "private_label": "14 juillet",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/30_juillet",
+    "private_label": "30 juillet",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_du_Trone_Vendredi",
+    "private_label": "Fête du Trône Vendredi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/20_aout",
+    "private_label": "20 août :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/21_aout",
+    "private_label": "21 août :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/25_aout",
+    "private_label": "25 août",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/mercredi",
+    "private_label": "mercredi",
+    "entity_label": "GPE",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/26_aout",
+    "private_label": "26 août",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Mawlid",
+    "private_label": "Aïd Al Mawlid",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Samedi",
+    "private_label": "Samedi",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/31_octobre",
+    "private_label": "31 octobre :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Wahda",
+    "private_label": "Aïd Al Wahda",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Vendredi",
+    "private_label": "Vendredi",
+    "entity_label": "GPE",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/6_novembre",
+    "private_label": "6 novembre :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Noel",
+    "private_label": "Noël",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_31_decembre_2025",
+    "private_label": "le 31 décembre 2025",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Services_aux_Francaises_et_Francais",
+    "private_label": "Services aux Françaises et Français",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nous_ecrire",
+    "private_label": "Nous écrire",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/France_Consulaire_du_lundi",
+    "private_label": "France Consulaire du lundi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jeudi_1_janvier",
+    "private_label": "Jeudi 1 janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/11_janvier",
+    "private_label": "11 janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_janvier",
+    "private_label": "14 janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/19_mars_jour",
+    "private_label": "19 mars + jour",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Fitr",
+    "private_label": "Aïd Al Fitr",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/27_mai_jour",
+    "private_label": "27 mai + jour",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Adha",
+    "private_label": "Aïd Al Adha",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/28_mai_jour",
+    "private_label": "28 mai + jour",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram",
+    "private_label": "Moharram",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/25_aout_ou",
+    "private_label": "25 août ou",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mercredi_1er_janvier",
+    "private_label": "Mercredi 1er janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Nouvel_an_Amazigh_Lundi",
+    "private_label": "Nouvel an Amazigh Lundi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/31_mars",
+    "private_label": "31 mars",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1er_avril",
+    "private_label": "1er avril :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Fitr",
+    "private_label": "Aïd Al Fitr *",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/21_avrill",
+    "private_label": "21 avrill :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Lundi_de_Paques_Jeudi",
+    "private_label": "Lundi de Pâques Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1er_mai",
+    "private_label": "1er mai :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_du_Travail_Vendredi",
+    "private_label": "Fête du Travail Vendredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/6_juin",
+    "private_label": "6 juin :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Adha_Samedi",
+    "private_label": "Aïd Al Adha* Samedi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/7_juin",
+    "private_label": "7 juin",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Adha_Vendredi",
+    "private_label": "Aïd Al Adha* Vendredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/27_juin",
+    "private_label": "27 juin",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram_Mercredi",
+    "private_label": "Moharram* Mercredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/30_juillet",
+    "private_label": "30 juillet :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_du_Trone_Jeudi",
+    "private_label": "Fête du Trône Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_aout",
+    "private_label": "14 août :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Journee_de_Oued_Eddahab",
+    "private_label": "Journée de Oued Eddahab",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/5_septembre",
+    "private_label": "5 septembre :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Mawlid_Jeudi",
+    "private_label": "Aïd Al Mawlid* Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/25_decembre",
+    "private_label": "25 décembre :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Rabat_Mis",
+    "private_label": "Rabat Mis",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/CNI",
+    "private_label": "CNI",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_Samedi",
+    "private_label": "Fermer Samedi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jeudi_1er_janvier",
+    "private_label": "Jeudi 1er janvier :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/19_ou_vendredi_20_mars",
+    "private_label": "19 ou vendredi 20 mars :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/27_plus_jour_suivant_soit_jeudi",
+    "private_label": "27 plus jour suivant soit jeudi",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram_Jeudi",
+    "private_label": "Moharram* Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_de_la_jeunesse_Mardi",
+    "private_label": "Fête de la jeunesse Mardi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/26_aout",
+    "private_label": "26 août :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_novembre",
+    "private_label": "18 novembre :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_22_janvier_2026",
+    "private_label": "le 22 janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_associations_francaises",
+    "private_label": "les associations françaises",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_instituts_et_alliances",
+    "private_label": "les instituts et alliances",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/les_ecoles_francaises_au_Maroc",
+    "private_label": "les écoles françaises au Maroc",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Carte_Nationale_dIdentite_et_Passeport",
+    "private_label": "Carte Nationale d’Identité et Passeport",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/depuis_juin_2021",
+    "private_label": "depuis juin 2021",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fes_Adresse",
+    "private_label": "Fès Adresse",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Bd_Abou_Obeida",
+    "private_label": "Bd Abou Obeida",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/El_Jarrah_Fes_Maroc_Ouvrir",
+    "private_label": "El Jarrah Fes Maroc Ouvrir",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_Vous",
+    "private_label": "Fermer Vous",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Le_service_France_Consulaire",
+    "private_label": "Le service France Consulaire",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fes_Carine_Foeller",
+    "private_label": "Fès Carine Foeller",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jeudi_1_er_janvier_2026",
+    "private_label": "Jeudi 1 er janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/11_janvier_2026",
+    "private_label": "11 janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_janvier_2026",
+    "private_label": "14 janvier 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/vendredi_20_mars_2026",
+    "private_label": "vendredi 20 mars 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1_er_mai_2026",
+    "private_label": "1 er mai 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/28_mai_2026",
+    "private_label": "28 mai 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/17_juin_2026",
+    "private_label": "17 juin 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram_Jeudi",
+    "private_label": "Moharram Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/30_juillet_2026",
+    "private_label": "30 juillet 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_aout_2026",
+    "private_label": "14 août 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/20_aout_2026",
+    "private_label": "20 août 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/21_aout_2026",
+    "private_label": "21 août 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/mercredi_26_aout_2026",
+    "private_label": "mercredi 26 août 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/31_octobre_2026",
+    "private_label": "31 octobre 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/06_novembre_2026",
+    "private_label": "06 novembre 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_novembre_2026",
+    "private_label": "18 novembre 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/25_decembre_2026",
+    "private_label": "25 décembre 2026",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Maroc_Ouvrir",
+    "private_label": "Maroc Ouvrir",
+    "entity_label": "GPE",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Les_bureaux_du_Consulat_general",
+    "private_label": "Les bureaux du Consulat général",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Dimanche_Liste",
+    "private_label": "Dimanche Liste",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Jeudi_1_er_janvier",
+    "private_label": "Jeudi 1 er janvier",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/11_janvier",
+    "private_label": "11 janvier",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/An_Amazigh_Soit",
+    "private_label": "An Amazigh Soit",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/20_mars",
+    "private_label": "20 mars",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/1_er_mai",
+    "private_label": "1 er mai",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/14_aout",
+    "private_label": "14 août",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/20_aout",
+    "private_label": "20 août",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/21_aout",
+    "private_label": "21 août",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/31_octobre",
+    "private_label": "31 octobre",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/6_novembre_Anniversaire_de_la_Marche_verte_Mercredi",
+    "private_label": "6 novembre Anniversaire de la Marche verte Mercredi",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/18_novembre",
+    "private_label": "18 novembre",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fete_de_lIndependance_Vendredi_25_decembre_Noel",
+    "private_label": "Fête de l’Indépendance Vendredi 25 décembre Noël",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Le_Consulat_general",
+    "private_label": "Le Consulat général",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_1er_juin_2021",
+    "private_label": "le 1er juin 2021",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/le_Service_France_Consulaire_du_lundi",
+    "private_label": "le Service France Consulaire du lundi",
+    "entity_label": "ORG",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Appeler",
+    "private_label": "Appeler",
+    "entity_label": "PERSON",
+    "reason": "Functional word — not linkable"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Fermer_Mercredi",
+    "private_label": "Fermer Mercredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/decembre_2024",
+    "private_label": "décembre 2024",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Mercredi_1er_janvier_2025",
+    "private_label": "Mercredi 1er janvier 2025",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Samedi_11_janvier_Lundi_31_mars",
+    "private_label": "Samedi 11 janvier Lundi 31 mars :",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_El_Fitr_Mardi",
+    "private_label": "Aïd El Fitr Mardi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_El_Fitr_Lundi",
+    "private_label": "Aïd El Fitr Lundi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/21_avril",
+    "private_label": "21 avril",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/6_juin",
+    "private_label": "6 juin",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Adha_Vendredi",
+    "private_label": "Aïd Al Adha Vendredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Moharram_Mercredi",
+    "private_label": "Moharram Mercredi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/5_septembre",
+    "private_label": "5 septembre",
+    "entity_label": "DATE",
+    "reason": "Type DATE defined locally"
+  },
+  {
+    "private_uri": "http://consulat.ma/kg/Aid_Al_Mawlid_Jeudi",
+    "private_label": "Aïd Al Mawlid Jeudi",
+    "entity_label": "PERSON",
+    "reason": "No Wikidata match above threshold"
+  }
+]

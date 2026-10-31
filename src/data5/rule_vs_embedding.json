@@ -1,0 +1,42 @@
+{
+  "model_used": "TransE_full",
+  "r1_uri": "http://consulat.ma/kg/locatedIn",
+  "r2_uri": "http://www.wikidata.org/prop/direct/P176",
+  "target_uri": "http://consulat.ma/kg/capital",
+  "cosine_composed_target": 0.2008167803287506,
+  "top_nearest_relations": [
+    {
+      "relation": "P176",
+      "cosine": 0.829613983631134
+    },
+    {
+      "relation": "locatedIn",
+      "cosine": 0.559967577457428
+    },
+    {
+      "relation": "P11463",
+      "cosine": 0.46563202142715454
+    },
+    {
+      "relation": "P807",
+      "cosine": 0.3886008858680725
+    },
+    {
+      "relation": "P8324",
+      "cosine": 0.3850068747997284
+    },
+    {
+      "relation": "P8744",
+      "cosine": 0.3785553574562073
+    },
+    {
+      "relation": "P5769",
+      "cosine": 0.35554638504981995
+    },
+    {
+      "relation": "P12714",
+      "cosine": 0.3462579548358917
+    }
+  ],
+  "swrl_rule_analog": "SWRL Rule B (approx) :\n  locatedIn(?a,?b) ∧ P176(?b,?c) → capital(?a,?c)\nAnalogie vectorielle TransE :\n  v(locatedIn) + v(P176) ≈ v(capital)"
+}

@@ -1,0 +1,15 @@
+{
+  "total_triples": 56938,
+  "total_entities": 32674,
+  "total_relations": 232,
+  "meets_50k_triples": true,
+  "meets_5k_entities": true,
+  "meets_50_relations": true,
+  "source": "consulat.ma + Wikidata SPARQL",
+  "expansion_strategy": [
+    "1-hop from aligned entities",
+    "Predicate-controlled Morocco-anchored",
+    "2-hop via Morocco Q1028 pivot",
+    "Bulk Moroccan administrative entities"
+  ]
+}

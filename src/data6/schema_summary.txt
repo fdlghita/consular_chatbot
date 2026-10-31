@@ -1,0 +1,63 @@
+PREFIX : <http://consulat.ma/kg/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+# Distinct Predicates (up to 30):
+  - http://consulat.ma/kg/instanceOf
+  - http://consulat.ma/kg/country
+  - http://www.w3.org/2000/01/rdf-schema#label
+  - http://consulat.ma/kg/containsAdministrativeDivision
+  - http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+  - http://consulat.ma/kg/subclassOf
+  - http://consulat.ma/kg/locatedIn
+  - http://consulat.ma/kg/relatedTo
+  - http://www.w3.org/2002/07/owl#sameAs
+  - http://consulat.ma/kg/parentOrganization
+  - http://consulat.ma/kg/externalEntity
+  - http://consulat.ma/kg/officialLanguage
+  - http://consulat.ma/kg/capital
+  - http://consulat.ma/kg/hasPart
+  - http://consulat.ma/kg/partOf
+  - http://www.w3.org/2004/02/skos/core#exactMatch
+  - http://consulat.ma/kg/related_to
+  - http://consulat.ma/kg/headquartersLocation
+  - http://consulat.ma/kg/privateEntity
+  - http://consulat.ma/kg/ne_a_en
+  - http://consulat.ma/kg/dans_de_de
+  - http://consulat.ma/kg/sont_a_du_de
+  - http://www.w3.org/2000/01/rdf-schema#subClassOf
+  - http://www.w3.org/2000/01/rdf-schema#subPropertyOf
+  - http://consulat.ma/kg/ne
+  - http://www.w3.org/2002/07/owl#equivalentProperty
+  - http://consulat.ma/kg/deja
+  - http://consulat.ma/kg/de_sont_a_pour
+  - http://consulat.ma/kg/ne_au
+  - http://consulat.ma/kg/Pour_contacter_de_aux
+
+# Distinct Classes / rdf:type values (up to 15):
+  - http://consulat.ma/kg/Duration
+  - http://www.w3.org/2002/07/owl#Thing
+  - http://schema.org/Person
+  - http://schema.org/GovernmentOrganization
+  - http://www.w3.org/2002/07/owl#Class
+  - http://schema.org/Place
+  - http://schema.org/Organization
+  - http://www.w3.org/2002/07/owl#ObjectProperty
+  - http://consulat.ma/kg/AlignmentConfidence
+  - http://www.w3.org/2002/07/owl#Ontology
+
+# Sample Triples (up to 10):
+  (http://consulat.ma/kg/Q4115048) [http://consulat.ma/kg/instanceOf] (http://consulat.ma/kg/Q3839081)
+  (http://consulat.ma/kg/Q3469438) [http://consulat.ma/kg/country] (http://consulat.ma/kg/Q1028)
+  (http://consulat.ma/kg/Q30) [http://www.wikidata.org/prop/direct/P793] (http://consulat.ma/kg/Q4302809)
+  (http://consulat.ma/kg/Q27293) [http://www.w3.org/2000/01/rdf-schema#label] (Asie de l'Ouest)
+  (http://consulat.ma/kg/Q90) [http://www.wikidata.org/prop/direct/P5008] (http://consulat.ma/kg/Q5460604)
+  (http://consulat.ma/kg/Q45) [http://www.wikidata.org/prop/direct/P209] (http://consulat.ma/kg/Q7232693)
+  (http://consulat.ma/kg/Q219) [http://www.wikidata.org/prop/direct/P1740] (http://consulat.ma/kg/Q7140313)
+  (http://consulat.ma/kg/Q4201225) [http://consulat.ma/kg/containsAdministrativeDivision] (http://consulat.ma/kg/Q4267815)
+  (http://consulat.ma/kg/Q27515794) [http://consulat.ma/kg/country] (http://consulat.ma/kg/Q1028)
+  (http://consulat.ma/kg/Q779924) [http://www.w3.org/2000/01/rdf-schema#label] (civilisation islamique)

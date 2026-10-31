@@ -1,0 +1,2123 @@
+@prefix : <http://consulat.ma/kg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+
+:03_ans a :Duration ;
+    rdfs:label "03) ans"@fr .
+
+:06_novembre_2026 a :Duration ;
+    rdfs:label "06 novembre 2026"@fr .
+
+:10_ans a :Duration ;
+    rdfs:label "10 ans"@fr .
+
+:11_janvier a :Duration ;
+    rdfs:label "11 janvier"@fr,
+        "11 janvier :"@fr .
+
+:11_janvier_2026 a :Duration ;
+    rdfs:label "11 janvier 2026"@fr .
+
+:12_a_18_ans a :Duration ;
+    rdfs:label "12 à 18 ans"@fr .
+
+:12_ans a :Duration ;
+    rdfs:label "12 ans"@fr .
+
+:14_aout a :Duration ;
+    rdfs:label "14 août"@fr,
+        "14 août :"@fr .
+
+:14_aout_2026 a :Duration ;
+    rdfs:label "14 août 2026"@fr .
+
+:14_janvier a :Duration ;
+    rdfs:label "14 janvier"@fr,
+        "14 janvier :"@fr .
+
+:14_janvier_2026 a :Duration ;
+    rdfs:label "14 janvier 2026"@fr .
+
+:14_juillet a :Duration ;
+    rdfs:label "14 juillet"@fr .
+
+:15_jours_ou a :Duration ;
+    rdfs:label "15 jours ou"@fr .
+
+:16_ans a :Duration ;
+    rdfs:label "16 ans"@fr .
+
+:16_et_36_ans a :Duration ;
+    rdfs:label "16 et 36 ans"@fr .
+
+:16_juin a :Duration ;
+    rdfs:label "16 juin"@fr .
+
+:17_juin a :Duration ;
+    rdfs:label "17 juin"@fr .
+
+:17_juin_2026 a :Duration ;
+    rdfs:label "17 juin 2026"@fr .
+
+:1885_1978 a :Duration ;
+    rdfs:label "1885-1978"@fr .
+
+:18_ans a :Duration ;
+    rdfs:label "18 ans"@fr .
+
+:18_ans_au_moins a :Duration ;
+    rdfs:label "18 ans au moins"@fr .
+
+:18_mois a :Duration ;
+    rdfs:label "18 mois"@fr .
+
+:18_mois_au_moins a :Duration ;
+    rdfs:label "18 mois au moins"@fr .
+
+:18_novembre a :Duration ;
+    rdfs:label "18 novembre"@fr,
+        "18 novembre :"@fr .
+
+:18_novembre_2026 a :Duration ;
+    rdfs:label "18 novembre 2026"@fr .
+
+:19_mars a :Duration ;
+    rdfs:label "19 mars"@fr .
+
+:19_mars_jour a :Duration ;
+    rdfs:label "19 mars + jour"@fr .
+
+:19_ou_vendredi_20_mars a :Duration ;
+    rdfs:label "19 ou vendredi 20 mars :"@fr .
+
+:1_an a :Duration ;
+    rdfs:label "1 an"@fr .
+
+:1_an_dage_beneficie_de_2_ans a :Duration ;
+    rdfs:label "1 an d’âge bénéficie de 2 ans"@fr .
+
+:1_er_mai a :Duration ;
+    rdfs:label "1 er mai"@fr .
+
+:1_er_mai_2026 a :Duration ;
+    rdfs:label "1 er mai 2026"@fr .
+
+:1er_avril a :Duration ;
+    rdfs:label "1er avril :"@fr .
+
+:1er_janvier a :Duration ;
+    rdfs:label "1er janvier :"@fr .
+
+:1er_mai a :Duration ;
+    rdfs:label "1er mai"@fr,
+        "1er mai :"@fr .
+
+:1ere_annee_Apres_1_an a :Duration ;
+    rdfs:label "1ère année Après 1 an"@fr .
+
+:20_aout a :Duration ;
+    rdfs:label "20 août"@fr,
+        "20 août :"@fr .
+
+:20_aout_2026 a :Duration ;
+    rdfs:label "20 août 2026"@fr .
+
+:20_mars a :Duration ;
+    rdfs:label "20 mars"@fr .
+
+:21_aout a :Duration ;
+    rdfs:label "21 août"@fr,
+        "21 août :"@fr .
+
+:21_aout_2026 a :Duration ;
+    rdfs:label "21 août 2026"@fr .
+
+:21_avril a :Duration ;
+    rdfs:label "21 avril"@fr .
+
+:21_avrill a :Duration ;
+    rdfs:label "21 avrill :"@fr .
+
+:24_24 a :Duration ;
+    rdfs:label "24/24"@fr .
+
+:24_mois a :Duration ;
+    rdfs:label "24 mois"@fr .
+
+:25_ans a :Duration ;
+    rdfs:label "25 ans"@fr .
+
+:25_aout a :Duration ;
+    rdfs:label "25 août"@fr .
+
+:25_aout_ou a :Duration ;
+    rdfs:label "25 août ou"@fr .
+
+:25_decembre a :Duration ;
+    rdfs:label "25 décembre :"@fr .
+
+:25_decembre_2026 a :Duration ;
+    rdfs:label "25 décembre 2026"@fr .
+
+:26_aout a :Duration ;
+    rdfs:label "26 août"@fr,
+        "26 août :"@fr .
+
+:27_juin a :Duration ;
+    rdfs:label "27 juin"@fr .
+
+:27_mai a :Duration ;
+    rdfs:label "27 mai"@fr .
+
+:27_mai_jour a :Duration ;
+    rdfs:label "27 mai + jour"@fr .
+
+:27_plus_jour_suivant_soit_jeudi a :Duration ;
+    rdfs:label "27 plus jour suivant soit jeudi"@fr .
+
+:28_mai a :Duration ;
+    rdfs:label "28 mai"@fr .
+
+:28_mai_2026 a :Duration ;
+    rdfs:label "28 mai 2026"@fr .
+
+:28_mai_jour a :Duration ;
+    rdfs:label "28 mai + jour"@fr .
+
+:2_ans a :Duration ;
+    rdfs:label "2 ans"@fr .
+
+:30_jours a :Duration ;
+    rdfs:label "30 jours"@fr .
+
+:30_juillet a :Duration ;
+    rdfs:label "30 juillet"@fr,
+        "30 juillet :"@fr .
+
+:30_juillet_2026 a :Duration ;
+    rdfs:label "30 juillet 2026"@fr .
+
+:31_mars a :Duration ;
+    rdfs:label "31 mars"@fr .
+
+:31_octobre a :Duration ;
+    rdfs:label "31 octobre"@fr,
+        "31 octobre :"@fr .
+
+:31_octobre_2026 a :Duration ;
+    rdfs:label "31 octobre 2026"@fr .
+
+:3_ans a :Duration ;
+    rdfs:label "3 ans"@fr .
+
+:3_ans_dabattement a :Duration ;
+    rdfs:label "3 ans d’abattement,"@fr .
+
+:4_mois_a_1an a :Duration ;
+    rdfs:label "4 mois à 1an"@fr .
+
+:5_ans a :Duration ;
+    rdfs:label "5 ans"@fr .
+
+:5_septembre a :Duration ;
+    rdfs:label "5 septembre"@fr,
+        "5 septembre :"@fr .
+
+:60_ans a :Duration ;
+    rdfs:label "60 ans"@fr .
+
+:6_juin a :Duration ;
+    rdfs:label "6 juin"@fr,
+        "6 juin :"@fr .
+
+:6_mois a :Duration ;
+    rdfs:label "6 mois"@fr .
+
+:6_novembre a :Duration ;
+    rdfs:label "6 novembre :"@fr .
+
+:6_novembre_Anniversaire_de_la_Marche_verte_Mercredi a :Duration ;
+    rdfs:label "6 novembre Anniversaire de la Marche verte Mercredi"@fr .
+
+:7_juin a :Duration ;
+    rdfs:label "7 juin"@fr .
+
+:7j_7j a :Duration ;
+    rdfs:label "7j/7j"@fr .
+
+:9_mois a :Duration ;
+    rdfs:label "9 mois"@fr .
+
+:ACTIVER_MON_ESPACE_PERSONNEL a schema1:Person ;
+    rdfs:label "ACTIVER MON ESPACE PERSONNEL"@fr .
+
+:AMCI a schema1:GovernmentOrganization ;
+    rdfs:label "AMCI"@fr .
+
+:ANEF_Benin a schema1:GovernmentOrganization ;
+    rdfs:label "ANEF Bénin"@fr ;
+    :related_to :Togo .
+
+:ANEF_Service a schema1:GovernmentOrganization ;
+    rdfs:label "ANEF Service"@fr .
+
+:AOL a schema1:Organization ;
+    rdfs:label "AOL"@fr ;
+    :related_to :Blinklist .
+
+:Accord a schema1:GovernmentOrganization ;
+    rdfs:label "Accord"@fr .
+
+:Accueil_Prestations_consulaires_Famille a schema1:GovernmentOrganization ;
+    rdfs:label "Accueil Prestations consulaires Famille"@fr .
+
+:AdministrativeDocument a owl:Class ;
+    rdfs:comment "An official document issued by consular authorities" ;
+    rdfs:subClassOf owl:Thing .
+
+:AdministrativeFee a owl:Class ;
+    rdfs:comment "A fee associated with a consular service" ;
+    rdfs:subClassOf owl:Thing .
+
+:AdministrativeRole a owl:Class ;
+    rdfs:comment "A named administrative role or person category" ;
+    rdfs:subClassOf owl:Thing .
+
+:Afghanistan a schema1:Place ;
+    rdfs:label "Afghanistan"@fr ;
+    :related_to :Zimbabwe .
+
+:Agadir a schema1:Place ;
+    rdfs:label "Agadir"@fr .
+
+:Aid_Al_Adha a schema1:Person ;
+    rdfs:label "Aïd Al Adha"@fr .
+
+:Aid_Al_Adha_Mardi a schema1:Person ;
+    rdfs:label "Aïd Al Adha* Mardi"@fr .
+
+:Aid_Al_Adha_Samedi a schema1:Person ;
+    rdfs:label "Aïd Al Adha* Samedi"@fr .
+
+:Aid_Al_Adha_Vendredi a schema1:Person ;
+    rdfs:label "Aïd Al Adha Vendredi"@fr,
+        "Aïd Al Adha* Vendredi"@fr .
+
+:Aid_Al_Fitr a schema1:Person ;
+    rdfs:label "Aïd Al Fitr"@fr,
+        "Aïd Al Fitr *"@fr .
+
+:Aid_Al_Fitr_Vendredi a schema1:Person ;
+    rdfs:label "Aïd Al Fitr* Vendredi"@fr .
+
+:Aid_Al_Mawlid a schema1:Person ;
+    rdfs:label "Aïd Al Mawlid"@fr .
+
+:Aid_El_Fitr_Lundi a schema1:Person ;
+    rdfs:label "Aïd El Fitr Lundi"@fr .
+
+:Aid_El_Fitr_Mardi a schema1:Person ;
+    rdfs:label "Aïd El Fitr Mardi"@fr ;
+    :related_to :Aid_Al_Mawlid_Jeudi .
+
+:Algerie a schema1:Place ;
+    rdfs:label "Algérie"@fr .
+
+:Allo_Service_Public a schema1:GovernmentOrganization ;
+    rdfs:label "Allô Service Public"@fr .
+
+:Amazon a schema1:Organization ;
+    rdfs:label "Amazon"@fr ;
+    :related_to :Delicious .
+
+:An_Amazigh_Soit a schema1:Person ;
+    rdfs:label "An Amazigh Soit"@fr .
+
+:Angola a schema1:Place ;
+    rdfs:label "Angola"@fr .
+
+:Antigua_et_Barbuda a schema1:Place ;
+    rdfs:label "Antigua-et-Barbuda"@fr .
+
+:Antigua_et_Barbuda_Arabie a schema1:Place ;
+    rdfs:label "Antigua-et-Barbuda Arabie"@fr .
+
+:Apostille a schema1:GovernmentOrganization ;
+    rdfs:label "Apostille"@fr .
+
+:Apostille_Lapostille a schema1:GovernmentOrganization ;
+    rdfs:label "Apostille L’apostille"@fr ;
+    :est_des_a_dans :Etat .
+
+:Arabie_Saoudite a schema1:GovernmentOrganization ;
+    rdfs:label "Arabie Saoudite"@fr .
+
+:Asie a schema1:Person ;
+    rdfs:label "Asie"@fr .
+
+:Assiduite_Resultats_aux_examens a schema1:GovernmentOrganization ;
+    rdfs:label "Assiduité Résultats aux examens"@fr .
+
+:Avril_2024 a :Duration ;
+    rdfs:label "Avril 2024"@fr .
+
+:Aymeric_CHUZEVILLE a schema1:Person ;
+    rdfs:label "Aymeric CHUZEVILLE"@fr .
+
+:Bahamas a schema1:Place ;
+    rdfs:label "Bahamas"@fr .
+
+:Bahrein a schema1:Place ;
+    rdfs:label "Bahreïn"@fr .
+
+:Balatarin a schema1:Organization ;
+    rdfs:label "Balatarin"@fr .
+
+:Bangladesh a schema1:Place ;
+    rdfs:label "Bangladesh"@fr .
+
+:Barbade a schema1:Place ;
+    rdfs:label "Barbade"@fr .
+
+:Bd_Abou_Obeida a schema1:Person ;
+    rdfs:label "Bd Abou Obeida"@fr .
+
+:Belgique a schema1:Place ;
+    rdfs:label "Belgique"@fr ;
+    :relatedTo :Ukraine .
+
+:Belgique_Maldives a schema1:Place ;
+    rdfs:label "Belgique Maldives"@fr ;
+    :related_to :Hongrie .
+
+:Belize_Benin a schema1:Place ;
+    rdfs:label "Belize Bénin"@fr .
+
+:Benin_Bhoutan a schema1:Place ;
+    rdfs:label "Bénin Bhoutan"@fr .
+
+:Besoin_daide a schema1:Person ;
+    rdfs:label "Besoin d'aide"@fr ;
+    :related_to :Delicious .
+
+:Bolivie_Bosnie_Herzegovine a schema1:Place ;
+    rdfs:label "Bolivie Bosnie-Herzégovine"@fr .
+
+:Bolivie_Bresil a schema1:GovernmentOrganization ;
+    rdfs:label "Bolivie Brésil"@fr .
+
+:Botswana a schema1:Place ;
+    rdfs:label "Botswana"@fr .
+
+:Bresil_Brunei a schema1:Place ;
+    rdfs:label "Brésil Brunéi"@fr .
+
+:Bulgarie a schema1:Place ;
+    rdfs:label "Bulgarie"@fr .
+
+:Burkina_Faso a schema1:Place ;
+    rdfs:label "Burkina Faso"@fr,
+        "Burkina-Faso"@fr ;
+    :relatedTo :Afrique_du_Nord .
+
+:Burundi a schema1:Place ;
+    rdfs:label "Burundi"@fr .
+
+:CDD a schema1:GovernmentOrganization ;
+    rdfs:label "CDD"@fr .
+
+:CDI a schema1:GovernmentOrganization ;
+    rdfs:label "CDI"@fr .
+
+:CNI a schema1:GovernmentOrganization ;
+    rdfs:label "CNI"@fr .
+
+:C_Conduire a schema1:Person ;
+    rdfs:label "C. Conduire"@fr .
+
+:Cameroun a schema1:Place ;
+    rdfs:label "Cameroun"@fr .
+
+:Canada a schema1:Place ;
+    rdfs:label "Canada"@fr ;
+    :relatedTo :Accueil_Prestations_consulaires,
+        :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale,
+        :Ukraine ;
+    :related_to :Accueil_Prestations_consulaires,
+        :Ukraine .
+
+:Cap_Vert_Centreafrique a schema1:GovernmentOrganization ;
+    rdfs:label "Cap-Vert Centreafrique"@fr .
+
+:Care2 a schema1:Organization ;
+    rdfs:label "Care2"@fr ;
+    :related_to :Delicious .
+
+:Carte_Nationale_dIdentite_et_Passeport a schema1:GovernmentOrganization ;
+    rdfs:label "Carte Nationale d’Identité et Passeport"@fr .
+
+:Carte_dIdentite_Nationale_Electronique a schema1:GovernmentOrganization ;
+    rdfs:label "Carte d’Identité Nationale Électronique"@fr ;
+    :related_to :CNIE .
+
+:Carte_de_residence a schema1:GovernmentOrganization ;
+    rdfs:label "Carte de résidence"@fr .
+
+:Carte_de_sejour a schema1:GovernmentOrganization ;
+    rdfs:label "Carte de séjour"@fr ;
+    :deja :Visa ;
+    :relatedTo :Visa .
+
+:Carte_didentite_nationale a schema1:GovernmentOrganization ;
+    rdfs:label "Carte d'identité nationale"@fr .
+
+:Cartographie_Suivi_des_affaires_en_justice a schema1:GovernmentOrganization ;
+    rdfs:label "Cartographie Suivi des affaires en justice"@fr .
+
+:Centre_du_casier_judiciaire_national a schema1:GovernmentOrganization ;
+    rdfs:label "Centre du casier judiciaire national"@fr .
+
+:Certaines_uvres_de_bienfaisance a schema1:GovernmentOrganization ;
+    rdfs:label "Certaines œuvres de bienfaisance"@fr .
+
+:Colloques a schema1:Person ;
+    rdfs:label "Colloques"@fr .
+
+:Colombie_Equateur_Etats_Unis a schema1:GovernmentOrganization ;
+    rdfs:label "Colombie Equateur États-Unis"@fr .
+
+:Comores a schema1:Place ;
+    rdfs:label "Comores"@fr .
+
+:Conakry a schema1:Place ;
+    rdfs:label "Conakry"@fr .
+
+:Conservation_Fonciere a schema1:GovernmentOrganization ;
+    rdfs:label "Conservation Foncière"@fr .
+
+:ConsularProcedure a owl:Class ;
+    rdfs:comment "An administrative procedure at consular level" ;
+    rdfs:subClassOf owl:Thing .
+
+:Contrat a schema1:Person ;
+    rdfs:label "Contrat"@fr .
+
+:Convention_collective a schema1:GovernmentOrganization ;
+    rdfs:label "Convention collective"@fr .
+
+:Convention_de_La_Haye a schema1:GovernmentOrganization ;
+    rdfs:label "Convention de La Haye"@fr .
+
+:Coree_du_Nord a schema1:GovernmentOrganization ;
+    rdfs:label "Corée du Nord"@fr .
+
+:Costa_Rica a schema1:Place ;
+    rdfs:label "Costa Rica"@fr .
+
+:Cote_dIvoire_Croatie a schema1:Place ;
+    rdfs:label "Côte d’Ivoire Croatie"@fr .
+
+:Cote_dIvoire_Djibouti a schema1:Place ;
+    rdfs:label "Côte d'Ivoire Djibouti"@fr .
+
+:Cote_dIvoire_Gabon a schema1:Place ;
+    rdfs:label "Côte d'Ivoire, Gabon"@fr .
+
+:Courriel_Copier a schema1:Person ;
+    rdfs:label "Courriel Copier"@fr .
+
+:Cuba a schema1:Place ;
+    rdfs:label "Cuba"@fr .
+
+:DILA a schema1:GovernmentOrganization ;
+    rdfs:label "DILA"@fr .
+
+:Danemark a schema1:Place ;
+    rdfs:label "Danemark"@fr .
+
+:Danemark_Emirats a schema1:GovernmentOrganization ;
+    rdfs:label "Danemark Émirats"@fr .
+
+:Deces a schema1:GovernmentOrganization ;
+    rdfs:label "Décès"@fr .
+
+:Decret_CNIE_Cliquer a schema1:Person ;
+    rdfs:label "Décret CNIE Cliquer"@fr .
+
+:Delivrance_de_la_CNIE a schema1:Person ;
+    rdfs:label "Délivrance de la CNIE"@fr .
+
+:Delivrance_de_la_fiche_anthropometrique a schema1:Person ;
+    rdfs:label "Délivrance de la fiche anthropométrique"@fr .
+
+:Delivrance_du_passeport_biometrique a schema1:Person ;
+    rdfs:label "Délivrance du passeport biométrique"@fr .
+
+:Dem_du_Congo a schema1:GovernmentOrganization ;
+    rdfs:label "Dem. du Congo"@fr .
+
+:Depuis_aout_2016 a :Duration ;
+    rdfs:label "Depuis août 2016"@fr .
+
+:Diigo a schema1:Organization ;
+    rdfs:label "Diigo"@fr .
+
+:Diigo_Douban a schema1:Person ;
+    rdfs:label "Diigo Douban"@fr .
+
+:Direction_des_Affaires_Civiles_Rabat a schema1:GovernmentOrganization ;
+    rdfs:label "Direction des Affaires Civiles - Rabat –"@fr .
+
+:Direction_du_Protocole a schema1:GovernmentOrganization ;
+    rdfs:label "Direction du Protocole"@fr .
+
+:Draugiem a schema1:Organization ;
+    rdfs:label "Draugiem"@fr ;
+    :related_to :Kik,
+        :LiveJournal .
+
+:Driouch a schema1:Place ;
+    rdfs:label "Driouch"@fr ;
+    :de :Nador ;
+    :relatedTo :Nador .
+
+:Droit_de_chancellerie_Formulaire_Observations_Pieces a schema1:GovernmentOrganization ;
+    rdfs:label "Droit de chancellerie Formulaire Observations Pièces"@fr ;
+    :related_to :Mariage .
+
+:Emirats_Arabes_Unies_et_Espagne a schema1:GovernmentOrganization ;
+    rdfs:label "Emirats Arabes Unies et Espagne"@fr .
+
+:Emirats_arabes a schema1:GovernmentOrganization ;
+    rdfs:label "Émirats arabes"@fr .
+
+:Espagne_Etats_Unis a schema1:GovernmentOrganization ;
+    rdfs:label "Espagne États-Unis"@fr .
+
+:Etats_Unis a schema1:GovernmentOrganization ;
+    rdfs:label "États-Unis"@fr .
+
+:Etats_Unis_dAmerique_Suisse a schema1:GovernmentOrganization ;
+    rdfs:label "Etats-Unis d'Amérique Suisse"@fr .
+
+:Ethiopie a schema1:Place ;
+    rdfs:label "Ethiopie"@fr .
+
+:Europe a schema1:Place ;
+    rdfs:label "Europe"@fr .
+
+:Fark a schema1:Organization ;
+    rdfs:label "Fark"@fr .
+
+:Fes_Adresse a schema1:GovernmentOrganization ;
+    rdfs:label "Fès Adresse"@fr .
+
+:Fes_Carine_Foeller a schema1:GovernmentOrganization ;
+    rdfs:label "Fès Carine Foeller"@fr .
+
+:Fete_de_lIndependance_Vendredi_25_decembre_Noel a :Duration ;
+    rdfs:label "Fête de l’Indépendance Vendredi 25 décembre Noël"@fr .
+
+:Fete_de_la_jeunesse a schema1:GovernmentOrganization ;
+    rdfs:label "Fête de la jeunesse"@fr .
+
+:Fete_de_la_jeunesse_Mardi a schema1:GovernmentOrganization ;
+    rdfs:label "Fête de la jeunesse Mardi"@fr .
+
+:Fete_du_Travail_Mercredi a schema1:Person ;
+    rdfs:label "Fête du Travail Mercredi"@fr .
+
+:Fete_du_Travail_Vendredi a schema1:Person ;
+    rdfs:label "Fête du Travail Vendredi"@fr .
+
+:Fete_du_Trone_Jeudi a schema1:Person ;
+    rdfs:label "Fête du Trône Jeudi"@fr .
+
+:Fete_du_Trone_Vendredi a schema1:GovernmentOrganization ;
+    rdfs:label "Fête du Trône Vendredi"@fr .
+
+:Formulaires_Formulaire a schema1:GovernmentOrganization ;
+    rdfs:label "Formulaires Formulaire"@fr .
+
+:France_Consulaire_du_lundi a schema1:GovernmentOrganization ;
+    rdfs:label "France Consulaire du lundi"@fr ;
+    :relatedTo :ACCEO .
+
+:France_Travail a schema1:GovernmentOrganization ;
+    rdfs:label "France Travail"@fr .
+
+:France_visas a schema1:GovernmentOrganization ;
+    rdfs:label "France-visas"@fr .
+
+:Gabon a schema1:Place ;
+    rdfs:label "Gabon"@fr .
+
+:Gabon_Gambie a schema1:Place ;
+    rdfs:label "Gabon Gambie"@fr ;
+    :related_to :Hong_Kong .
+
+:Georgie_Royaume_Uni a schema1:Place ;
+    rdfs:label "Géorgie Royaume-Uni"@fr .
+
+:Ghana a schema1:Place ;
+    rdfs:label "Ghana"@fr .
+
+:Google_Bookmarks a schema1:Organization ;
+    rdfs:label "Google Bookmarks"@fr .
+
+:Google_Gmail a schema1:GovernmentOrganization ;
+    rdfs:label "Google Gmail"@fr .
+
+:Grece_Grenade a schema1:Place ;
+    rdfs:label "Grèce Grenade"@fr .
+
+:Grece_Irlande a schema1:Place ;
+    rdfs:label "Grèce Irlande"@fr .
+
+:Guatemala a schema1:Place ;
+    rdfs:label "Guatemala"@fr .
+
+:Guelmim_Oued_Noun a schema1:Person ;
+    rdfs:label "Guelmim Oued Noun"@fr .
+
+:Guinee a schema1:Person ;
+    rdfs:label "Guinée"@fr .
+
+:Guinee_Guinee a schema1:Place ;
+    rdfs:label "Guinée Guinée"@fr .
+
+:Guyana_Haiti a schema1:Place ;
+    rdfs:label "Guyana Haïti"@fr .
+
+:Hatena a schema1:Organization ;
+    rdfs:label "Hatena"@fr ;
+    :related_to :Kik,
+        :Papaly .
+
+:Hatena_Houzz a schema1:Person ;
+    rdfs:label "Hatena Houzz"@fr ;
+    :related_to :Kik,
+        :LiveJournal,
+        :Plurk .
+
+:Honduras a schema1:Place ;
+    rdfs:label "Honduras"@fr .
+
+:Hongrie_Ile a schema1:Place ;
+    rdfs:label "Hongrie Île"@fr .
+
+:Hotel_de_la_subdivision a schema1:GovernmentOrganization ;
+    rdfs:label "« Hôtel de la subdivision »"@fr ;
+    :relatedTo :Albert_Laprade .
+
+:Immatriculation_Consulaire a schema1:GovernmentOrganization ;
+    rdfs:label "« Immatriculation Consulaire »"@fr .
+
+:Immatriculation_consulaire a schema1:GovernmentOrganization ;
+    rdfs:label "Immatriculation consulaire"@fr ;
+    :related_to :Livret_didentite_et_detat_civil .
+
+:Indonesie_Jordanie a schema1:Person ;
+    rdfs:label "Indonésie Jordanie"@fr ;
+    :related_to :Malaisie_Mali_Maldives .
+
+:Integration_de_la_famille_Votre_epoux_se a schema1:GovernmentOrganization ;
+    rdfs:label "Intégration de la famille Votre époux(se)"@fr .
+
+:Iran a schema1:Place ;
+    rdfs:label "Iran"@fr .
+
+:Irlande_Islande a schema1:Place ;
+    rdfs:label "Irlande Islande"@fr .
+
+:Ishhad_Moulhaq a schema1:Person ;
+    rdfs:label "« Ishhad Moulhaq »"@fr .
+
+:Istilhaq a schema1:Place ;
+    rdfs:label "Istilhaq"@fr .
+
+:Jamaique_Japon a schema1:Place ;
+    rdfs:label "Jamaïque Japon"@fr .
+
+:Jour_de_lAn_Mercredi a schema1:Person ;
+    rdfs:label "Jour de l’An Mercredi"@fr .
+
+:Journee_de_Oued_Eddahab a schema1:GovernmentOrganization ;
+    rdfs:label "Journée de Oued Eddahab"@fr .
+
+:Kafala a schema1:Person ;
+    rdfs:label "Kafala"@fr .
+
+:Kakao a schema1:Organization ;
+    rdfs:label "Kakao"@fr ;
+    :related_to :Kik,
+        :LiveJournal,
+        :Plurk,
+        :Symbaloo,
+        :Telegram,
+        :Wykop,
+        :Yahoo_Mail .
+
+:Kakao_Kik a schema1:GovernmentOrganization ;
+    rdfs:label "Kakao Kik"@fr .
+
+:Kazakhstan a schema1:Place ;
+    rdfs:label "Kazakhstan"@fr .
+
+:Kenya a schema1:Place ;
+    rdfs:label "Kenya"@fr .
+
+:Kenya_Liban a schema1:Place ;
+    rdfs:label "Kenya Liban"@fr .
+
+:Kindle a schema1:GovernmentOrganization ;
+    rdfs:label "Kindle"@fr .
+
+:Kirghizistan a schema1:Place ;
+    rdfs:label "Kirghizistan"@fr .
+
+:Kiribati_Koweit a schema1:Place ;
+    rdfs:label "Kiribati Koweït"@fr .
+
+:Koweit a schema1:Person ;
+    rdfs:label "Koweït"@fr ;
+    :related_to :Lettonie .
+
+:Laissez_Passer a schema1:GovernmentOrganization ;
+    rdfs:label "Laissez-Passer"@fr .
+
+:Laissez_passer_Le_laissez_passer a schema1:Person ;
+    rdfs:label "Laissez-passer Le laissez-passer"@fr .
+
+:Laos a schema1:Place ;
+    rdfs:label "Laos"@fr .
+
+:Le_Consulat a schema1:GovernmentOrganization ;
+    rdfs:label "Le Consulat"@fr .
+
+:Le_Consulat_general a schema1:GovernmentOrganization ;
+    rdfs:label "Le Consulat général"@fr .
+
+:Le_Secretaire_General_du_Ministere_de_la_Justice a schema1:GovernmentOrganization ;
+    rdfs:label "Le Secrétaire Général du Ministère de la Justice"@fr .
+
+:Le_laissez_passer a schema1:GovernmentOrganization ;
+    rdfs:label "Le laissez-passer"@fr .
+
+:Le_passeport_biometrique a schema1:GovernmentOrganization ;
+    rdfs:label "Le passeport biométrique"@fr .
+
+:Le_service_France_Consulaire a schema1:GovernmentOrganization ;
+    rdfs:label "Le service France Consulaire"@fr ;
+    :Contact_aux_via :ACCEO .
+
+:LegalText a owl:Class ;
+    rdfs:comment "A law, decree, circular, or legal reference" ;
+    rdfs:subClassOf owl:Thing .
+
+:Les_Procureurs_du_Roi a schema1:GovernmentOrganization ;
+    rdfs:label "Les Procureurs du Roi"@fr .
+
+:Les_Walis_et a schema1:Person ;
+    rdfs:label "Les Walis et"@fr ;
+    :related_to :les_Autorites_Administratives .
+
+:Les_associations_reconnues_dutilite_publique a schema1:GovernmentOrganization ;
+    rdfs:label "Les associations reconnues d’utilité publique"@fr ;
+    :relatedTo :la_federation_nationale_des_sports_universitaires .
+
+:Les_bureaux_du_Consulat_general a schema1:GovernmentOrganization ;
+    rdfs:label "Les bureaux du Consulat général"@fr ;
+    :relatedTo :France .
+
+:Les_federations_sportives_marocaines a schema1:GovernmentOrganization ;
+    rdfs:label "Les fédérations sportives marocaines"@fr .
+
+:Les_livrets_didentite_et_detat_civil a schema1:GovernmentOrganization ;
+    rdfs:label "Les livrets d'identité et d'état civil"@fr .
+
+:Lesotho a schema1:Place ;
+    rdfs:label "Lesotho"@fr .
+
+:Lettonie_Liban a schema1:Place ;
+    rdfs:label "Lettonie Liban"@fr .
+
+:Liberia_Libye a schema1:Place ;
+    rdfs:label "Libéria Libye"@fr .
+
+:Liechtenstein a schema1:Place ;
+    rdfs:label "Liechtenstein"@fr .
+
+:Lituanie a schema1:Place ;
+    rdfs:label "Lituanie"@fr .
+
+:Livret_de_famille a schema1:GovernmentOrganization ;
+    rdfs:label "Livret de famille"@fr .
+
+:Livret_de_famille_de_linteresse a schema1:GovernmentOrganization ;
+    rdfs:label "Livret de famille de l’intéressé ("@fr .
+
+:Luxembourg a schema1:Place ;
+    rdfs:label "Luxembourg"@fr .
+
+:Luxembourg_Australie a schema1:Place ;
+    rdfs:label "Luxembourg Australie"@fr .
+
+:MEAE a schema1:GovernmentOrganization ;
+    rdfs:label "MEAE"@fr ;
+    :related_to :Google_Maps .
+
+:Macedoine a schema1:Place ;
+    rdfs:label "Macédoine"@fr .
+
+:Madagascar a schema1:Place ;
+    rdfs:label "Madagascar"@fr .
+
+:Malaisie_Malawi a schema1:Place ;
+    rdfs:label "Malaisie Malawi"@fr .
+
+:Maldives a schema1:Place ;
+    rdfs:label "Maldives"@fr .
+
+:Mali a schema1:Place ;
+    rdfs:label "Mali"@fr .
+
+:Malte a schema1:Place ;
+    rdfs:label "Malte"@fr .
+
+:Mariage_Ishhad_moulhaq a schema1:Person ;
+    rdfs:label "Mariage Ishhad moulhaq"@fr .
+
+:Mariage_Tentative_de_reconciliation a schema1:GovernmentOrganization ;
+    rdfs:label "Mariage Tentative de réconciliation"@fr .
+
+:Mariage_de_lhandicape_mental a schema1:GovernmentOrganization ;
+    rdfs:label "Mariage de l’handicapé mental"@fr .
+
+:Maroc a schema1:Place ;
+    rdfs:label "Maroc"@fr ;
+    :ne_au :Rabat ;
+    :relatedTo :Douane,
+        :France,
+        :la_Direction_Generale_de_la_Surete_Nationale ;
+    :related_to :Avocat,
+        :Formulaires_Demande_du_livret_de_famille,
+        :MRE,
+        :National_de_Securite_Sanitaire_des_produits_alimentaires .
+
+:Maroc_Consulter a schema1:GovernmentOrganization ;
+    rdfs:label "Maroc Consulter"@fr .
+
+:Maroc_Consulter_Admission_temporaire a schema1:GovernmentOrganization ;
+    rdfs:label "Maroc Consulter Admission temporaire"@fr .
+
+:Maroc_Ouvrir a schema1:Place ;
+    rdfs:label "Maroc Ouvrir"@fr .
+
+:Marrakesh a schema1:Place ;
+    rdfs:label "Marrakesh"@fr ;
+    :related_to :Google_Maps .
+
+:Maurice_Mauritanie a schema1:Place ;
+    rdfs:label "Maurice Mauritanie"@fr .
+
+:Mauritanie a schema1:Place ;
+    rdfs:label "Mauritanie"@fr .
+
+:Mayotte a schema1:Place ;
+    rdfs:label "Mayotte"@fr .
+
+:Mellal a schema1:GovernmentOrganization ;
+    rdfs:label "Mellal"@fr .
+
+:Mendeley a schema1:Organization ;
+    rdfs:label "Mendeley"@fr ;
+    :related_to :Plurk .
+
+:Mexique a schema1:Place ;
+    rdfs:label "Mexique"@fr .
+
+:Micronesie_Moldavie a schema1:Place ;
+    rdfs:label "Micronésie Moldavie"@fr .
+
+:Ministere_des_Affaires_Etrangeres a schema1:GovernmentOrganization ;
+    rdfs:label "Ministère des Affaires Étrangères"@fr .
+
+:Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation a schema1:GovernmentOrganization ;
+    rdfs:label "Ministère des Affaires Étrangères et de la Coopération"@fr .
+
+:Moharram a schema1:Person ;
+    rdfs:label "Moharram"@fr .
+
+:Moharram_Jeudi a schema1:Person ;
+    rdfs:label "Moharram Jeudi"@fr,
+        "Moharram* Jeudi"@fr .
+
+:Moharram_Mardi a schema1:Person ;
+    rdfs:label "Moharram* Mardi"@fr .
+
+:Moharram_Mercredi a schema1:Person ;
+    rdfs:label "Moharram Mercredi"@fr,
+        "Moharram* Mercredi"@fr .
+
+:Moldavie a schema1:Place ;
+    rdfs:label "Moldavie"@fr .
+
+:Monaco a schema1:Place ;
+    rdfs:label "Monaco"@fr .
+
+:Mongolie a schema1:Place ;
+    rdfs:label "Mongolie"@fr .
+
+:Moulay a schema1:Person ;
+    rdfs:label "Moulay"@fr ;
+    :relatedTo :Lalla .
+
+:Moulay_Abdellah a schema1:Person ;
+    rdfs:label "Moulay Abdellah"@fr .
+
+:Moyen_Parfait a schema1:Person ;
+    rdfs:label "Moyen Parfait"@fr .
+
+:Moyen_Vous_avez a schema1:Person ;
+    rdfs:label "Moyen Vous avez"@fr .
+
+:Mozambique a schema1:Place ;
+    rdfs:label "Mozambique"@fr .
+
+:MySpace a schema1:Organization ;
+    rdfs:label "MySpace"@fr ;
+    :related_to :Plurk,
+        :Wykop .
+
+:Myanmar a schema1:Place ;
+    rdfs:label "Myanmar"@fr .
+
+:Naissance a schema1:GovernmentOrganization ;
+    rdfs:label "Naissance"@fr ;
+    :related_to :Nationalite .
+
+:Namibie_Nauru a schema1:Place ;
+    rdfs:label "Namibie Nauru"@fr .
+
+:Netvouz a schema1:Organization ;
+    rdfs:label "Netvouz"@fr ;
+    :related_to :Plurk .
+
+:Nevada a schema1:Place ;
+    rdfs:label "Nevada"@fr .
+
+:Nicaragua a schema1:Place ;
+    rdfs:label "Nicaragua"@fr .
+
+:Niger a schema1:Place ;
+    rdfs:label "Niger"@fr .
+
+:Niger_Philippines a schema1:Place ;
+    rdfs:label "Niger Philippines"@fr .
+
+:Nigeria_Norvege a schema1:Place ;
+    rdfs:label "Nigéria Norvège"@fr .
+
+:Nous_ecrire a schema1:Person ;
+    rdfs:label "Nous écrire"@fr .
+
+:Nous_ecrire_Pour a schema1:Person ;
+    rdfs:label "Nous écrire Pour"@fr ;
+    :relatedTo :ACCEO .
+
+:Nouvel_An_Amazigh_Jeudi a schema1:Person ;
+    rdfs:label "Nouvel An Amazigh Jeudi"@fr ;
+    :related_to :Aid_Al_Wahda .
+
+:Nouvel_an_Amazigh_Lundi a schema1:Person ;
+    rdfs:label "Nouvel an Amazigh Lundi"@fr ;
+    :related_to :Aid_Al_Mawlid_Jeudi .
+
+:Nouvelle_Zelande a schema1:Place ;
+    rdfs:label "Nouvelle-Zélande"@fr .
+
+:Observation_Presentation_Pour a schema1:GovernmentOrganization ;
+    rdfs:label "Observation Présentation Pour"@fr .
+
+:Observations_Conformement a schema1:GovernmentOrganization ;
+    rdfs:label "Observations Conformément"@fr .
+
+:Observations_Procedure_Pieces a schema1:GovernmentOrganization ;
+    rdfs:label "Observations Procédure Pièces"@fr ;
+    :related_to :Observations_Procedure .
+
+:Odnoklassniki a schema1:Organization ;
+    rdfs:label "Odnoklassniki"@fr ;
+    :related_to :Plurk .
+
+:Office_francais_de_limmigration_et_de_lintegration a schema1:GovernmentOrganization ;
+    rdfs:label "Office français de l'immigration et de l'intégration"@fr .
+
+:Office_francais_de_limmigration_et_de_lintegration_Smic a schema1:GovernmentOrganization ;
+    rdfs:label "Office français de l'immigration et de l'intégration Smic"@fr .
+
+:Olivier_Ramadour a schema1:Person ;
+    rdfs:label "Olivier Ramadour"@fr .
+
+:Oman a schema1:Place ;
+    rdfs:label "Oman"@fr .
+
+:Ouganda a schema1:Place ;
+    rdfs:label "Ouganda"@fr .
+
+:Ouzbekistan a schema1:Place ;
+    rdfs:label "Ouzbékistan"@fr .
+
+:Pakistan a schema1:Place ;
+    rdfs:label "Pakistan"@fr .
+
+:Palau a schema1:Place ;
+    rdfs:label "Palau"@fr .
+
+:Palestine a schema1:Place ;
+    rdfs:label "Palestine"@fr .
+
+:Panama a schema1:Place ;
+    rdfs:label "Panama"@fr .
+
+:Papouasie_Nouvelle_Guinee a schema1:Place ;
+    rdfs:label "Papouasie-Nouvelle-Guinée"@fr .
+
+:Paraguay a schema1:Place ;
+    rdfs:label "Paraguay"@fr .
+
+:Paris a schema1:Place ;
+    rdfs:label "Paris"@fr .
+
+:Passeport a schema1:GovernmentOrganization ;
+    rdfs:label "Passeport"@fr ;
+    :a_de_pour_ayant :CNIE ;
+    :related_to :CNIE_du_demandeur .
+
+:Passeport_biometrique a schema1:GovernmentOrganization ;
+    rdfs:label "Passeport biométrique"@fr .
+
+:Passeports_des_interesses a schema1:GovernmentOrganization ;
+    rdfs:label "Passeports des intéressés"@fr .
+
+:Paypal a schema1:Organization ;
+    rdfs:label "Paypal"@fr ;
+    :related_to :American_Express .
+
+:Pays_Bas a schema1:GovernmentOrganization ;
+    rdfs:label "Pays-Bas"@fr ;
+    :relatedTo :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale ;
+    :related_to :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale,
+        :Ukraine .
+
+:Pays_Bas_Perou a schema1:Place ;
+    rdfs:label "Pays-Bas Pérou"@fr .
+
+:Philippines a schema1:Place ;
+    rdfs:label "Philippines"@fr .
+
+:Photocopie_de_la_CNIE_de_linteresse_e a schema1:GovernmentOrganization ;
+    rdfs:label "Photocopie de la CNIE de l’intéressé(e)"@fr .
+
+:Pinterest a schema1:Organization ;
+    rdfs:label "Pinterest"@fr .
+
+:Pivot_Local a schema1:GovernmentOrganization ;
+    rdfs:label "Pivot Local"@fr .
+
+:Pivot_Local_Quelle a schema1:GovernmentOrganization ;
+    rdfs:label "Pivot Local Quelle"@fr .
+
+:Pologne a schema1:Place ;
+    rdfs:label "Pologne"@fr .
+
+:Porto_Rico a schema1:Place ;
+    rdfs:label "Porto Rico"@fr .
+
+:Portugal a schema1:Place ;
+    rdfs:label "Portugal"@fr .
+
+:Presenation_Observation a schema1:GovernmentOrganization ;
+    rdfs:label "Présenation Observation"@fr .
+
+:Presentation a schema1:GovernmentOrganization ;
+    rdfs:label "Présentation"@fr ;
+    :relatedTo :la_Mission_Diplomatique .
+
+:Presentation_Le_Ministere_de_la_Justice a schema1:GovernmentOrganization ;
+    rdfs:label "Présentation Le Ministère de la Justice"@fr ;
+    :relatedTo :Bulletin .
+
+:Presentation_Les_Marocains a schema1:GovernmentOrganization ;
+    rdfs:label "Présentation Les Marocains"@fr .
+
+:Presentation_Observations a schema1:GovernmentOrganization ;
+    rdfs:label "Présentation Observations"@fr .
+
+:Prestations_familiales_Revenu_de_solidarite_active a schema1:GovernmentOrganization ;
+    rdfs:label "Prestations familiales Revenu de solidarité active"@fr ;
+    :aux :Allocation_temporaire_dattente .
+
+:Procedure_La_Carte_Nationale_dIdentite_Electronique a schema1:GovernmentOrganization ;
+    rdfs:label "Procédure La Carte Nationale d’Identité Electronique"@fr ;
+    :relatedTo :CNIE .
+
+:Procedure_Lentite_qui_souhaite_beneficier_de_lexoneration_des_droits_et_taxes a schema1:GovernmentOrganization ;
+    rdfs:label "Procédure L’entité qui souhaite bénéficier de l’exonération des droits et taxes"@fr .
+
+:Procedure_Observations_Droits_de_chancellerie_Presentation a schema1:GovernmentOrganization ;
+    rdfs:label "Procédure Observations Droits de chancellerie Présentation"@fr .
+
+:Procedure_Ouverture a schema1:GovernmentOrganization ;
+    rdfs:label "Procédure Ouverture"@fr .
+
+:Procedure_Pieces a schema1:GovernmentOrganization ;
+    rdfs:label "Procédure Pièces"@fr .
+
+:Procedure_Remplir a schema1:Person ;
+    rdfs:label "Procédure Remplir"@fr .
+
+:Protopage a schema1:Organization ;
+    rdfs:label "Protopage"@fr .
+
+:Pusha a schema1:Organization ;
+    rdfs:label "Pusha"@fr ;
+    :related_to :Sina,
+        :Telegram,
+        :Viadeo,
+        :Weibo,
+        :Wykop,
+        :Yahoo,
+        :Yahoo_Mail .
+
+:Qatar a schema1:Place ;
+    rdfs:label "Qatar"@fr .
+
+:REP a schema1:GovernmentOrganization ;
+    rdfs:label "REP"@fr .
+
+:Rabat_Mis a schema1:Place ;
+    rdfs:label "Rabat Mis"@fr .
+
+:Reddit a schema1:Organization ;
+    rdfs:label "Reddit"@fr ;
+    :related_to :Blinklist,
+        :Delicious,
+        :Yahoo_Mail .
+
+:Refugies_et_Apatrides_Formulaire a schema1:GovernmentOrganization ;
+    rdfs:label "Réfugiés et Apatrides Formulaire"@fr .
+
+:Renouvellement_de_la_CNIE a schema1:Person ;
+    rdfs:label "Renouvellement de la CNIE"@fr ;
+    :related_to :La_CNIE .
+
+:Renren a schema1:Organization ;
+    rdfs:label "Renren"@fr .
+
+:Republique_centrafricaine a schema1:GovernmentOrganization ;
+    rdfs:label "République centrafricaine"@fr .
+
+:Republique_du_Congo a schema1:GovernmentOrganization ;
+    rdfs:label "République du Congo"@fr .
+
+:Republique_du_Congo_Brazzaville a schema1:GovernmentOrganization ;
+    rdfs:label "République du Congo Brazzaville"@fr .
+
+:Reseaux_sociaux_Profil a schema1:GovernmentOrganization ;
+    rdfs:label "Réseaux sociaux Profil"@fr ;
+    :ne_a_en :France ;
+    :related_to :Casablanca_Settat,
+        :Marrakech .
+
+:Resultat_des_negociations_menees a schema1:GovernmentOrganization ;
+    rdfs:label "Résultat des négociations menées"@fr .
+
+:Retrait_de_la_fiche_anthropometrique a schema1:Person ;
+    rdfs:label "Retrait de la fiche anthropométrique"@fr .
+
+:Royaume_Uni a schema1:GovernmentOrganization ;
+    rdfs:label "Royaume-Uni"@fr .
+
+:Russie a schema1:Place ;
+    rdfs:label "Russie"@fr .
+
+:Russie_Suede a schema1:GovernmentOrganization ;
+    rdfs:label "Russie Suède"@fr .
+
+:Russie_Turquie a schema1:Place ;
+    rdfs:label "Russie Turquie"@fr .
+
+:Sainte_Cecile_les_Vignes a schema1:GovernmentOrganization ;
+    rdfs:label "Sainte-Cécile-les-Vignes"@fr ;
+    :related_to :95200_Office_francais_de_limmigration_et_de_lintegration,
+        :95200_Tribunal_administratif_Absence_de_reponse_du_prefet ;
+    :sont_a_du_de :95200_Tribunal_administratif_Quels .
+
+:Sao_Tome_et_Principe a schema1:Place ;
+    rdfs:label "Sao Tomé-et-Principe"@fr .
+
+:Senegal a schema1:Place ;
+    rdfs:label "Sénégal"@fr .
+
+:Serbie_Seychelles a schema1:Person ;
+    rdfs:label "Serbie Seychelles"@fr .
+
+:Service_France_Consulaire a schema1:GovernmentOrganization ;
+    rdfs:label "Service France Consulaire"@fr .
+
+:Services_Consulaires_du_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "Services Consulaires du Maroc"@fr .
+
+:Services_aux_Francaises_et_Francais a schema1:GovernmentOrganization ;
+    rdfs:label "Services aux Françaises et Français"@fr .
+
+:Sidi a schema1:Person ;
+    rdfs:label "Sidi"@fr .
+
+:Sierra_Leone a schema1:Place ;
+    rdfs:label "Sierra Leone"@fr .
+
+:Singapour_Slovaquie a schema1:Person ;
+    rdfs:label "Singapour Slovaquie"@fr .
+
+:Singapour_Taiwan_Thailande a schema1:Person ;
+    rdfs:label "Singapour Taïwan Thaïlande"@fr .
+
+:Skype a schema1:Organization ;
+    rdfs:label "Skype"@fr ;
+    :related_to :Viber .
+
+:Soudan_du_Sud a schema1:GovernmentOrganization ;
+    rdfs:label "Soudan du Sud"@fr .
+
+:Sri_Lanka a schema1:Place ;
+    rdfs:label "Sri Lanka"@fr .
+
+:Stagiaire a schema1:GovernmentOrganization ;
+    rdfs:label "Stagiaire"@fr .
+
+:Suede_Suisse a schema1:Place ;
+    rdfs:label "Suède Suisse"@fr .
+
+:Suisse a schema1:GovernmentOrganization ;
+    rdfs:label "Suisse"@fr .
+
+:Sultanat_dOman a schema1:Place ;
+    rdfs:label "Sultanat d'Oman"@fr .
+
+:Suriname a schema1:Place ;
+    rdfs:label "Suriname"@fr .
+
+:Svejo a schema1:Organization ;
+    rdfs:label "Svejo"@fr .
+
+:Swaziland a schema1:Place ;
+    rdfs:label "Swaziland"@fr .
+
+:Syrie a schema1:Place ;
+    rdfs:label "Syrie"@fr .
+
+:Syrie_Tadjikistan a schema1:Place ;
+    rdfs:label "Syrie Tadjikistan"@fr .
+
+:Tadjikistan a schema1:Place ;
+    rdfs:label "Tadjikistan"@fr .
+
+:Tanger a schema1:GovernmentOrganization ;
+    rdfs:label "Tanger"@fr .
+
+:Tanzanie a schema1:Place ;
+    rdfs:label "Tanzanie"@fr ;
+    :relatedTo :Turquie_Togo .
+
+:Tanzanie_Tchad a schema1:Place ;
+    rdfs:label "Tanzanie Tchad"@fr .
+
+:Tchad a schema1:Place ;
+    rdfs:label "Tchad"@fr .
+
+:Tchequie_Thailande a schema1:Place ;
+    rdfs:label "Tchéquie Thaïlande"@fr .
+
+:Threema a schema1:GovernmentOrganization ;
+    rdfs:label "Threema"@fr ;
+    :related_to :Yahoo,
+        :Yahoo_Mail .
+
+:Threema_Trello a schema1:Person ;
+    rdfs:label "Threema Trello"@fr .
+
+:Togo_Le_Benin a schema1:Place ;
+    rdfs:label "Togo Le Bénin"@fr .
+
+:Togo_Tonga a schema1:Place ;
+    rdfs:label "Togo Tonga"@fr .
+
+:Touring_Club_du_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "« Touring Club du Maroc »"@fr ;
+    :de :La_CNIE .
+
+:Touring_club a schema1:GovernmentOrganization ;
+    rdfs:label "« Touring club »"@fr ;
+    :Pour_contacter_de_aux :Casablanca .
+
+:Trinite_et_Tobago a schema1:Place ;
+    rdfs:label "Trinité-et-Tobago"@fr .
+
+:Tuenti a schema1:GovernmentOrganization ;
+    rdfs:label "Tuenti"@fr ;
+    :related_to :Yahoo,
+        :Yahoo_Mail .
+
+:Tumblr a schema1:Organization ;
+    rdfs:label "Tumblr"@fr .
+
+:Tunisie a schema1:Place ;
+    rdfs:label "Tunisie"@fr .
+
+:Tunisie_Autre a schema1:Place ;
+    rdfs:label "Tunisie Autre"@fr .
+
+:Tunisie_Turkmenistan a schema1:Place ;
+    rdfs:label "Tunisie Turkménistan"@fr .
+
+:Turkmenistan a schema1:Place ;
+    rdfs:label "Turkménistan"@fr .
+
+:Turquie_Islande a schema1:Person ;
+    rdfs:label "Turquie Islande"@fr .
+
+:Turquie_Tuvalu a schema1:Place ;
+    rdfs:label "Turquie Tuvalu"@fr .
+
+:Twiddla a schema1:Organization ;
+    rdfs:label "Twiddla"@fr ;
+    :related_to :Wykop,
+        :Yahoo,
+        :Yahoo_Mail .
+
+:Union_europeenne a schema1:GovernmentOrganization ;
+    rdfs:label "Union européenne"@fr ;
+    :ne :Islande .
+
+:Uruguay a schema1:Place ;
+    rdfs:label "Uruguay"@fr .
+
+:VLS_TS a schema1:GovernmentOrganization ;
+    rdfs:label "VLS-TS"@fr,
+        "VLS/TS"@fr ;
+    :related_to :ANEF .
+
+:Vanuatu a schema1:Place ;
+    rdfs:label "Vanuatu"@fr .
+
+:Venezuela a schema1:Place ;
+    rdfs:label "Venezuela"@fr .
+
+:Vietnam a schema1:Place ;
+    rdfs:label "Vietnam"@fr .
+
+:Visa_de_long_sejour a schema1:GovernmentOrganization ;
+    rdfs:label "Visa de long séjour"@fr .
+
+:Visitez_le_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "Visitez le Maroc"@fr .
+
+:Votre_epoux_se a schema1:Person ;
+    rdfs:label "Votre époux(se"@fr ;
+    :relatedTo :France .
+
+:Wanelo a schema1:Organization ;
+    rdfs:label "Wanelo"@fr ;
+    :related_to :Wykop,
+        :Yahoo,
+        :Yahoo_Mail .
+
+:WeChat a schema1:Organization ;
+    rdfs:label "WeChat"@fr .
+
+:WordPress a schema1:Organization ;
+    rdfs:label "WordPress"@fr .
+
+:Yemen_Zambie a schema1:Place ;
+    rdfs:label "Yémen Zambie"@fr .
+
+:Yummly a schema1:GovernmentOrganization ;
+    rdfs:label "Yummly"@fr .
+
+:arabe a schema1:Place ;
+    rdfs:label "arabe"@fr .
+
+:au_Service_Consulaire_du_lieu_de_leurs_residences_pour_la_prise_dempreintes_digi a schema1:GovernmentOrganization ;
+    rdfs:label "au Service Consulaire du lieu de leurs résidences pour la prise d’empreintes digitales"@fr .
+
+:au_moins_18_ans a :Duration ;
+    rdfs:label "au moins 18 ans"@fr .
+
+:avant_octobre_2002 a :Duration ;
+    rdfs:label "avant octobre 2002"@fr .
+
+:bureau_detat_civil a schema1:GovernmentOrganization ;
+    rdfs:label "bureau d’état-civil"@fr .
+
+:canBeSubmittedTo a owl:ObjectProperty ;
+    rdfs:comment "Links a request to where it can be submitted" .
+
+:de_03_mois a :Duration ;
+    rdfs:label "de 03 mois"@fr .
+
+:de_10_ans a :Duration ;
+    rdfs:label "de 10 ans"@fr .
+
+:de_18_mois a :Duration ;
+    rdfs:label "de 18 mois"@fr .
+
+:decembre_2022 a :Duration ;
+    rdfs:label "décembre 2022"@fr .
+
+:decembre_2024 a :Duration ;
+    rdfs:label "décembre 2024"@fr .
+
+:dependsOn a owl:ObjectProperty ;
+    rdfs:comment "Links an entity to another it depends on" .
+
+:depuis_juin_2021 a :Duration ;
+    rdfs:label "depuis juin 2021"@fr .
+
+:des_Autorites_Locales a schema1:GovernmentOrganization ;
+    rdfs:label "des Autorités Locales"@fr .
+
+:des_Services_Consulaires_et_transmise_au_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "des Services Consulaires et transmise au Maroc"@fr .
+
+:des_Services_Consulaires_marocains a schema1:GovernmentOrganization ;
+    rdfs:label "des Services Consulaires marocains"@fr .
+
+:du_1er_aout_2014 a :Duration ;
+    rdfs:label "du 1er août 2014"@fr .
+
+:du_2_avril_2007 a :Duration ;
+    rdfs:label "du 2 avril 2007"@fr .
+
+:du_30_janvier_2002 a :Duration ;
+    rdfs:label "du 30 janvier 2002"@fr .
+
+:du_5_octobre_1961 a :Duration ;
+    rdfs:label "du 5 octobre 1961"@fr .
+
+:du_9_novembre_2011 a :Duration ;
+    rdfs:label "du 9 novembre 2011"@fr .
+
+:du_Cadastre_et_de_la_Cartographie a schema1:GovernmentOrganization ;
+    rdfs:label "du Cadastre et de la Cartographie"@fr .
+
+:du_Ministere_de_la_Justice a schema1:GovernmentOrganization ;
+    rdfs:label "du Ministère de la Justice"@fr ;
+    :est_a :Rabat .
+
+:du_Passeport_biometrique a schema1:GovernmentOrganization ;
+    rdfs:label "du Passeport biométrique"@fr .
+
+:enables a owl:ObjectProperty ;
+    rdfs:comment "Links a tool to what it enables" .
+
+:fin_jusquau_surlendemain_du_jour_de_reprise_du_salarie_remplace a :Duration ;
+    rdfs:label "fin jusqu'au surlendemain du jour de reprise du salarié remplacé"@fr .
+
+:hasEstablished a owl:ObjectProperty ;
+    rdfs:comment "Links an authority to something it set up" .
+
+:hasJurisdictionOver a owl:ObjectProperty ;
+    rdfs:comment "Links a court to its area of competence" .
+
+:isAttachedTo a owl:ObjectProperty ;
+    rdfs:comment "Links an entity to its parent body" .
+
+:isAvailableAt a owl:ObjectProperty ;
+    rdfs:comment "Links a service to where it can be obtained" .
+
+:isEstablishedBy a owl:ObjectProperty ;
+    rdfs:comment "Links an entity to its establishing authority" .
+
+:isIssuedBy a owl:ObjectProperty ;
+    rdfs:comment "Links a document to the authority that issues it" .
+
+:isLocatedIn a owl:ObjectProperty ;
+    rdfs:comment "Links an organization to its geographic location" .
+
+:isResponsibleFor a owl:ObjectProperty ;
+    rdfs:comment "Links an organization to the service it manages" .
+
+:issues a owl:ObjectProperty ;
+    rdfs:comment "Links an authority to a document it issues" .
+
+:la_Caisse_des_conges_payes a schema1:GovernmentOrganization ;
+    rdfs:label "la Caisse des congés payés"@fr .
+
+:la_Caisse_des_conges_payes_du_BTP a schema1:GovernmentOrganization ;
+    rdfs:label "la Caisse des congés payés du BTP"@fr ;
+    :vous :les_services_fiscaux_Attestation_bancaire .
+
+:la_Convention_de_Washington a schema1:GovernmentOrganization ;
+    rdfs:label "la Convention de Washington"@fr .
+
+:la_Cooperation_Africaine a schema1:GovernmentOrganization ;
+    rdfs:label "la Coopération Africaine"@fr ;
+    :related_to :CNIE .
+
+:la_Cote_dIvoire a schema1:Place ;
+    rdfs:label "la Côte d'Ivoire"@fr .
+
+:la_Direction_de_lelevage_relevant a schema1:GovernmentOrganization ;
+    rdfs:label "la Direction de l'élevage relevant"@fr .
+
+:la_Direction_des_Affaires_Consulaires_et_Sociales a schema1:GovernmentOrganization ;
+    rdfs:label "la Direction des Affaires Consulaires et Sociales"@fr .
+
+:la_Direction_du_Protocole a schema1:GovernmentOrganization ;
+    rdfs:label "la Direction du Protocole"@fr .
+
+:la_Direction_marocaine_des_Eaux_et_Forets_et_de_la_Conservation_des_Sols a schema1:GovernmentOrganization ;
+    rdfs:label "la Direction marocaine des Eaux et Forêts et de la Conservation des Sols"@fr .
+
+:la_France a schema1:Place ;
+    rdfs:label "la France"@fr .
+
+:la_Mauritanie a schema1:Place ;
+    rdfs:label "la Mauritanie"@fr .
+
+:la_Republique_centrafricaine a schema1:GovernmentOrganization ;
+    rdfs:label "la République centrafricaine"@fr .
+
+:la_Republique_du_Congo_Brazzaville a schema1:GovernmentOrganization ;
+    rdfs:label "la République du Congo Brazzaville"@fr .
+
+:la_federation_nationale_du_sport_scolaire a schema1:GovernmentOrganization ;
+    rdfs:label "la fédération nationale du sport scolaire"@fr .
+
+:la_langue_du_pays_de_residence_du_defunt a schema1:GovernmentOrganization ;
+    rdfs:label "la langue du pays de résidence du défunt"@fr .
+
+:la_legislation_locale_du_pays_de_residence a schema1:GovernmentOrganization ;
+    rdfs:label "la législation locale du pays de résidence"@fr .
+
+:le_01_janvier_2026 a :Duration ;
+    rdfs:label "le 01 janvier 2026"@fr .
+
+:le_02_avril_2007 a :Duration ;
+    rdfs:label "le 02 avril 2007"@fr .
+
+:le_06_septembre_2024 a :Duration ;
+    rdfs:label "le 06 septembre 2024"@fr .
+
+:le_14_aout_2016 a :Duration ;
+    rdfs:label "le 14 août 2016"@fr .
+
+:le_14_septembre_2017 a :Duration ;
+    rdfs:label "le 14 septembre 2017"@fr .
+
+:le_19e_anniversaire a :Duration ;
+    rdfs:label "le 19e anniversaire"@fr .
+
+:le_1er_juin_2021 a :Duration ;
+    rdfs:label "le 1er juin 2021"@fr .
+
+:le_22_janvier_2026 a :Duration ;
+    rdfs:label "le 22 janvier 2026"@fr .
+
+:le_2_avril_2007 a :Duration ;
+    rdfs:label "le 2 avril 2007"@fr .
+
+:le_2_janvier_2026 a :Duration ;
+    rdfs:label "le 2 janvier 2026"@fr .
+
+:le_31_decembre_2025 a :Duration ;
+    rdfs:label "le 31 décembre 2025"@fr .
+
+:le_31_juillet_2023 a :Duration ;
+    rdfs:label "le 31 juillet 2023"@fr .
+
+:le_Burkina_Faso a schema1:Place ;
+    rdfs:label "le Burkina Faso"@fr .
+
+:le_Cameroun a schema1:Place ;
+    rdfs:label "le Cameroun"@fr .
+
+:le_Centre_National_du_Casier_Judiciaire a schema1:GovernmentOrganization ;
+    rdfs:label "le Centre National du Casier Judiciaire"@fr .
+
+:le_Centre_dAppels a schema1:GovernmentOrganization ;
+    rdfs:label "le Centre d'Appels"@fr .
+
+:le_Centre_dAppels_ci a schema1:GovernmentOrganization ;
+    rdfs:label "le Centre d’Appels ci"@fr ;
+    :relatedTo :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale .
+
+:le_Centre_dAppels_ci_ou_envoyer a schema1:GovernmentOrganization ;
+    rdfs:label "le Centre d’Appels ci ou envoyer"@fr ;
+    :relatedTo :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale .
+
+:le_Gabon a schema1:Place ;
+    rdfs:label "le Gabon"@fr .
+
+:le_Ministere_de_lEmploi a schema1:GovernmentOrganization ;
+    rdfs:label "le Ministère de l’Emploi."@fr .
+
+:le_Ministere_marocain_de_lEmploi a schema1:GovernmentOrganization ;
+    rdfs:label "le Ministère marocain de l’Emploi"@fr .
+
+:le_Niger a schema1:Place ;
+    rdfs:label "le Niger"@fr .
+
+:le_Registre_de_remise_des_passeports a schema1:GovernmentOrganization ;
+    rdfs:label "le « Registre de remise des passeports »"@fr .
+
+:le_Royaume_du_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "le Royaume du Maroc"@fr .
+
+:le_Senegal a schema1:Place ;
+    rdfs:label "le Sénégal"@fr .
+
+:le_Service_Consulaire a schema1:GovernmentOrganization ;
+    rdfs:label "le Service Consulaire"@fr .
+
+:le_Service_Consulaire_competent a schema1:GovernmentOrganization ;
+    rdfs:label "le Service Consulaire compétent"@fr .
+
+:le_Service_France_Consulaire_du_lundi a schema1:GovernmentOrganization ;
+    rdfs:label "le Service France Consulaire du lundi"@fr .
+
+:le_biais_des_services_consulaires a schema1:GovernmentOrganization ;
+    rdfs:label "le biais des services consulaires"@fr .
+
+:le_biais_des_services_consulaires_du_lieu_de_residence a schema1:GovernmentOrganization ;
+    rdfs:label "le biais des services consulaires du lieu de résidence"@fr .
+
+:le_juge_de_la_famille a schema1:GovernmentOrganization ;
+    rdfs:label "le juge de la famille"@fr .
+
+:le_service_des_impots a schema1:GovernmentOrganization ;
+    rdfs:label "le service des impôts"@fr .
+
+:le_service_des_impots_Vous_etes a schema1:GovernmentOrganization ;
+    rdfs:label "le service des impôts Vous êtes"@fr .
+
+:le_service_des_impots_Vous_etes_auto_entrepreneur a schema1:GovernmentOrganization ;
+    rdfs:label "le service des impôts Vous êtes auto-entrepreneur"@fr .
+
+:le_service_des_impots_Vous_etes_demandeur_demploi_Dernier_avis_dimposition a schema1:GovernmentOrganization ;
+    rdfs:label "le service des impôts Vous êtes demandeur d'emploi Dernier avis d'imposition ("@fr .
+
+:les_03_jours a :Duration ;
+    rdfs:label "les 03 jours"@fr .
+
+:les_06_semaines_precedentes a :Duration ;
+    rdfs:label "les 06 semaines précédentes"@fr .
+
+:les_12_derniers_mois a :Duration ;
+    rdfs:label "les 12 derniers mois"@fr .
+
+:les_2_mois a :Duration ;
+    rdfs:label "les 2 mois"@fr .
+
+:les_2_mois_suivant_son a :Duration ;
+    rdfs:label "les 2 mois suivant son"@fr .
+
+:les_Representations_diplomatiques a schema1:GovernmentOrganization ;
+    rdfs:label "les Représentations diplomatiques"@fr .
+
+:les_Services_de_securite a schema1:GovernmentOrganization ;
+    rdfs:label "les Services de sécurité"@fr .
+
+:les_annees_1950 a :Duration ;
+    rdfs:label "les années 1950"@fr .
+
+:les_associations_francaises a schema1:GovernmentOrganization ;
+    rdfs:label "les associations françaises"@fr ;
+    :dans_de_de :les_ecoles_francaises_au_Maroc .
+
+:les_instituts_et_alliances a schema1:GovernmentOrganization ;
+    rdfs:label "les instituts et alliances"@fr .
+
+:les_memes a :Duration ;
+    rdfs:label "les mêmes"@fr .
+
+:les_services_fiscaux_Contrat_de_travail a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Contrat de travail"@fr .
+
+:les_services_fiscaux_Contrat_de_travail_ou_attestation_de_travail_de_lemployeur_ a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Contrat de travail ou attestation de travail de l'employeur de moins de 3 mois dûment signée"@fr .
+
+:les_services_fiscaux_Decision_dattribution_de_lallocation_Derniere_attestation_d a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Décision d'attribution de l'allocation Dernière attestation de paiement de l'organisme payeur Autres situations Dernier avis d'imposition ("@fr ;
+    :vivez :les_services_fiscaux_Attestation_bancaire .
+
+:les_services_fiscaux_Decision_dattribution_dune_pension_de_vieillesse_ou_dinvali a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie"@fr,
+        "les services fiscaux Décision d'attribution d'une pension de vieillesse ou d'invalidité établie par"@fr .
+
+:les_services_fiscaux_Extrait_de_moins_de_3_mois a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Extrait de moins de 3 mois"@fr .
+
+:les_services_fiscaux_Extrait_de_moins_de_3_mois_dinscription_au_registre_nationa a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Extrait de moins de 3 mois d'inscription au registre national des entreprises"@fr ;
+    :related_to :le_service_des_impots_Vous_exercez .
+
+:les_services_fiscaux_Releve_de_situation_recapitulant_les_droits_et_le_versement a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Relevé de situation récapitulant les droits et le versement d'indemnités"@fr .
+
+:ligne_des_Administrations_publiques_marocaines a schema1:GovernmentOrganization ;
+    rdfs:label "ligne des Administrations publiques marocaines"@fr .
+
+:moins_de_06_mois a :Duration ;
+    rdfs:label "moins de 06 mois"@fr .
+
+:moins_de_trois_ans_dage a :Duration ;
+    rdfs:label "moins de trois ans d'âge"@fr .
+
+:nationalite_du_pays_daccueil a schema1:GovernmentOrganization ;
+    rdfs:label "nationalité du pays d’accueil):"@fr .
+
+:ontology a owl:Ontology ;
+    rdfs:label "Moroccan Consular Services Knowledge Graph" ;
+    rdfs:comment "Entities and relations extracted from consulat.ma" ;
+    owl:versionInfo "1.0" .
+
+:plus_de_12_ans a :Duration ;
+    rdfs:label "plus de 12 ans"@fr .
+
+:processes a owl:ObjectProperty ;
+    rdfs:comment "Links an authority to a procedure it handles" .
+
+:relatedTo a owl:ObjectProperty ;
+    rdfs:comment "Generic relation between two co-occurring entities" .
+
+:reportsTo a owl:ObjectProperty ;
+    rdfs:comment "Links an entity to its supervisory authority" .
+
+:represents a owl:ObjectProperty ;
+    rdfs:comment "Links an entity that represents another" .
+
+:requestedFrom a owl:ObjectProperty ;
+    rdfs:comment "Links a procedure to where it must be requested" .
+
+:requires a owl:ObjectProperty ;
+    rdfs:comment "Links a procedure to a required document" .
+
+:service_public_associe_Passeport_biometrique a schema1:GovernmentOrganization ;
+    rdfs:label "-service public associé Passeport biométrique"@fr .
+
+:submittedTo a owl:ObjectProperty ;
+    rdfs:comment "Links a procedure to the authority it goes to" .
+
+:transmitsTo a owl:ObjectProperty ;
+    rdfs:comment "Links a body that transmits documents to a receiver" .
+
+:trois_03_ans a :Duration ;
+    rdfs:label "trois (03) ans"@fr .
+
+:un_Pays_Afrique_du_Sud a schema1:GovernmentOrganization ;
+    rdfs:label "un Pays Afrique du Sud"@fr ;
+    :relatedTo :Accueil_Prestations_consulaires,
+        :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale ;
+    :related_to :Ukraine .
+
+:un_Pays_Afrique_du_Sud_Allemagne a schema1:GovernmentOrganization ;
+    rdfs:label "un Pays Afrique du Sud Allemagne"@fr ;
+    :relatedTo :Accueil_Prestations_consulaires,
+        :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale ;
+    :related_to :Accueil_Prestations_consulaires,
+        :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale .
+
+:un_Pays_Afrique_du_Sud_Allemagne_Arabie a schema1:GovernmentOrganization ;
+    rdfs:label "un Pays Afrique du Sud Allemagne Arabie"@fr ;
+    :related_to :Ukraine .
+
+:un_Pays_Afrique_du_Sud_Allemagne_Arabie_saoudite_Autriche_Bahrein a schema1:GovernmentOrganization ;
+    rdfs:label "un Pays Afrique du Sud Allemagne Arabie saoudite Autriche Bahreïn"@fr ;
+    :relatedTo :Accueil_Prestations_consulaires,
+        :Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale .
+
+:universite a schema1:GovernmentOrganization ;
+    rdfs:label "université"@fr .
+
+:95200_Office_francais_de_limmigration_et_de_lintegration a schema1:GovernmentOrganization ;
+    rdfs:label "95200 Office français de l'immigration et de l'intégration ("@fr .
+
+:95200_Tribunal_administratif_Absence_de_reponse_du_prefet a schema1:GovernmentOrganization ;
+    rdfs:label "95200 Tribunal administratif Absence de réponse du préfet"@fr .
+
+:95200_Tribunal_administratif_Quels a schema1:GovernmentOrganization ;
+    rdfs:label "95200 Tribunal administratif Quels"@fr .
+
+:ANEF a schema1:GovernmentOrganization ;
+    rdfs:label "ANEF"@fr .
+
+:AOL_Mail a schema1:Organization ;
+    rdfs:label "AOL Mail"@fr .
+
+:Afrique_du_Nord a schema1:GovernmentOrganization ;
+    rdfs:label "Afrique du Nord"@fr .
+
+:Aid_Al_Wahda a schema1:Person ;
+    rdfs:label "Aïd Al Wahda"@fr .
+
+:Albert_Laprade a schema1:Person ;
+    rdfs:label "Albert Laprade"@fr .
+
+:Allocation_temporaire_dattente a schema1:GovernmentOrganization ;
+    rdfs:label "Allocation temporaire d'attente ("@fr .
+
+:American_Express a schema1:Organization ;
+    rdfs:label "American Express"@fr .
+
+:Avocat a schema1:GovernmentOrganization ;
+    rdfs:label "Avocat"@fr .
+
+:Bulletin a schema1:GovernmentOrganization ;
+    rdfs:label "Bulletin"@fr .
+
+:CNIE_du_demandeur a schema1:GovernmentOrganization ;
+    rdfs:label "CNIE du demandeur"@fr .
+
+:Casablanca a schema1:Place ;
+    rdfs:label "Casablanca"@fr .
+
+:Casablanca_Settat a schema1:Place ;
+    rdfs:label "Casablanca-Settat"@fr .
+
+:Direction_des_Affaires_Consulaires_et_Sociales a schema1:GovernmentOrganization ;
+    rdfs:label "Direction des Affaires Consulaires et Sociales"@fr .
+
+:Douane a schema1:Place ;
+    rdfs:label "Douane"@fr .
+
+:El_Jarrah_Fes_Maroc_Ouvrir a schema1:Person ;
+    rdfs:label "El Jarrah Fes Maroc Ouvrir"@fr .
+
+:Etat a schema1:GovernmentOrganization ;
+    rdfs:label "État"@fr .
+
+:Formulaire_Droits_de_chancellerie_Presentation a schema1:GovernmentOrganization ;
+    rdfs:label "Formulaire Droits de chancellerie Présentation"@fr .
+
+:Formulaires_Demande_du_livret_de_famille a schema1:GovernmentOrganization ;
+    rdfs:label "Formulaires Demande du livret de famille"@fr .
+
+:Gueliz a schema1:Place ;
+    rdfs:label "Guéliz"@fr .
+
+:Hong_Kong a schema1:Person,
+        schema1:Place ;
+    rdfs:label "Hong Kong"@fr,
+        "Hong-Kong"@fr .
+
+:Hongrie a schema1:Person ;
+    rdfs:label "Hongrie"@fr .
+
+:Islande a schema1:Place ;
+    rdfs:label "Islande"@fr .
+
+:Lalla a schema1:Person ;
+    rdfs:label "Lalla"@fr .
+
+:Lettonie a schema1:Person ;
+    rdfs:label "Lettonie"@fr .
+
+:Livret_didentite_et_detat_civil a schema1:GovernmentOrganization ;
+    rdfs:label "Livret d’identité et d’état civil"@fr .
+
+:MRE a schema1:GovernmentOrganization ;
+    rdfs:label "MRE"@fr ;
+    :relatedTo :CNIE ;
+    :related_to :CNIE .
+
+:Malaisie_Mali_Maldives a schema1:Place ;
+    rdfs:label "Malaisie Mali Maldives"@fr .
+
+:Mariage a schema1:GovernmentOrganization ;
+    rdfs:label "Mariage"@fr ;
+    :de :Mariage_des_convertis_a .
+
+:Mariage_des_convertis_a a schema1:GovernmentOrganization ;
+    rdfs:label "Mariage des convertis à"@fr .
+
+:National_de_Securite_Sanitaire_des_produits_alimentaires a schema1:GovernmentOrganization ;
+    rdfs:label "National de Sécurité Sanitaire des produits alimentaires"@fr .
+
+:Nationalite a schema1:GovernmentOrganization ;
+    rdfs:label "Nationalité"@fr .
+
+:Observations_Procedure a schema1:GovernmentOrganization ;
+    rdfs:label "Observations Procédure"@fr .
+
+:Papaly a schema1:Organization ;
+    rdfs:label "Papaly"@fr ;
+    :related_to :Plurk,
+        :Telegram,
+        :Yahoo_Mail .
+
+:Passeports a schema1:GovernmentOrganization ;
+    rdfs:label "Passeports"@fr .
+
+:Rabat_Hassan a schema1:Place ;
+    rdfs:label "Rabat-Hassan"@fr .
+
+:Sina a schema1:Organization ;
+    rdfs:label "Sina"@fr ;
+    :related_to :Yahoo_Mail .
+
+:Slashdot a schema1:Organization ;
+    rdfs:label "Slashdot"@fr .
+
+:Togo a schema1:Place ;
+    rdfs:label "Togo"@fr .
+
+:Turquie_Togo a schema1:Person ;
+    rdfs:label "Turquie Togo"@fr .
+
+:Viadeo a schema1:Organization ;
+    rdfs:label "Viadeo"@fr .
+
+:Viber a schema1:Organization ;
+    rdfs:label "Viber"@fr .
+
+:Yahoo_Messenger a schema1:Organization ;
+    rdfs:label "Yahoo Messenger"@fr ;
+    :related_to :Yahoo_Mail,
+        :Yoolink .
+
+:Yoolink a schema1:Organization ;
+    rdfs:label "Yoolink"@fr .
+
+:Zimbabwe a schema1:Place ;
+    rdfs:label "Zimbabwe"@fr .
+
+:la_Direction_Generale_de_la_Surete_Nationale a schema1:GovernmentOrganization ;
+    rdfs:label "la Direction Générale de la Sûreté Nationale"@fr .
+
+:la_Mission_Diplomatique a schema1:GovernmentOrganization ;
+    rdfs:label "la Mission Diplomatique"@fr .
+
+:la_federation_nationale_des_sports_universitaires a schema1:GovernmentOrganization ;
+    rdfs:label "la fédération nationale des sports universitaires"@fr .
+
+:la_legislation_du_pays_de_residence a schema1:GovernmentOrganization ;
+    rdfs:label "la législation du pays de résidence"@fr .
+
+:le_consulat_de_France a schema1:GovernmentOrganization ;
+    rdfs:label "le consulat de France"@fr .
+
+:le_service_des_impots_Vous_exercez a schema1:GovernmentOrganization ;
+    rdfs:label "le service des impôts Vous exercez"@fr .
+
+:les_Autorites_Administratives a schema1:GovernmentOrganization ;
+    rdfs:label "les Autorités Administratives"@fr .
+
+:les_ecoles_francaises_au_Maroc a schema1:GovernmentOrganization ;
+    rdfs:label "les écoles françaises au Maroc"@fr .
+
+:Aid_Al_Mawlid_Jeudi a schema1:Person ;
+    rdfs:label "Aïd Al Mawlid Jeudi"@fr,
+        "Aïd Al Mawlid* Jeudi"@fr .
+
+:Blinklist a schema1:Organization ;
+    rdfs:label "Blinklist"@fr .
+
+:Google_Maps a schema1:Organization ;
+    rdfs:label "Google Maps"@fr .
+
+:La_CNIE a schema1:GovernmentOrganization ;
+    rdfs:label "La CNIE"@fr .
+
+:Marrakech a schema1:Place ;
+    rdfs:label "Marrakech"@fr ;
+    :related_to :Gueliz .
+
+:Nador a schema1:GovernmentOrganization ;
+    rdfs:label "Nador"@fr .
+
+:Rabat a schema1:Place ;
+    rdfs:label "Rabat"@fr ;
+    :de_sont_a_pour :Rabat_Hassan .
+
+:Symbaloo a schema1:Organization ;
+    rdfs:label "Symbaloo"@fr .
+
+:Weibo a schema1:Organization ;
+    rdfs:label "Weibo"@fr .
+
+:les_services_fiscaux_Attestation_bancaire a schema1:GovernmentOrganization ;
+    rdfs:label "les services fiscaux Attestation bancaire"@fr .
+
+:ACCEO a schema1:GovernmentOrganization ;
+    rdfs:label "ACCEO"@fr .
+
+:LiveJournal a schema1:Organization ;
+    rdfs:label "LiveJournal"@fr .
+
+:Telegram a schema1:Organization ;
+    rdfs:label "Telegram"@fr ;
+    :related_to :Yahoo .
+
+:Visa a schema1:GovernmentOrganization ;
+    rdfs:label "Visa"@fr .
+
+:Delicious a schema1:Organization ;
+    rdfs:label "Delicious"@fr .
+
+:France a schema1:Place ;
+    rdfs:label "France"@fr ;
+    :relatedTo :Marrakech ;
+    :related_to :El_Jarrah_Fes_Maroc_Ouvrir,
+        :la_legislation_du_pays_de_residence,
+        :le_consulat_de_France .
+
+:Kik a schema1:Organization ;
+    rdfs:label "Kik"@fr .
+
+:Wykop a schema1:Organization ;
+    rdfs:label "Wykop"@fr .
+
+:Accueil_Prestations_consulaires a schema1:GovernmentOrganization ;
+    rdfs:label "Accueil Prestations consulaires"@fr ;
+    :relatedTo :Formulaire_Droits_de_chancellerie_Presentation .
+
+:CNIE a schema1:GovernmentOrganization ;
+    rdfs:label "CNIE"@fr ;
+    :relatedTo :Passeports,
+        :Visa .
+
+:Ukraine a schema1:Place ;
+    rdfs:label "Ukraine"@fr .
+
+:Plurk a schema1:Organization ;
+    rdfs:label "Plurk"@fr ;
+    :related_to :Slashdot,
+        :Symbaloo,
+        :Weibo,
+        :Yahoo,
+        :Yahoo_Mail .
+
+:Yahoo a schema1:Organization ;
+    rdfs:label "Yahoo"@fr ;
+    :related_to :Yahoo_Mail .
+
+:Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation_Internationale a schema1:GovernmentOrganization ;
+    rdfs:label "Ministère des Affaires Etrangères et de la Coopération Internationale"@fr,
+        "Ministère des Affaires Étrangères et de la Coopération Internationale"@fr ;
+    :related_to :Direction_des_Affaires_Consulaires_et_Sociales .
+
+:Yahoo_Mail a schema1:Organization ;
+    rdfs:label "Yahoo Mail"@fr ;
+    :related_to :AOL_Mail,
+        :Yahoo,
+        :Yahoo_Messenger .
+
+:Duration a owl:Class ;
+    rdfs:comment "A time period or validity duration" ;
+    rdfs:subClassOf owl:Thing .
+

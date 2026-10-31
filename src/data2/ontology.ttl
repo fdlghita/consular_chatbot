@@ -1,0 +1,65 @@
+@prefix : <http://consulat.ma/kg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+:AdministrativeRole a owl:Class ;
+    rdfs:comment "A named administrative role" ;
+    rdfs:subClassOf schema1:Role .
+
+:LegalText a owl:Class ;
+    rdfs:comment "A law or legal reference" ;
+    rdfs:subClassOf schema1:Legislation .
+
+:country a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range schema1:Place ;
+    owl:equivalentProperty wdt:P17 .
+
+:instanceOf a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range owl:Class ;
+    owl:equivalentProperty wdt:P31 .
+
+:isIssuedBy a owl:ObjectProperty ;
+    rdfs:domain schema1:GovernmentOrganization ;
+    rdfs:range :AdministrativeDocument ;
+    owl:equivalentProperty wdt:P176 .
+
+:isLocatedIn a owl:ObjectProperty ;
+    rdfs:domain schema1:GovernmentOrganization ;
+    rdfs:range schema1:Place ;
+    owl:equivalentProperty wdt:P131 .
+
+:ontology a owl:Ontology ;
+    rdfs:label "Moroccan Consular Services Ontology" ;
+    owl:versionInfo "2.0" .
+
+:partOf a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range owl:Thing ;
+    owl:equivalentProperty wdt:P361 .
+
+:relatedTo a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range owl:Thing ;
+    owl:equivalentProperty wdt:P1659 .
+
+:reportsTo a owl:ObjectProperty ;
+    rdfs:domain schema1:GovernmentOrganization ;
+    rdfs:range schema1:GovernmentOrganization ;
+    owl:equivalentProperty wdt:P749 .
+
+:requires a owl:ObjectProperty ;
+    rdfs:domain :ConsularProcedure ;
+    rdfs:range :AdministrativeDocument .
+
+:ConsularProcedure a owl:Class ;
+    rdfs:comment "A consular procedure" ;
+    rdfs:subClassOf owl:Thing .
+
+:AdministrativeDocument a owl:Class ;
+    rdfs:comment "Official document from consular authorities" ;
+    rdfs:subClassOf schema1:CreativeWork .
+

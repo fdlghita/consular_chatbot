@@ -1,0 +1,35 @@
+@prefix : <http://consulat.ma/kg/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+:hasJurisdictionOver a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P1001 .
+
+:isAttachedTo a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P361 .
+
+:isEstablishedBy a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P571 .
+
+:isIssuedBy a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P176 .
+
+:isLocatedIn a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P131 .
+
+:relatedTo a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P1659 .
+
+:reportsTo a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P749 .
+
+:represents a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1001 .
+
+:requires a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P4633 .
+
+:transmitsTo a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P527 .
+

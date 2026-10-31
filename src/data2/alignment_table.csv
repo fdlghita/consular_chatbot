@@ -1,0 +1,180 @@
+private_entity,private_uri,wikidata_qid,wikidata_uri,wiki_label,wiki_description,confidence
+Nationalité,http://consulat.ma/kg/Nationalite,Q231002,http://www.wikidata.org/entity/Q231002,nationality,"a legal identification of a person in international law, establishing the person as a subject, a national, of a sovereign state",0.675
+Passeport,http://consulat.ma/kg/Passeport,Q43812,http://www.wikidata.org/entity/Q43812,passport,travel document usually issued by a country's government,0.675
+Apostille,http://consulat.ma/kg/Apostille,Q309473,http://www.wikidata.org/entity/Q309473,apostille,international certification comparable to a notarisation in domestic law,0.775
+Afghanistan,http://consulat.ma/kg/Afghanistan,Q889,http://www.wikidata.org/entity/Q889,Afghanistan,country in Central and South Asia,0.975
+Angola,http://consulat.ma/kg/Angola,Q916,http://www.wikidata.org/entity/Q916,Angola,country on the west coast of Southern Africa,0.975
+Bahamas,http://consulat.ma/kg/Bahamas,Q778,http://www.wikidata.org/entity/Q778,The Bahamas,island sovereign state in the West Indies,0.866
+Bahreïn,http://consulat.ma/kg/Bahrein,Q398,http://www.wikidata.org/entity/Q398,Bahrain,country in the Persian Gulf,0.675
+Bangladesh,http://consulat.ma/kg/Bangladesh,Q902,http://www.wikidata.org/entity/Q902,Bangladesh,country in South Asia,0.975
+Barbade,http://consulat.ma/kg/Barbade,Q244,http://www.wikidata.org/entity/Q244,Barbados,island nation in the Caribbean,0.675
+Botswana,http://consulat.ma/kg/Botswana,Q963,http://www.wikidata.org/entity/Q963,Botswana,sovereign state in Southern Africa,0.975
+Bulgarie,http://consulat.ma/kg/Bulgarie,Q219,http://www.wikidata.org/entity/Q219,Bulgaria,country in Southeast Europe,0.675
+Burkina Faso,http://consulat.ma/kg/Burkina_Faso,Q965,http://www.wikidata.org/entity/Q965,Burkina Faso,sovereign state in Africa,0.975
+Canada,http://consulat.ma/kg/Canada,Q16,http://www.wikidata.org/entity/Q16,Canada,country in North America,0.975
+Corée du Nord,http://consulat.ma/kg/Coree_du_Nord,Q423,http://www.wikidata.org/entity/Q423,North Korea,Sovereign state in East Asia,0.675
+Cuba,http://consulat.ma/kg/Cuba,Q241,http://www.wikidata.org/entity/Q241,Cuba,sovereign state situated on an island in the Caribbean Sea,0.975
+Danemark,http://consulat.ma/kg/Danemark,Q35,http://www.wikidata.org/entity/Q35,Denmark,country in Northern Europe and North America,0.675
+France,http://consulat.ma/kg/France,Q142,http://www.wikidata.org/entity/Q142,France,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",0.975
+Ghana,http://consulat.ma/kg/Ghana,Q117,http://www.wikidata.org/entity/Q117,Ghana,country in West Africa,0.975
+Guatemala,http://consulat.ma/kg/Guatemala,Q774,http://www.wikidata.org/entity/Q774,Guatemala,sovereign state in Central America,0.975
+Honduras,http://consulat.ma/kg/Honduras,Q783,http://www.wikidata.org/entity/Q783,Honduras,sovereign state in Central America,0.975
+Iran,http://consulat.ma/kg/Iran,Q794,http://www.wikidata.org/entity/Q794,Iran,country in Western Asia,0.975
+Kazakhstan,http://consulat.ma/kg/Kazakhstan,Q232,http://www.wikidata.org/entity/Q232,Kazakhstan,sovereign state in Eastern Europe and Central Asia,0.975
+Kenya,http://consulat.ma/kg/Kenya,Q114,http://www.wikidata.org/entity/Q114,Kenya,country in Eastern Africa,0.975
+Kirghizistan,http://consulat.ma/kg/Kirghizistan,Q813,http://www.wikidata.org/entity/Q813,Kyrgyzstan,sovereign state in Central Asia,0.675
+Laos,http://consulat.ma/kg/Laos,Q819,http://www.wikidata.org/entity/Q819,Laos,country in Southeast Asia,0.975
+Lesotho,http://consulat.ma/kg/Lesotho,Q1013,http://www.wikidata.org/entity/Q1013,Lesotho,sovereign state in southern Africa,0.975
+Luxembourg,http://consulat.ma/kg/Luxembourg,Q32,http://www.wikidata.org/entity/Q32,Luxembourg,country in Western Europe,0.975
+Madagascar,http://consulat.ma/kg/Madagascar,Q1019,http://www.wikidata.org/entity/Q1019,Madagascar,"island sovereign state off the coast of Southeast Africa, in the Indian Ocean",0.975
+Maldives,http://consulat.ma/kg/Maldives,Q826,http://www.wikidata.org/entity/Q826,Maldives,"sovereign state in South Asia, situated on an archipelago in the Arabian Sea",0.975
+Mali,http://consulat.ma/kg/Mali,Q912,http://www.wikidata.org/entity/Q912,Mali,country in West Africa,0.975
+Malte,http://consulat.ma/kg/Malte,Q233,http://www.wikidata.org/entity/Q233,Malta,country in Southern Europe situated on an archipelago in the Mediterranean Sea,0.6
+Mauritanie,http://consulat.ma/kg/Mauritanie,Q1025,http://www.wikidata.org/entity/Q1025,Mauritania,sovereign state in West Africa and North Africa,0.675
+Moldavie,http://consulat.ma/kg/Moldavie,Q217,http://www.wikidata.org/entity/Q217,Moldova,country in Eastern Europe,0.675
+Monaco,http://consulat.ma/kg/Monaco,Q235,http://www.wikidata.org/entity/Q235,Monaco,microstate in Western Europe,0.775
+Mongolie,http://consulat.ma/kg/Mongolie,Q711,http://www.wikidata.org/entity/Q711,Mongolia,country in East Asia,0.675
+Mozambique,http://consulat.ma/kg/Mozambique,Q1029,http://www.wikidata.org/entity/Q1029,Mozambique,country in Southeastern Africa; the current form of Mozambique since 1975,0.975
+Myanmar,http://consulat.ma/kg/Myanmar,Q836,http://www.wikidata.org/entity/Q836,Myanmar,country in Southeast Asia,0.975
+Nicaragua,http://consulat.ma/kg/Nicaragua,Q811,http://www.wikidata.org/entity/Q811,Nicaragua,sovereign state in Central America,0.975
+Niger,http://consulat.ma/kg/Niger,Q503932,http://www.wikidata.org/entity/Q503932,Niger State,state in Nigeria,0.811
+Nouvelle-Zélande,http://consulat.ma/kg/Nouvelle_Zelande,Q664,http://www.wikidata.org/entity/Q664,New Zealand,island country in the southwest Pacific Ocean,0.675
+Oman,http://consulat.ma/kg/Oman,Q842,http://www.wikidata.org/entity/Q842,Oman,sovereign state in western Asia,0.975
+Ouganda,http://consulat.ma/kg/Ouganda,Q1036,http://www.wikidata.org/entity/Q1036,Uganda,country in East Africa,0.932
+Ouzbékistan,http://consulat.ma/kg/Ouzbekistan,Q265,http://www.wikidata.org/entity/Q265,Uzbekistan,sovereign state in Central Asia,0.675
+Pakistan,http://consulat.ma/kg/Pakistan,Q843,http://www.wikidata.org/entity/Q843,Pakistan,sovereign state in South Asia,0.975
+Palau,http://consulat.ma/kg/Palau,Q695,http://www.wikidata.org/entity/Q695,Palau,island sovereign state in Oceania,0.975
+Palestine,http://consulat.ma/kg/Palestine,Q219060,http://www.wikidata.org/entity/Q219060,Palestine,country in West Asia,0.975
+Panama,http://consulat.ma/kg/Panama,Q804,http://www.wikidata.org/entity/Q804,Panama,sovereign state in Central America,0.975
+Paraguay,http://consulat.ma/kg/Paraguay,Q733,http://www.wikidata.org/entity/Q733,Paraguay,sovereign state in South America,0.975
+Philippines,http://consulat.ma/kg/Philippines,Q928,http://www.wikidata.org/entity/Q928,Philippines,archipelagic country in Southeast Asia,0.975
+Pologne,http://consulat.ma/kg/Pologne,Q36,http://www.wikidata.org/entity/Q36,Poland,country in Central Europe,0.675
+Porto Rico,http://consulat.ma/kg/Porto_Rico,Q1985148,http://www.wikidata.org/entity/Q1985148,Porto Rico,"municipality of Paraná state, Brazil",0.9
+Portugal,http://consulat.ma/kg/Portugal,Q45,http://www.wikidata.org/entity/Q45,Portugal,country in Southwestern Europe,0.975
+Qatar,http://consulat.ma/kg/Qatar,Q846,http://www.wikidata.org/entity/Q846,Qatar,country in West Asia,0.975
+République du Congo,http://consulat.ma/kg/Republique_du_Congo,Q971,http://www.wikidata.org/entity/Q971,Republic of the Congo,"country in Central Africa, capital Brazzaville",0.725
+Sierra Leone,http://consulat.ma/kg/Sierra_Leone,Q1044,http://www.wikidata.org/entity/Q1044,Sierra Leone,sovereign state in West Africa,0.975
+Soudan du Sud,http://consulat.ma/kg/Soudan_du_Sud,Q958,http://www.wikidata.org/entity/Q958,South Sudan,country in East Africa,0.675
+Sri Lanka,http://consulat.ma/kg/Sri_Lanka,Q854,http://www.wikidata.org/entity/Q854,Sri Lanka,island country in South Asia,0.975
+Swaziland,http://consulat.ma/kg/Swaziland,Q1050,http://www.wikidata.org/entity/Q1050,Eswatini,sovereign state in southern Africa,0.675
+Trinité-et-Tobago,http://consulat.ma/kg/Trinite_et_Tobago,Q754,http://www.wikidata.org/entity/Q754,Trinidad and Tobago,island sovereign state in the Caribbean,0.675
+Ukraine,http://consulat.ma/kg/Ukraine,Q212,http://www.wikidata.org/entity/Q212,Ukraine,country in Eastern Europe,0.975
+Uruguay,http://consulat.ma/kg/Uruguay,Q77,http://www.wikidata.org/entity/Q77,Uruguay,sovereign state in South America,0.975
+Vanuatu,http://consulat.ma/kg/Vanuatu,Q686,http://www.wikidata.org/entity/Q686,Vanuatu,island country in Oceania,0.975
+Venezuela,http://consulat.ma/kg/Venezuela,Q717,http://www.wikidata.org/entity/Q717,Venezuela,country in South America,0.975
+Vietnam,http://consulat.ma/kg/Vietnam,Q881,http://www.wikidata.org/entity/Q881,Vietnam,country in Southeast Asia,0.975
+Zimbabwe,http://consulat.ma/kg/Zimbabwe,Q954,http://www.wikidata.org/entity/Q954,Zimbabwe,sovereign state in southern Africa,0.975
+Conservation Foncière,http://consulat.ma/kg/Conservation_Fonciere,Q2994455,http://www.wikidata.org/entity/Q2994455,Conservation foncière,,0.775
+Pays-Bas,http://consulat.ma/kg/Pays_Bas,Q55,http://www.wikidata.org/entity/Q55,Netherlands,one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean,0.675
+Royaume-Uni,http://consulat.ma/kg/Royaume_Uni,Q145,http://www.wikidata.org/entity/Q145,United Kingdom,island country in north-west Europe,0.675
+Antigua-et-Barbuda,http://consulat.ma/kg/Antigua_et_Barbuda,Q781,http://www.wikidata.org/entity/Q781,Antigua and Barbuda,island sovereign state in the Caribbean Sea,0.675
+Burundi,http://consulat.ma/kg/Burundi,Q967,http://www.wikidata.org/entity/Q967,Burundi,sovereign state in Africa,0.975
+Costa Rica,http://consulat.ma/kg/Costa_Rica,Q800,http://www.wikidata.org/entity/Q800,Costa Rica,country in Central America,0.975
+Liechtenstein,http://consulat.ma/kg/Liechtenstein,Q347,http://www.wikidata.org/entity/Q347,Liechtenstein,country in Central Europe,0.975
+Lituanie,http://consulat.ma/kg/Lituanie,Q37,http://www.wikidata.org/entity/Q37,Lithuania,country in northeastern Europe,0.675
+Macédoine,http://consulat.ma/kg/Macedoine,Q221,http://www.wikidata.org/entity/Q221,North Macedonia,country in southeastern Europe,0.675
+Mexique,http://consulat.ma/kg/Mexique,Q96,http://www.wikidata.org/entity/Q96,Mexico,country in North America,0.675
+Papouasie-Nouvelle-Guinée,http://consulat.ma/kg/Papouasie_Nouvelle_Guinee,Q691,http://www.wikidata.org/entity/Q691,Papua New Guinea,country in Oceania,0.675
+Sao Tomé-et-Principe,http://consulat.ma/kg/Sao_Tome_et_Principe,Q1039,http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe,island sovereign state in Africa,0.675
+Soudan du Sud,http://consulat.ma/kg/Soudan_du_Sud,Q958,http://www.wikidata.org/entity/Q958,South Sudan,country in East Africa,0.675
+Suriname,http://consulat.ma/kg/Suriname,Q730,http://www.wikidata.org/entity/Q730,Suriname,country in South America,0.975
+Syrie,http://consulat.ma/kg/Syrie,Q858,http://www.wikidata.org/entity/Q858,Syria,country in West Asia,0.675
+Tadjikistan,http://consulat.ma/kg/Tadjikistan,Q863,http://www.wikidata.org/entity/Q863,Tajikistan,sovereign state in Central Asia,0.675
+Tanzanie,http://consulat.ma/kg/Tanzanie,Q924,http://www.wikidata.org/entity/Q924,Tanzania,country in East Africa,0.675
+Tchad,http://consulat.ma/kg/Tchad,Q657,http://www.wikidata.org/entity/Q657,Chad,sovereign state in central Africa,0.915
+Tunisie,http://consulat.ma/kg/Tunisie,Q948,http://www.wikidata.org/entity/Q948,Tunisia,country in North Africa,0.675
+Turkménistan,http://consulat.ma/kg/Turkmenistan,Q874,http://www.wikidata.org/entity/Q874,Turkmenistan,country in Central Asia,0.675
+Reddit,http://consulat.ma/kg/Reddit,Q1136,http://www.wikidata.org/entity/Q1136,Reddit,American social news aggregation website and discussion portal,0.775
+Amazon,http://consulat.ma/kg/Amazon,Q3884,http://www.wikidata.org/entity/Q3884,Amazon,American multinational technology company,0.775
+AOL,http://consulat.ma/kg/AOL,Q27585,http://www.wikidata.org/entity/Q27585,AOL,American web portal and online service provider,0.975
+Delicious,http://consulat.ma/kg/Delicious,Q329192,http://www.wikidata.org/entity/Q329192,Delicious,social bookmarking web service,0.975
+Kakao,http://consulat.ma/kg/Kakao,Q17684312,http://www.wikidata.org/entity/Q17684312,Kakao,South Korean internet company,0.775
+Kik,http://consulat.ma/kg/Kik,Q883965,http://www.wikidata.org/entity/Q883965,KiK,German multinational discount chain of clothing and housewares stores,0.775
+LiveJournal,http://consulat.ma/kg/LiveJournal,Q219523,http://www.wikidata.org/entity/Q219523,LiveJournal,Russian social networking service,0.975
+Plurk,http://consulat.ma/kg/Plurk,Q32111,http://www.wikidata.org/entity/Q32111,Plurk,social networking and micro-blogging service,0.975
+Sina,http://consulat.ma/kg/Sina,Q80252,http://www.wikidata.org/entity/Q80252,Sinaloa,state of Mexico,0.696
+Weibo,http://consulat.ma/kg/Weibo,Q92526,http://www.wikidata.org/entity/Q92526,Weibo,Chinese microblogging website,0.775
+Skype,http://consulat.ma/kg/Skype,Q40984,http://www.wikidata.org/entity/Q40984,Skype,former telecommunications software service,0.975
+Slashdot,http://consulat.ma/kg/Slashdot,Q59083,http://www.wikidata.org/entity/Q59083,Slashdot,technology-related news website (launched 1997),0.775
+Symbaloo,http://consulat.ma/kg/Symbaloo,Q20010884,http://www.wikidata.org/entity/Q20010884,Symbaloo,web application,0.775
+Tuenti,http://consulat.ma/kg/Tuenti,Q609524,http://www.wikidata.org/entity/Q609524,Tuenti,Telefónica's virtual mobile operator in Spain and Latin America,0.775
+Wanelo,http://consulat.ma/kg/Wanelo,Q134687175,http://www.wikidata.org/entity/Q134687175,Wanelo,,0.775
+Wykop,http://consulat.ma/kg/Wykop,Q8039882,http://www.wikidata.org/entity/Q8039882,wykop.pl,Polish online news aggregator and micro-blogging service,0.788
+Yahoo,http://consulat.ma/kg/Yahoo,Q37093,http://www.wikidata.org/entity/Q37093,Yahoo,web portal and search engine,0.775
+Yahoo Mail,http://consulat.ma/kg/Yahoo_Mail,Q868165,http://www.wikidata.org/entity/Q868165,Yahoo! Mail,American email service,0.775
+Yoolink,http://consulat.ma/kg/Yoolink,Q3572554,http://www.wikidata.org/entity/Q3572554,Yoolink,,0.775
+AOL Mail,http://consulat.ma/kg/AOL_Mail,Q1144220,http://www.wikidata.org/entity/Q1144220,AOL Mail,free web-based email service provided by AOL,0.975
+Passeports,http://consulat.ma/kg/Passeports,Q337474,http://www.wikidata.org/entity/Q337474,Nansen passport,passport for stateless refugees,0.675
+Care2,http://consulat.ma/kg/Care2,Q5038828,http://www.wikidata.org/entity/Q5038828,Care2,activism website,0.775
+Google Bookmarks,http://consulat.ma/kg/Google_Bookmarks,Q3238742,http://www.wikidata.org/entity/Q3238742,Google Bookmarks,defunct online bookmarking service (2005–2021),0.975
+Pusha,http://consulat.ma/kg/Pusha,Q2329709,http://www.wikidata.org/entity/Q2329709,Pusha T,American rapper and record executive,0.689
+Renren,http://consulat.ma/kg/Renren,Q784022,http://www.wikidata.org/entity/Q784022,Renren,Chinese social networking service,0.975
+Telegram,http://consulat.ma/kg/Telegram,Q32049814,http://www.wikidata.org/entity/Q32049814,Telegram FZ-LLC,non-profit organization; Telegram messaging service operator,0.835
+Viadeo,http://consulat.ma/kg/Viadeo,Q181592,http://www.wikidata.org/entity/Q181592,JDN Viadeo,social networking service,0.855
+Sidi,http://consulat.ma/kg/Sidi,Q7508824,http://www.wikidata.org/entity/Q7508824,Sidi,"Sidi is a Bantu language of Pakistan and India, related to Swahili.",0.7
+Lalla,http://consulat.ma/kg/Lalla,Q3216532,http://www.wikidata.org/entity/Q3216532,Lalla,Berberian's civility title,0.775
+Threema,http://consulat.ma/kg/Threema,Q13512316,http://www.wikidata.org/entity/Q13512316,Threema,Instant messaging smartphone app,0.775
+Kafala,http://consulat.ma/kg/Kafala,Q1721015,http://www.wikidata.org/entity/Q1721015,Kafala system,system used to monitor migrant laborers in Arab countries,0.613
+Maroc,http://consulat.ma/kg/Maroc,Q1028,http://www.wikidata.org/entity/Q1028,Morocco,sovereign state in North Africa,0.675
+Émirats arabes,http://consulat.ma/kg/Emirats_arabes,Q878,http://www.wikidata.org/entity/Q878,United Arab Emirates,country in Western Asia,0.675
+Rabat,http://consulat.ma/kg/Rabat,Q3551,http://www.wikidata.org/entity/Q3551,Rabat,capital city of Morocco,0.975
+Maroc,http://consulat.ma/kg/Maroc,Q1028,http://www.wikidata.org/entity/Q1028,Morocco,sovereign state in North Africa,0.675
+Ministère des Affaires Étrangères,http://consulat.ma/kg/Ministere_des_Affaires_Etrangeres,Q789848,http://www.wikidata.org/entity/Q789848,Ministry for Europe and Foreign Affairs,French Ministry,0.6
+la Mission Diplomatique,http://consulat.ma/kg/la_Mission_Diplomatique,Q17360091,http://www.wikidata.org/entity/Q17360091,La Mission diplomatique du général Lannes,,0.643
+Odnoklassniki,http://consulat.ma/kg/Odnoklassniki,Q1123836,http://www.wikidata.org/entity/Q1123836,Odnoklassniki,social networking service,0.975
+Tumblr,http://consulat.ma/kg/Tumblr,Q384060,http://www.wikidata.org/entity/Q384060,Tumblr,microblogging platform and social networking website,0.775
+Carte de séjour,http://consulat.ma/kg/Carte_de_sejour,Q2940510,http://www.wikidata.org/entity/Q2940510,Carte de Séjour,French rock band,0.775
+MRE,http://consulat.ma/kg/MRE,Q4201225,http://www.wikidata.org/entity/Q4201225,Mrebet,"district in Purbalingga Regency, Central Java Province, Indonesia",0.825
+Balatarin,http://consulat.ma/kg/Balatarin,Q3943935,http://www.wikidata.org/entity/Q3943935,Balatarin,persian language social and political link-sharing website,0.775
+Yummly,http://consulat.ma/kg/Yummly,Q8061140,http://www.wikidata.org/entity/Q8061140,Yummly,food discovery platform,0.775
+Passeport biométrique,http://consulat.ma/kg/Passeport_biometrique,Q623045,http://www.wikidata.org/entity/Q623045,biometric passport,traditional passport that has an embedded electronic microprocessor chip,0.675
+Belgique,http://consulat.ma/kg/Belgique,Q31,http://www.wikidata.org/entity/Q31,Belgium,country in western Europe,0.675
+Arabie Saoudite,http://consulat.ma/kg/Arabie_Saoudite,Q851,http://www.wikidata.org/entity/Q851,Saudi Arabia,country in West Asia,0.675
+Tanger,http://consulat.ma/kg/Tanger,Q126148,http://www.wikidata.org/entity/Q126148,Tangier,"city in and capital of Tanger-Tetouan-Al Hoceima, Morocco",0.675
+Nador,http://consulat.ma/kg/Nador,Q824594,http://www.wikidata.org/entity/Q824594,Nador,Moroccan town located in the Eastern Rif in the Iqel'iyen (Imazouzen) region,0.975
+Mellal,http://consulat.ma/kg/Mellal,Q131364923,http://www.wikidata.org/entity/Q131364923,Mellala,imada of Tunisia,0.732
+Agadir,http://consulat.ma/kg/Agadir,Q170525,http://www.wikidata.org/entity/Q170525,Agadir,city in Morocco,0.975
+Pinterest,http://consulat.ma/kg/Pinterest,Q255381,http://www.wikidata.org/entity/Q255381,Pinterest,American photo sharing and publishing website,0.775
+État,http://consulat.ma/kg/Etat,Q7275,http://www.wikidata.org/entity/Q7275,state,"organised community living under a system of government; either a sovereign state, constituent state, or federated state",0.675
+Bulletin,http://consulat.ma/kg/Bulletin,Q88163834,http://www.wikidata.org/entity/Q88163834,bulletin,"short report, especially one released through official channels to be broadcast or publicized",0.775
+Casablanca,http://consulat.ma/kg/Casablanca,Q7903,http://www.wikidata.org/entity/Q7903,Casablanca,largest city of Morocco,0.975
+Marrakech,http://consulat.ma/kg/Marrakech,Q101625,http://www.wikidata.org/entity/Q101625,Marrakesh,"city in Marrakesh-Safi, Morocco",0.675
+Guéliz,http://consulat.ma/kg/Gueliz,Q3122412,http://www.wikidata.org/entity/Q3122412,Guéliz,,0.775
+Kindle,http://consulat.ma/kg/Kindle,Q136469,http://www.wikidata.org/entity/Q136469,Amazon Kindle,e-book reading device,0.613
+Ministère des Affaires Étrangères et de la Coopération,http://consulat.ma/kg/Ministere_des_Affaires_Etrangeres_et_de_la_Cooperation,Q6866981,http://www.wikidata.org/entity/Q6866981,"Ministry of Foreign Affairs, Cooperation and African Integration",ministry of Niger,0.6
+États-Unis,http://consulat.ma/kg/Etats_Unis,Q30,http://www.wikidata.org/entity/Q30,United States,country located primarily in North America,0.675
+Burkina-Faso,http://consulat.ma/kg/Burkina_Faso,Q965,http://www.wikidata.org/entity/Q965,Burkina Faso,sovereign state in Africa,0.675
+Afrique du Nord,http://consulat.ma/kg/Afrique_du_Nord,Q27381,http://www.wikidata.org/entity/Q27381,North Africa,northernmost region of the African continent,0.675
+université,http://consulat.ma/kg/universite,Q3918,http://www.wikidata.org/entity/Q3918,university,academic institution for further education,0.675
+Sainte-Cécile-les-Vignes,http://consulat.ma/kg/Sainte_Cecile_les_Vignes,Q28497140,http://www.wikidata.org/entity/Q28497140,Sainte-Cécile-les-Vignes,,0.7
+Suisse,http://consulat.ma/kg/Suisse,Q39,http://www.wikidata.org/entity/Q39,Switzerland,country in Central Europe,0.675
+Islande,http://consulat.ma/kg/Islande,Q189,http://www.wikidata.org/entity/Q189,Iceland,Nordic island country in the North Atlantic Ocean,0.675
+Mayotte,http://consulat.ma/kg/Mayotte,Q17063,http://www.wikidata.org/entity/Q17063,Mayotte,French overseas region and department located in the Indian Ocean,0.975
+France Travail,http://consulat.ma/kg/France_Travail,Q8901192,http://www.wikidata.org/entity/Q8901192,France Travail,"French governmental agency which registers unemployed people, helps them find jobs and provides them with financial aid",0.775
+Paris,http://consulat.ma/kg/Paris,Q90,http://www.wikidata.org/entity/Q90,Paris,capital and most populous city in France,0.975
+Maroc,http://consulat.ma/kg/Maroc,Q1028,http://www.wikidata.org/entity/Q1028,Morocco,sovereign state in North Africa,0.675
+République centrafricaine,http://consulat.ma/kg/Republique_centrafricaine,Q929,http://www.wikidata.org/entity/Q929,Central African Republic,country in Central Africa,0.675
+Sénégal,http://consulat.ma/kg/Senegal,Q1041,http://www.wikidata.org/entity/Q1041,Senegal,country on the coast of West Africa,0.675
+le Burkina Faso,http://consulat.ma/kg/le_Burkina_Faso,Q965,http://www.wikidata.org/entity/Q965,Burkina Faso,sovereign state in Africa,0.915
+la Côte d'Ivoire,http://consulat.ma/kg/la_Cote_dIvoire,Q19182533,http://www.wikidata.org/entity/Q19182533,La Côte d’Ivoire,,0.625
+le Gabon,http://consulat.ma/kg/le_Gabon,Q1000,http://www.wikidata.org/entity/Q1000,Gabon,country on the Atlantic coast of Central Africa,0.863
+le Sénégal,http://consulat.ma/kg/le_Senegal,Q56480478,http://www.wikidata.org/entity/Q56480478,Le Sénégal,article published in the Revue des Deux Mondes,0.775
+Togo,http://consulat.ma/kg/Togo,Q945,http://www.wikidata.org/entity/Q945,Togo,country in West Africa,0.975
+la France,http://consulat.ma/kg/la_France,Q142,http://www.wikidata.org/entity/Q142,France,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",0.875
+Paypal,http://consulat.ma/kg/Paypal,Q483959,http://www.wikidata.org/entity/Q483959,PayPal,American worldwide online payments system,0.775
+American Express,http://consulat.ma/kg/American_Express,Q194360,http://www.wikidata.org/entity/Q194360,American Express,American multinational financial services corporation,0.775
+kafala,http://consulat.ma/kg/kafala,Q1721015,http://www.wikidata.org/entity/Q1721015,Kafala system,system used to monitor migrant laborers in Arab countries,0.613
+Algérie,http://consulat.ma/kg/Algerie,Q262,http://www.wikidata.org/entity/Q262,Algeria,country in North Africa,0.675
+Google Maps,http://consulat.ma/kg/Google_Maps,Q4558504,http://www.wikidata.org/entity/Q4558504,Google Maps,mobile app by Google,0.775
+Aymeric CHUZEVILLE,http://consulat.ma/kg/Aymeric_CHUZEVILLE,Q47657010,http://www.wikidata.org/entity/Q47657010,Aymeric Chuzeville,French diplomat,0.775
+MEAE,http://consulat.ma/kg/MEAE,Q789848,http://www.wikidata.org/entity/Q789848,Ministry for Europe and Foreign Affairs,French Ministry,0.675
+Casablanca-Settat,http://consulat.ma/kg/Casablanca_Settat,Q19843788,http://www.wikidata.org/entity/Q19843788,Casablanca-Settat,region of Morocco,0.975
+Le Consulat,http://consulat.ma/kg/Le_Consulat,Q103844498,http://www.wikidata.org/entity/Q103844498,Le Consulat,"restaurant in Montmartre, Paris",0.775
+Guelmim Oued Noun,http://consulat.ma/kg/Guelmim_Oued_Noun,Q19951051,http://www.wikidata.org/entity/Q19951051,Guelmim-Oued Noun,region of Morocco,0.75
+Fête de la jeunesse,http://consulat.ma/kg/Fete_de_la_jeunesse,Q30024992,http://www.wikidata.org/entity/Q30024992,Fête de la jeunesse,entry in Dictionnaire du patrimoine rennais,0.775
+Olivier Ramadour,http://consulat.ma/kg/Olivier_Ramadour,Q134452404,http://www.wikidata.org/entity/Q134452404,Olivier Ramadour,,0.775
+Viber,http://consulat.ma/kg/Viber,Q332707,http://www.wikidata.org/entity/Q332707,Viber,cross-platform instant messaging voice-over-Internet Protocol application for smartphones,0.775
+Marrakesh,http://consulat.ma/kg/Marrakesh,Q101625,http://www.wikidata.org/entity/Q101625,Marrakesh,"city in Marrakesh-Safi, Morocco",0.975
+Driouch,http://consulat.ma/kg/Driouch,Q1259122,http://www.wikidata.org/entity/Q1259122,Driouch,Moroccan city located in the central Rif in the Mtalsa region,0.975
+Nador,http://consulat.ma/kg/Nador,Q824594,http://www.wikidata.org/entity/Q824594,Nador,Moroccan town located in the Eastern Rif in the Iqel'iyen (Imazouzen) region,0.975
+Tanger,http://consulat.ma/kg/Tanger,Q126148,http://www.wikidata.org/entity/Q126148,Tangier,"city in and capital of Tanger-Tetouan-Al Hoceima, Morocco",0.675
