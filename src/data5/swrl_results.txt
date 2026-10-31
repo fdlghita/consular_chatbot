@@ -1,0 +1,63 @@
+============================================================
+Résultats SWRL — simulation rdflib
+============================================================
+
+Règle A : ConsularOffice(?o) ∧ isLocatedIn(?o,?c) ∧ isIssuedBy(?d,?o) → issues(?o,?d)
+Règle B : ConsularProcedure(?p) ∧ requires(?p,?d) ∧ isIssuedBy(?d,?o) → canBeSubmittedTo(?p,?o)
+
+Total triples inférés : 10012
+  Règle A : 10012
+  Règle B : 0
+
+Exemples (50 premiers) :
+
+  RULE_A: Q3357931  →[issues]→  Q1820589
+  RULE_A: Q3051316  →[issues]→  Q1820589
+  RULE_A: Q18170006  →[issues]→  Q1820589
+  RULE_A: Q16826399  →[issues]→  Q1820589
+  RULE_A: Q3364458  →[issues]→  Q1820589
+  RULE_A: Q17011331  →[issues]→  Q1820589
+  RULE_A: Q2840975  →[issues]→  Q1820589
+  RULE_A: Q2031586  →[issues]→  Q1820589
+  RULE_A: Q2876499  →[issues]→  Q1820589
+  RULE_A: Q12184357  →[issues]→  Q1820589
+  RULE_A: Q20389772  →[issues]→  Q1820589
+  RULE_A: Q3194663  →[issues]→  Q1820589
+  RULE_A: Q20390084  →[issues]→  Q1820589
+  RULE_A: Q3325534  →[issues]→  Q1820589
+  RULE_A: Q2884993  →[issues]→  Q1820589
+  RULE_A: Q990115  →[issues]→  Q1820589
+  RULE_A: Q28874768  →[issues]→  Q1820589
+  RULE_A: Q17019262  →[issues]→  Q1820589
+  RULE_A: Q16525603  →[issues]→  Q1820589
+  RULE_A: Q20390177  →[issues]→  Q1820589
+  RULE_A: Q3195491  →[issues]→  Q1820589
+  RULE_A: Q2827329  →[issues]→  Q1820589
+  RULE_A: Q3528320  →[issues]→  Q1820589
+  RULE_A: Q2291564  →[issues]→  Q1820589
+  RULE_A: Q28874800  →[issues]→  Q1820589
+  RULE_A: Q3125514  →[issues]→  Q1820589
+  RULE_A: Q28874670  →[issues]→  Q1820589
+  RULE_A: Q16826207  →[issues]→  Q1820589
+  RULE_A: Q20381232  →[issues]→  Q1820589
+  RULE_A: Q20394656  →[issues]→  Q1820589
+  RULE_A: Q2982325  →[issues]→  Q1820589
+  RULE_A: Q20384841  →[issues]→  Q1820589
+  RULE_A: Q17013263  →[issues]→  Q1820589
+  RULE_A: Q6004090  →[issues]→  Q1072085
+  RULE_A: Q7806771  →[issues]→  Q1072085
+  RULE_A: Q28874790  →[issues]→  Q1072085
+  RULE_A: Q17052204  →[issues]→  Q1072085
+  RULE_A: Q7283388  →[issues]→  Q1072085
+  RULE_A: Q12237396  →[issues]→  Q1072085
+  RULE_A: Q7110281  →[issues]→  Q1072085
+  RULE_A: Q7806641  →[issues]→  Q1072085
+  RULE_A: Q28874852  →[issues]→  Q1072085
+  RULE_A: Q7110419  →[issues]→  Q1072085
+  RULE_A: Q6482766  →[issues]→  Q1072085
+  RULE_A: Q28874859  →[issues]→  Q1072085
+  RULE_A: Q1169798  →[issues]→  Q1072085
+  RULE_A: Q4680871  →[issues]→  Q1072085
+  RULE_A: Q4699239  →[issues]→  Q1072085
+  RULE_A: Q3331944  →[issues]→  Q1072085
+  RULE_A: Q6434808  →[issues]→  Q1072085
